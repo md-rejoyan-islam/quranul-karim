@@ -1,10 +1,17 @@
-import { detailsData, indexOfLang, mainData, revelationLang } from "./api";
+import {
+  detailsData,
+  getIdName,
+  indexOfLang,
+  mainData,
+  revelationLang,
+} from "./api";
 import TitleCard from "@/components/TitleCard";
 
 export default async function Surah({ params }) {
   const lang = "english";
-  const data = await mainData(params.slug);
-  const details = await detailsData(data.id.english);
+  const data = await mainData(params?.slug);
+
+  const details = await detailsData(data?.id);
 
   const revelation = await revelationLang(details.revelation, lang);
 
@@ -12,9 +19,9 @@ export default async function Surah({ params }) {
     <main className="px-4 max-w-[1276px] mx-auto dark:text-[#beccdf]">
       <TitleCard
         name={data.transliteration[lang]}
-        number={data.id[lang]}
+        number={await getIdName(data.id, lang)}
         meaning={data.translation[lang]}
-        verses={data.total_verses}
+        verses={await getIdName(data.total_verses, lang)}
         revelation={revelation}
         lang={lang}
       />

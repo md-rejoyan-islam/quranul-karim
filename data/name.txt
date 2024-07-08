@@ -15,7 +15,7 @@ arabic= آية
 russian= Аят
 
 bengali= টি
-english= Ayat
+english= t 
 french= té
 urdu= ٹی
 chinese= 吨

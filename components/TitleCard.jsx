@@ -9,24 +9,26 @@ export default async function TitleCard({
   lang,
 }) {
   return (
-    <div className="middle flex flex-col justify-end items-center relative">
-      <div className="text__title flex justify-center items-center">
-        <h2 className="">{name}</h2>
-        <span className=" mr-[2px] text-[10px] ml-[6px] ">( {meaning} )</span>
+    <div className="middle flex flex-col justify-end items-center relative pt-4 pb-1 border-b dark:border-slate-800 w-fit mx-auto">
+      <div className=" flex justify-center gap-1 items-center">
+        <h2 className="text-2xl font-semibold">{name}</h2>
+        <span className="text-[12px] mt-[3px]  ">( {meaning} )</span>
       </div>
-      <div className="text__sub__title text-[10px] flex flex-row justify-center items-center mt-[-2px] mb-[-5px]">
+      <div className=" text-[13px] flex flex-row justify-center  items-baseline ">
         <span className="mr-[2px] ">
-          {await revelationLang("surah", lang)}:
+          {await revelationLang("surah", lang)}&#2435;
         </span>
         <li className="mr-[6px] text-[12px] flex">{number}</li>
         <span className="mr-[2px] ml-[2px] mt-[3px]">•</span>
         <span className="mr-[2px] ml-[6px]">
-          {await revelationLang("surah", lang)}
+          {await revelationLang("surah", lang)}&#2435;
         </span>
         <li className="mr-[2px] text-[12px] flex">{verses}</li>
-        <span className="mr-[6px]">টি</span>
+        <span className="mr-[6px]">{await revelationLang("t", lang)}</span>
         <span className="mr-[2px] ml-[2px] mt-[3px]">•</span>
-        <span className="mr-[2px] ml-[6px]">অবতীর্ণঃ</span>
+        <span className="mr-[2px] ml-[6px]">
+          {await revelationLang("Revelation", lang)}&#2435;
+        </span>
         <span className="mr-[2px]">{revelation}</span>
       </div>
     </div>

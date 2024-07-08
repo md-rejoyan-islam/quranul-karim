@@ -1,6 +1,7 @@
 "use client";
 import Link from "next/link";
 import ThemeToggle from "@/components/ThemeToggle";
+import LanguageSwitch from "@/components/LanguageSwitch";
 import Image from "next/image";
 
 export default function Header() {
@@ -25,24 +26,10 @@ export default function Header() {
             />
           </Link>
         </div>
-        <ThemeToggle />
-
-        {/* <button onClick={handleThemeChange} className="h-9 w-9 mr-4 p-[3px]">
-          <Image
-            width={"40"}
-            height={"40"}
-            alt="light_mode_icon"
-            src={"/day.png"}
-            className="w-full h-full dark:hidden "
-          />
-          <Image
-            width={"40"}
-            height={"40"}
-            src={"/night.png"}
-            alt="dark_mode_icon"
-            className="w-full h-full hidden dark:block"
-          />
-        </button> */}
+        <div className="flex items-center gap-1">
+          <LanguageSwitch />
+          <ThemeToggle />
+        </div>
       </div>
     </nav>
   );

@@ -63,3 +63,14 @@ export const indexOfLang = (lang) => {
 
   return index;
 };
+
+export const getIdName = async (number, lang) => {
+  // Get the path of the json file
+  const filePath = path.join(process.cwd(), "/data/number.json");
+  // Read the json file
+  const jsonData = await fsPromises.readFile(filePath);
+  // Parse data as json
+  const objectData = JSON.parse(jsonData);
+
+  return objectData.find((item) => +item["english"] === number)[lang];
+};

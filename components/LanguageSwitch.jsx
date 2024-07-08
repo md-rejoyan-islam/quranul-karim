@@ -1,0 +1,81 @@
+import {
+  Combobox,
+  ComboboxButton,
+  ComboboxInput,
+  ComboboxOption,
+  ComboboxOptions,
+} from "@headlessui/react";
+// import { CheckIcon, ChevronDownIcon } from "@heroicons/react/20/solid";
+import { HiChevronDown } from "react-icons/hi";
+import { HiCheck } from "react-icons/hi";
+
+import clsx from "clsx";
+import { useState } from "react";
+
+export default function LanguageSwitch() {
+  const languages = [
+    { id: 1, name: "English" },
+    { id: 2, name: "Bengali" },
+    { id: 3, name: "Chinese" },
+    { id: 4, name: "Urdu" },
+    { id: 5, name: "Russian" },
+  ];
+
+  const [query, setQuery] = useState("");
+  const [selected, setSelected] = useState(languages[1]);
+
+  const filteredLanguage =
+    query === ""
+      ? languages
+      : languages.filter((language) => {
+          return language.name.toLowerCase().includes(query.toLowerCase());
+        });
+
+  return (
+    <div className="mx-auto  w-32">
+      <Combobox
+        value={selected}
+        onChange={(value) => setSelected(value)}
+        onClose={() => setQuery("")}
+        __demoMode
+      >
+        <div className="relative">
+          <ComboboxInput
+            className={clsx(
+              "w-full rounded-lg border dark:border-none dark:bg-white/5 py-1 pr-8 pl-3 text-sm/6 dark:text-white",
+              "focus:outline-none data-[focus]:outline-2 data-[focus]:-outline-offset-2 dark:data-[focus]:outline-white/25"
+            )}
+            displayValue={(language) => language?.name}
+            onChange={(event) => setQuery(event.target.value)}
+          />
+          <ComboboxButton className="group absolute inset-y-0 right-0 px-2.5">
+            <HiChevronDown className="size-4 dark:fill-white/60 dark:group-data-[hover]:fill-white" />
+          </ComboboxButton>
+        </div>
+
+        <ComboboxOptions
+          anchor="bottom"
+          transition
+          className={clsx(
+            "w-[var(--input-width)] rounded-md border border-white/5 bg-black/10 text-black dark:text-white dark:bg-white/5 p-1 [--anchor-gap:var(--spacing-1)] empty:invisible",
+            "transition duration-100 ease-in data-[leave]:data-[closed]:opacity-0  absolute mt-1  z-[100] "
+          )}
+          style={{
+            top: "80px",
+          }}
+        >
+          {filteredLanguage.map((language) => (
+            <ComboboxOption
+              key={language.id}
+              value={language}
+              className="group flex  items-center gap-2  cursor-pointer  px-3 select-none data-[focus]:bg-white/10"
+            >
+              <HiCheck className="invisible size-4 dark:fill-white group-data-[selected]:visible" />
+              <div className="text-sm/6 dark:text-white">{language.name}</div>
+            </ComboboxOption>
+          ))}
+        </ComboboxOptions>
+      </Combobox>
+    </div>
+  );
+}
