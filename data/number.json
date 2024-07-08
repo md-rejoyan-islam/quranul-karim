@@ -1,0 +1,2576 @@
+[
+  {
+    "bengali": "১",
+    "english": "1",
+    "arabic": "١",
+    "french": "un",
+    "chinese": "一",
+    "russian": "один",
+    "urdu": "ایک"
+  },
+  {
+    "bengali": "২",
+    "english": "2",
+    "arabic": "٢",
+    "french": "deux",
+    "chinese": "二",
+    "russian": "два",
+    "urdu": "دو"
+  },
+  {
+    "bengali": "৩",
+    "english": "3",
+    "arabic": "٣",
+    "french": "trois",
+    "chinese": "三",
+    "russian": "три",
+    "urdu": "تین"
+  },
+  {
+    "bengali": "৪",
+    "english": "4",
+    "arabic": "٤",
+    "french": "quatre",
+    "chinese": "四",
+    "russian": "четыре",
+    "urdu": "چار"
+  },
+  {
+    "bengali": "৫",
+    "english": "5",
+    "arabic": "٥",
+    "french": "cinq",
+    "chinese": "五",
+    "russian": "пять",
+    "urdu": "پانچ"
+  },
+  {
+    "bengali": "৬",
+    "english": "6",
+    "arabic": "٦",
+    "french": "six",
+    "chinese": "六",
+    "russian": "шесть",
+    "urdu": "چھ"
+  },
+  {
+    "bengali": "৭",
+    "english": "7",
+    "arabic": "٧",
+    "french": "sept",
+    "chinese": "七",
+    "russian": "семь",
+    "urdu": "سات"
+  },
+  {
+    "bengali": "৮",
+    "english": "8",
+    "arabic": "٨",
+    "french": "huit",
+    "chinese": "八",
+    "russian": "восемь",
+    "urdu": "آٹھ"
+  },
+  {
+    "bengali": "৯",
+    "english": "9",
+    "arabic": "٩",
+    "french": "neuf",
+    "chinese": "九",
+    "russian": "девять",
+    "urdu": "نو"
+  },
+  {
+    "bengali": "১০",
+    "english": "10",
+    "arabic": "١٠",
+    "french": "dix",
+    "chinese": "十",
+    "russian": "десять",
+    "urdu": "دس"
+  },
+  {
+    "bengali": "১১",
+    "english": "11",
+    "arabic": "١١",
+    "french": "onze",
+    "chinese": "十一",
+    "russian": "одиннадцать",
+    "urdu": "گیارہ"
+  },
+  {
+    "bengali": "১২",
+    "english": "12",
+    "arabic": "١٢",
+    "french": "douze",
+    "chinese": "十二",
+    "russian": "двенадцать",
+    "urdu": "بارہ"
+  },
+  {
+    "bengali": "১৩",
+    "english": "13",
+    "arabic": "١٣",
+    "french": "treize",
+    "chinese": "十三",
+    "russian": "тринадцать",
+    "urdu": "تیرہ"
+  },
+  {
+    "bengali": "১৪",
+    "english": "14",
+    "arabic": "١٤",
+    "french": "quatorze",
+    "chinese": "十四",
+    "russian": "четырнадцать",
+    "urdu": "چودہ"
+  },
+  {
+    "bengali": "১৫",
+    "english": "15",
+    "arabic": "١٥",
+    "french": "quinze",
+    "chinese": "十五",
+    "russian": "пятнадцать",
+    "urdu": "پندرہ"
+  },
+  {
+    "bengali": "১৬",
+    "english": "16",
+    "arabic": "١٦",
+    "french": "seize",
+    "chinese": "十六",
+    "russian": "шестнадцать",
+    "urdu": "سولہ"
+  },
+  {
+    "bengali": "১৭",
+    "english": "17",
+    "arabic": "١٧",
+    "french": "dix-sept",
+    "chinese": "十七",
+    "russian": "семнадцать",
+    "urdu": "سترہ"
+  },
+  {
+    "bengali": "১৮",
+    "english": "18",
+    "arabic": "١٨",
+    "french": "dix-huit",
+    "chinese": "十八",
+    "russian": "восемнадцать",
+    "urdu": "اؠٹھارہ"
+  },
+  {
+    "bengali": "১৯",
+    "english": "19",
+    "arabic": "١٩",
+    "french": "dix-neuf",
+    "chinese": "十九",
+    "russian": "девятнадцать",
+    "urdu": "انیس"
+  },
+  {
+    "bengali": "২০",
+    "english": "20",
+    "arabic": "٢٠",
+    "french": "vingt",
+    "chinese": "二十",
+    "russian": "двадцать",
+    "urdu": "بیس"
+  },
+  {
+    "bengali": "২১",
+    "english": "21",
+    "arabic": "٢١",
+    "french": "vingt et un",
+    "chinese": "二十一",
+    "russian": "двадцать один",
+    "urdu": "اکیس"
+  },
+  {
+    "bengali": "২২",
+    "english": "22",
+    "arabic": "٢٢",
+    "french": "vingt-deux",
+    "chinese": "二十二",
+    "russian": "двадцать два",
+    "urdu": "بائیس"
+  },
+  {
+    "bengali": "২৩",
+    "english": "23",
+    "arabic": "٢٣",
+    "french": "vingt-trois",
+    "chinese": "二十三",
+    "russian": "двадцать три",
+    "urdu": "تیس"
+  },
+  {
+    "bengali": "২৪",
+    "english": "24",
+    "arabic": "٢٤",
+    "french": "vingt-quatre",
+    "chinese": "二十四",
+    "russian": "двадцать четыре",
+    "urdu": "چوبیس"
+  },
+  {
+    "bengali": "২৫",
+    "english": "25",
+    "arabic": "٢٥",
+    "french": "vingt-cinq",
+    "chinese": "二十五",
+    "russian": "двадцать пять",
+    "urdu": "پچیس"
+  },
+  {
+    "bengali": "২৬",
+    "english": "26",
+    "arabic": "٢٦",
+    "french": "vingt-six",
+    "chinese": "二十六",
+    "russian": "двадцать шесть",
+    "urdu": "چھببیس"
+  },
+  {
+    "bengali": "২৭",
+    "english": "27",
+    "arabic": "٢٧",
+    "french": "vingt-sept",
+    "chinese": "二十七",
+    "russian": "двадцать семь",
+    "urdu": "ستائیس"
+  },
+  {
+    "bengali": "২৮",
+    "english": "28",
+    "arabic": "٢٨",
+    "french": "vingt-huit",
+    "chinese": "二十八",
+    "russian": "двадцать восемь",
+    "urdu": "اٹھائیس"
+  },
+  {
+    "bengali": "২৯",
+    "english": "29",
+    "arabic": "٢٩",
+    "french": "vingt-neuf",
+    "chinese": "二十九",
+    "russian": "двадцать девять",
+    "urdu": "انتیس"
+  },
+  {
+    "bengali": "৩০",
+    "english": "30",
+    "arabic": "٣٠",
+    "french": "trente",
+    "chinese": "三十",
+    "russian": "тридцать",
+    "urdu": "تیس"
+  },
+  {
+    "bengali": "৩১",
+    "english": "31",
+    "arabic": "٣١",
+    "french": "trente et un",
+    "chinese": "三十一",
+    "russian": "тридцать один",
+    "urdu": "اکتیس"
+  },
+  {
+    "bengali": "৩২",
+    "english": "32",
+    "arabic": "٣٢",
+    "french": "trente-deux",
+    "chinese": "三十二",
+    "russian": "тридцать два",
+    "urdu": "بتیس"
+  },
+  {
+    "bengali": "৩৩",
+    "english": "33",
+    "arabic": "٣٣",
+    "french": "trente-trois",
+    "chinese": "三十三",
+    "russian": "тридцать три",
+    "urdu": "تیتیس"
+  },
+  {
+    "bengali": "৩৪",
+    "english": "34",
+    "arabic": "٣٤",
+    "french": "trente-quatre",
+    "chinese": "三十四",
+    "russian": "тридцать четыре",
+    "urdu": "چوتیس"
+  },
+  {
+    "bengali": "৩৫",
+    "english": "35",
+    "arabic": "٣٥",
+    "french": "trente-cinq",
+    "chinese": "三十五",
+    "russian": "тридцать пять",
+    "urdu": "پینتیس"
+  },
+  {
+    "bengali": "৩৬",
+    "english": "36",
+    "arabic": "٣٦",
+    "french": "trente-six",
+    "chinese": "三十六",
+    "russian": "тридцать шесть",
+    "urdu": "چھتیس"
+  },
+  {
+    "bengali": "৩৭",
+    "english": "37",
+    "arabic": "٣٧",
+    "french": "trente-sept",
+    "chinese": "三十七",
+    "russian": "тридцать семь",
+    "urdu": "ستیس"
+  },
+  {
+    "bengali": "৩৮",
+    "english": "38",
+    "arabic": "٣٨",
+    "french": "trente-huit",
+    "chinese": "三十八",
+    "russian": "тридцать восемь",
+    "urdu": "اٹھتیس"
+  },
+  {
+    "bengali": "৩৯",
+    "english": "39",
+    "arabic": "٣٩",
+    "french": "trente-neuf",
+    "chinese": "三十九",
+    "russian": "тридцать девять",
+    "urdu": "انتالیس"
+  },
+  {
+    "bengali": "৪০",
+    "english": "40",
+    "arabic": "٤٠",
+    "french": "quarante",
+    "chinese": "四十",
+    "russian": "сорок",
+    "urdu": "چالیس"
+  },
+  {
+    "bengali": "৪১",
+    "english": "41",
+    "arabic": "٤١",
+    "french": "quarante et un",
+    "chinese": "四十一",
+    "russian": "сорок один",
+    "urdu": "اکتالیس"
+  },
+  {
+    "bengali": "৪২",
+    "english": "42",
+    "arabic": "٤٢",
+    "french": "quarante-deux",
+    "chinese": "四十二",
+    "russian": "сорок два",
+    "urdu": "بیالیس"
+  },
+  {
+    "bengali": "৪৩",
+    "english": "43",
+    "arabic": "٤٣",
+    "french": "quarante-trois",
+    "chinese": "四十三",
+    "russian": "сорок три",
+    "urdu": "تینتالیس"
+  },
+  {
+    "bengali": "৪৪",
+    "english": "44",
+    "arabic": "٤٤",
+    "french": "quarante-quatre",
+    "chinese": "四十四",
+    "russian": "сорок четыре",
+    "urdu": "چوالیس"
+  },
+  {
+    "bengali": "৪৫",
+    "english": "45",
+    "arabic": "٤٥",
+    "french": "quarante-cinq",
+    "chinese": "四十五",
+    "russian": "сорок пять",
+    "urdu": "پینتالیس"
+  },
+  {
+    "bengali": "৪৬",
+    "english": "46",
+    "arabic": "٤٦",
+    "french": "quarante-six",
+    "chinese": "四十六",
+    "russian": "сорок шесть",
+    "urdu": "چھیالیس"
+  },
+  {
+    "bengali": "৪৭",
+    "english": "47",
+    "arabic": "٤٧",
+    "french": "quarante-sept",
+    "chinese": "四十七",
+    "russian": "сорок семь",
+    "urdu": "ستالیس"
+  },
+  {
+    "bengali": "৪৮",
+    "english": "48",
+    "arabic": "٤٨",
+    "french": "quarante-huit",
+    "chinese": "四十八",
+    "russian": "сорок восемь",
+    "urdu": "اٹھالیس"
+  },
+  {
+    "bengali": "৪৯",
+    "english": "49",
+    "arabic": "٤٩",
+    "french": "quarante-neuf",
+    "chinese": "四十九",
+    "russian": "сорок девять",
+    "urdu": "انچاس"
+  },
+  {
+    "bengali": "৫০",
+    "english": "50",
+    "arabic": "٥٠",
+    "french": "cinquante",
+    "chinese": "五十",
+    "russian": "пятьдесят",
+    "urdu": "پچاس"
+  },
+  {
+    "bengali": "৫১",
+    "english": "51",
+    "arabic": "٥١",
+    "french": "cinquante et un",
+    "chinese": "五十一",
+    "russian": "пятьдесят один",
+    "urdu": "اکاون"
+  },
+  {
+    "bengali": "৫২",
+    "english": "52",
+    "arabic": "٥٢",
+    "french": "cinquante-deux",
+    "chinese": "五十二",
+    "russian": "пятьдесят два",
+    "urdu": "باون"
+  },
+  {
+    "bengali": "৫৩",
+    "english": "53",
+    "arabic": "٥٣",
+    "french": "cinquante-trois",
+    "chinese": "五十三",
+    "russian": "пятьдесят три",
+    "urdu": "ترپن"
+  },
+  {
+    "bengali": "৫৪",
+    "english": "54",
+    "arabic": "٥٤",
+    "french": "cinquante-quatre",
+    "chinese": "五十四",
+    "russian": "пятьдесят четыре",
+    "urdu": "چونون"
+  },
+  {
+    "bengali": "৫৫",
+    "english": "55",
+    "arabic": "٥٥",
+    "french": "cinquante-cinq",
+    "chinese": "五十五",
+    "russian": "пятьдесят пять",
+    "urdu": "پچپن"
+  },
+  {
+    "bengali": "৫৬",
+    "english": "56",
+    "arabic": "٥٦",
+    "french": "cinquante-six",
+    "chinese": "五十六",
+    "russian": "пятьдесят шесть",
+    "urdu": "چھپن"
+  },
+  {
+    "bengali": "৫৭",
+    "english": "57",
+    "arabic": "٥٧",
+    "french": "cinquante-sept",
+    "chinese": "五十七",
+    "russian": "пятьдесят семь",
+    "urdu": "ستپن"
+  },
+  {
+    "bengali": "৫৮",
+    "english": "58",
+    "arabic": "٥٨",
+    "french": "cinquante-huit",
+    "chinese": "五十八",
+    "russian": "пятьдесят восемь",
+    "urdu": "اٹھپن"
+  },
+  {
+    "bengali": "৫৯",
+    "english": "59",
+    "arabic": "٥٩",
+    "french": "cinquante-neuf",
+    "chinese": "五十九",
+    "russian": "пятьдесят девять",
+    "urdu": "نوہ"
+  },
+  {
+    "bengali": "৬০",
+    "english": "60",
+    "arabic": "٦٠",
+    "french": "soixante",
+    "chinese": "六十",
+    "russian": "шестьдесят",
+    "urdu": "ساٹھ"
+  },
+  {
+    "bengali": "৬১",
+    "english": "61",
+    "arabic": "٦١",
+    "french": "soixante et un",
+    "chinese": "六十一",
+    "russian": "шестьдесят один",
+    "urdu": "اکسٹھ"
+  },
+  {
+    "bengali": "৬২",
+    "english": "62",
+    "arabic": "٦٢",
+    "french": "soixante-deux",
+    "chinese": "六十二",
+    "russian": "шестьдесят два",
+    "urdu": "بیسٹھ"
+  },
+  {
+    "bengali": "৬৩",
+    "english": "63",
+    "arabic": "٦٣",
+    "french": "soixante-trois",
+    "chinese": "六十三",
+    "russian": "шестьдесят три",
+    "urdu": "تیسٹھ"
+  },
+  {
+    "bengali": "৬৪",
+    "english": "64",
+    "arabic": "٦٤",
+    "french": "soixante-quatre",
+    "chinese": "六十四",
+    "russian": "шестьдесят четыре",
+    "urdu": "چونسٹھ"
+  },
+  {
+    "bengali": "৬৫",
+    "english": "65",
+    "arabic": "٦٥",
+    "french": "soixante-cinq",
+    "chinese": "六十五",
+    "russian": "шестьдесят пять",
+    "urdu": "پینسٹھ"
+  },
+  {
+    "bengali": "৬৬",
+    "english": "66",
+    "arabic": "٦٦",
+    "french": "soixante-six",
+    "chinese": "六十六",
+    "russian": "шестьдесят шесть",
+    "urdu": "چھیاسٹھ"
+  },
+  {
+    "bengali": "৬৭",
+    "english": "67",
+    "arabic": "٦٧",
+    "french": "soixante-sept",
+    "chinese": "六十七",
+    "russian": "шестьдесят семь",
+    "urdu": "ستاسٹھ"
+  },
+  {
+    "bengali": "৬৮",
+    "english": "68",
+    "arabic": "٦٨",
+    "french": "soixante-huit",
+    "chinese": "六十八",
+    "russian": "шестьдесят восемь",
+    "urdu": "اٹھاسٹھ"
+  },
+  {
+    "bengali": "৬৯",
+    "english": "69",
+    "arabic": "٦٩",
+    "french": "soixante-neuf",
+    "chinese": "六十九",
+    "russian": "шестьдесят девять",
+    "urdu": "نوہ"
+  },
+  {
+    "bengali": "৭০",
+    "english": "70",
+    "arabic": "٧٠",
+    "french": "soixante-dix",
+    "chinese": "七十",
+    "russian": "семьдесят",
+    "urdu": "سترہ"
+  },
+  {
+    "bengali": "৭১",
+    "english": "71",
+    "arabic": "٧١",
+    "french": "soixante et onze",
+    "chinese": "七十一",
+    "russian": "семьдесят один",
+    "urdu": "اکیس"
+  },
+  {
+    "bengali": "৭২",
+    "english": "72",
+    "arabic": "٧٢",
+    "french": "soixante-douze",
+    "chinese": "七十二",
+    "russian": "семьдесят два",
+    "urdu": "بائیس"
+  },
+  {
+    "bengali": "৭৩",
+    "english": "73",
+    "arabic": "٧٣",
+    "french": "soixante-treize",
+    "chinese": "七十三",
+    "russian": "семьдесят три",
+    "urdu": "تیس"
+  },
+  {
+    "bengali": "৭৪",
+    "english": "74",
+    "arabic": "٧٤",
+    "french": "soixante-quatorze",
+    "chinese": "七十四",
+    "russian": "семьдесят четыре",
+    "urdu": "چوبیس"
+  },
+  {
+    "bengali": "৭৫",
+    "english": "75",
+    "arabic": "٧٥",
+    "french": "soixante-quinze",
+    "chinese": "七十五",
+    "russian": "семьдесят пять",
+    "urdu": "پچیس"
+  },
+  {
+    "bengali": "৭৬",
+    "english": "76",
+    "arabic": "٧٦",
+    "french": "soixante-seize",
+    "chinese": "七十六",
+    "russian": "семьдесят шесть",
+    "urdu": "چھ"
+  },
+  {
+    "bengali": "৭৭",
+    "english": "77",
+    "arabic": "٧٧",
+    "french": "soixante-dix-sept",
+    "chinese": "七十七",
+    "russian": "семьдесят семь",
+    "urdu": "سات"
+  },
+  {
+    "bengali": "৭৮",
+    "english": "78",
+    "arabic": "٧٨",
+    "french": "soixante-dix-huit",
+    "chinese": "七十八",
+    "russian": "семьдесят восемь",
+    "urdu": "آٹھ"
+  },
+  {
+    "bengali": "৭৯",
+    "english": "79",
+    "arabic": "٧٩",
+    "french": "soixante-dix-neuf",
+    "chinese": "七十九",
+    "russian": "семьдесят девять",
+    "urdu": "نو"
+  },
+  {
+    "bengali": "৮০",
+    "english": "80",
+    "arabic": "٨٠",
+    "french": "quatre-vingts",
+    "chinese": "八十",
+    "russian": "восемьдесят",
+    "urdu": "اسٹھ"
+  },
+  {
+    "bengali": "৮১",
+    "english": "81",
+    "arabic": "٨١",
+    "french": "quatre-vingt-un",
+    "chinese": "八十一",
+    "russian": "восемьдесят один",
+    "urdu": "اکاون"
+  },
+  {
+    "bengali": "৮২",
+    "english": "82",
+    "arabic": "٨٢",
+    "french": "quatre-vingt-deux",
+    "chinese": "八十二",
+    "russian": "восемьдесят два",
+    "urdu": "بیسٹھ"
+  },
+  {
+    "bengali": "৮৩",
+    "english": "83",
+    "arabic": "٨٣",
+    "french": "quatre-vingt-trois",
+    "chinese": "八十三",
+    "russian": "восемьдесят три",
+    "urdu": "تیسٹھ"
+  },
+  {
+    "bengali": "৮৪",
+    "english": "84",
+    "arabic": "٨٤",
+    "french": "quatre-vingt-quatre",
+    "chinese": "八十四",
+    "russian": "восемьдесят четыре",
+    "urdu": "چونسٹھ"
+  },
+  {
+    "bengali": "৮৫",
+    "english": "85",
+    "arabic": "٨٥",
+    "french": "quatre-vingt-cinq",
+    "chinese": "八十五",
+    "russian": "восемьдесят пять",
+    "urdu": "پچپن"
+  },
+  {
+    "bengali": "৮৬",
+    "english": "86",
+    "arabic": "٨٦",
+    "french": "quatre-vingt-six",
+    "chinese": "八十六",
+    "russian": "восемьдесят шесть",
+    "urdu": "چھپن"
+  },
+  {
+    "bengali": "৮৭",
+    "english": "87",
+    "arabic": "٨٧",
+    "french": "quatre-vingt-sept",
+    "chinese": "八十七",
+    "russian": "восемьдесят семь",
+    "urdu": "ستاسٹھ"
+  },
+  {
+    "bengali": "৮৮",
+    "english": "88",
+    "arabic": "٨٨",
+    "french": "quatre-vingt-huit",
+    "chinese": "八十八",
+    "russian": "восемьдесят восемь",
+    "urdu": "اٹھاسٹھ"
+  },
+  {
+    "bengali": "৮৯",
+    "english": "89",
+    "arabic": "٨٩",
+    "french": "quatre-vingt-neuf",
+    "chinese": "八十九",
+    "russian": "восемьдесят девять",
+    "urdu": "نوہ"
+  },
+  {
+    "bengali": "৯০",
+    "english": "90",
+    "arabic": "٩٠",
+    "french": "quatre-vingt-dix",
+    "chinese": "九十",
+    "russian": "девяносто",
+    "urdu": "نوہ"
+  },
+  {
+    "bengali": "৯১",
+    "english": "91",
+    "arabic": "٩١",
+    "french": "quatre-vingt-onze",
+    "chinese": "九十一",
+    "russian": "девяносто один",
+    "urdu": "اکانوہ"
+  },
+  {
+    "bengali": "৯২",
+    "english": "92",
+    "arabic": "٩٢",
+    "french": "quatre-vingt-douze",
+    "chinese": "九十二",
+    "russian": "девяносто два",
+    "urdu": "بانوہ"
+  },
+  {
+    "bengali": "৯৩",
+    "english": "93",
+    "arabic": "٩٣",
+    "french": "quatre-vingt-treize",
+    "chinese": "九十三",
+    "russian": "девяносто три",
+    "urdu": "ترانوہ"
+  },
+  {
+    "bengali": "৯৪",
+    "english": "94",
+    "arabic": "٩٤",
+    "french": "quatre-vingt-quatorze",
+    "chinese": "九十四",
+    "russian": "девяносто четыре",
+    "urdu": "چورانوہ"
+  },
+  {
+    "bengali": "৯৫",
+    "english": "95",
+    "arabic": "٩٥",
+    "french": "quatre-vingt-quinze",
+    "chinese": "九十五",
+    "russian": "девяносто пять",
+    "urdu": "پچانوہ"
+  },
+  {
+    "bengali": "৯৬",
+    "english": "96",
+    "arabic": "٩٦",
+    "french": "quatre-vingt-seize",
+    "chinese": "九十六",
+    "russian": "девяносто шесть",
+    "urdu": "چھیانوہ"
+  },
+  {
+    "bengali": "৯৭",
+    "english": "97",
+    "arabic": "٩٧",
+    "french": "quatre-vingt-dix-sept",
+    "chinese": "九十七",
+    "russian": "девяносто семь",
+    "urdu": "ستانوہ"
+  },
+  {
+    "bengali": "৯৮",
+    "english": "98",
+    "arabic": "٩٨",
+    "french": "quatre-vingt-dix-huit",
+    "chinese": "九十八",
+    "russian": "девяносто восемь",
+    "urdu": "اٹھانوہ"
+  },
+  {
+    "bengali": "৯৯",
+    "english": "99",
+    "arabic": "٩٩",
+    "french": "quatre-vingt-dix-neuf",
+    "chinese": "九十九",
+    "russian": "девяносто девять",
+    "urdu": "ننانوہ"
+  },
+  {
+    "bengali": "১০০",
+    "english": "100",
+    "arabic": "١٠٠",
+    "french": "cent",
+    "chinese": "一百",
+    "russian": "сто",
+    "urdu": "سو"
+  },
+  {
+    "bengali": "১০১",
+    "english": "101",
+    "arabic": "١٠١",
+    "french": "cent un",
+    "chinese": "一百一",
+    "russian": "сто один",
+    "urdu": "سو ایک"
+  },
+  {
+    "bengali": "১০২",
+    "english": "102",
+    "arabic": "١٠٢",
+    "french": "cent deux",
+    "chinese": "一百二",
+    "russian": "сто два",
+    "urdu": "سو دو"
+  },
+  {
+    "bengali": "১০৩",
+    "english": "103",
+    "arabic": "١٠٣",
+    "french": "cent trois",
+    "chinese": "一百三",
+    "russian": "сто три",
+    "urdu": "سو تین"
+  },
+  {
+    "bengali": "১০৪",
+    "english": "104",
+    "arabic": "١٠٤",
+    "french": "cent quatre",
+    "chinese": "一百四",
+    "russian": "сто четыре",
+    "urdu": "سو چار"
+  },
+  {
+    "bengali": "১০৫",
+    "english": "105",
+    "arabic": "١٠٥",
+    "french": "cent cinq",
+    "chinese": "一百五",
+    "russian": "сто пять",
+    "urdu": "سو پانچ"
+  },
+  {
+    "bengali": "১০৬",
+    "english": "106",
+    "arabic": "١٠٦",
+    "french": "cent six",
+    "chinese": "一百六",
+    "russian": "сто шесть",
+    "urdu": "سو چھ"
+  },
+  {
+    "bengali": "১০৭",
+    "english": "107",
+    "arabic": "١٠٧",
+    "french": "cent sept",
+    "chinese": "一百七",
+    "russian": "сто семь",
+    "urdu": "سو سات"
+  },
+  {
+    "bengali": "১০৮",
+    "english": "108",
+    "arabic": "١٠٨",
+    "french": "cent huit",
+    "chinese": "一百八",
+    "russian": "сто восемь",
+    "urdu": "سو آٹھ"
+  },
+  {
+    "bengali": "১০৯",
+    "english": "109",
+    "arabic": "١٠٩",
+    "french": "cent neuf",
+    "chinese": "一百九",
+    "russian": "сто девять",
+    "urdu": "سو نو"
+  },
+  {
+    "bengali": "১১০",
+    "english": "110",
+    "arabic": "١١٠",
+    "french": "cent dix",
+    "chinese": "一百十",
+    "russian": "сто десять",
+    "urdu": "سو دس"
+  },
+  {
+    "bengali": "১১১",
+    "english": "111",
+    "arabic": "١١١",
+    "french": "cent onze",
+    "chinese": "一百十一",
+    "russian": "сто одиннадцать",
+    "urdu": "سو گیارہ"
+  },
+  {
+    "bengali": "১১২",
+    "english": "112",
+    "arabic": "١١٢",
+    "french": "cent douze",
+    "chinese": "一百十二",
+    "russian": "сто двенадцать",
+    "urdu": "سو بارہ"
+  },
+  {
+    "bengali": "১১৩",
+    "english": "113",
+    "arabic": "١١٣",
+    "french": "cent treize",
+    "chinese": "一百十三",
+    "russian": "сто тринадцать",
+    "urdu": "سو تیرہ"
+  },
+  {
+    "bengali": "১১৪",
+    "english": "114",
+    "arabic": "١١٤",
+    "french": "cent quatorze",
+    "chinese": "一百十四",
+    "russian": "сто четырнадцать",
+    "urdu": "سو چودہ"
+  },
+  {
+    "bengali": "১১৫",
+    "english": "115",
+    "arabic": "١١٥",
+    "french": "cent quinze",
+    "chinese": "一百十五",
+    "russian": "сто пятнадцать",
+    "urdu": "سو پندرہ"
+  },
+  {
+    "bengali": "১১৬",
+    "english": "116",
+    "arabic": "١١٦",
+    "french": "cent seize",
+    "chinese": "一百十六",
+    "russian": "сто шестнадцать",
+    "urdu": "سو سولہ"
+  },
+  {
+    "bengali": "১১৭",
+    "english": "117",
+    "arabic": "١١٧",
+    "french": "cent dix-sept",
+    "chinese": "一百十七",
+    "russian": "сто семнадцать",
+    "urdu": "سو سترہ"
+  },
+  {
+    "bengali": "১১৮",
+    "english": "118",
+    "arabic": "١١٨",
+    "french": "cent dix-huit",
+    "chinese": "一百十八",
+    "russian": "сто восемнадцать",
+    "urdu": "سو اٹھارہ"
+  },
+  {
+    "bengali": "১১৯",
+    "english": "119",
+    "arabic": "١١٩",
+    "french": "cent dix-neuf",
+    "chinese": "一百十九",
+    "russian": "сто девятнадцать",
+    "urdu": "سو انیس"
+  },
+  {
+    "bengali": "১২০",
+    "english": "120",
+    "arabic": "١٢٠",
+    "french": "cent vingt",
+    "chinese": "一百二十",
+    "russian": "сто двадцать",
+    "urdu": "سو بیس"
+  },
+  {
+    "bengali": "১২১",
+    "english": "121",
+    "arabic": "١٢١",
+    "french": "cent vingt et un",
+    "chinese": "一百二十一",
+    "russian": "сто двадцать один",
+    "urdu": "سو اکیس"
+  },
+  {
+    "bengali": "১২২",
+    "english": "122",
+    "arabic": "١٢٢",
+    "french": "cent vingt-deux",
+    "chinese": "一百二十二",
+    "russian": "сто двадцать два",
+    "urdu": "سو بائیس"
+  },
+  {
+    "bengali": "১২৩",
+    "english": "123",
+    "arabic": "١٢٣",
+    "french": "cent vingt-trois",
+    "chinese": "一百二十三",
+    "russian": "сто двадцать три",
+    "urdu": "سو تیس"
+  },
+  {
+    "bengali": "১২৪",
+    "english": "124",
+    "arabic": "١٢٤",
+    "french": "cent vingt-quatre",
+    "chinese": "一百二十四",
+    "russian": "сто двадцать четыре",
+    "urdu": "سو چوبیس"
+  },
+  {
+    "bengali": "১২৫",
+    "english": "125",
+    "arabic": "١٢٥",
+    "french": "cent vingt-cinq",
+    "chinese": "一百二十五",
+    "russian": "сто двадцать пять",
+    "urdu": "سو پچیس"
+  },
+  {
+    "bengali": "১২৬",
+    "english": "126",
+    "arabic": "١٢٦",
+    "french": "cent vingt-six",
+    "chinese": "一百二十六",
+    "russian": "сто двадцать шесть",
+    "urdu": "سو چھببیس"
+  },
+  {
+    "bengali": "১২৭",
+    "english": "127",
+    "arabic": "١٢٧",
+    "french": "cent vingt-sept",
+    "chinese": "一百二十七",
+    "russian": "сто двадцать семь",
+    "urdu": "سو سترہ"
+  },
+  {
+    "bengali": "১২৮",
+    "english": "128",
+    "arabic": "١٢٨",
+    "french": "cent vingt-huit",
+    "chinese": "一百二十八",
+    "russian": "сто двадцать восемь",
+    "urdu": "سو اٹھارہ"
+  },
+  {
+    "bengali": "১২৯",
+    "english": "129",
+    "arabic": "١٢٩",
+    "french": "cent vingt-neuf",
+    "chinese": "一百二十九",
+    "russian": "сто двадцать девять",
+    "urdu": "سو انیس"
+  },
+  {
+    "bengali": "১৩০",
+    "english": "130",
+    "arabic": "١٣٠",
+    "french": "cent trente",
+    "chinese": "一百三十",
+    "russian": "сто тридцать",
+    "urdu": "سو تیس"
+  },
+  {
+    "bengali": "১৩১",
+    "english": "131",
+    "arabic": "١٣١",
+    "french": "cent trente et un",
+    "chinese": "一百三十一",
+    "russian": "сто тридцать один",
+    "urdu": "سو اکتیس"
+  },
+  {
+    "bengali": "১৩২",
+    "english": "132",
+    "arabic": "١٣٢",
+    "french": "cent trente-deux",
+    "chinese": "一百三十二",
+    "russian": "сто тридцать два",
+    "urdu": "سو بتیس"
+  },
+  {
+    "bengali": "১৩৩",
+    "english": "133",
+    "arabic": "١٣٣",
+    "french": "cent trente-trois",
+    "chinese": "一百三十三",
+    "russian": "сто тридцать три",
+    "urdu": "سو تیس"
+  },
+  {
+    "bengali": "১৩৪",
+    "english": "134",
+    "arabic": "١٣٤",
+    "french": "cent trente-quatre",
+    "chinese": "一百三十四",
+    "russian": "сто тридцать четыре",
+    "urdu": "سو چوتیس"
+  },
+  {
+    "bengali": "১৩৫",
+    "english": "135",
+    "arabic": "١٣٥",
+    "french": "cent trente-cinq",
+    "chinese": "一百三十五",
+    "russian": "сто тридцать пять",
+    "urdu": "سو پینتالیس"
+  },
+  {
+    "bengali": "১৩৬",
+    "english": "136",
+    "arabic": "١٣٦",
+    "french": "cent trente-six",
+    "chinese": "一百三十六",
+    "russian": "сто тридцать шесть",
+    "urdu": "سو چھیالیس"
+  },
+  {
+    "bengali": "১৩৭",
+    "english": "137",
+    "arabic": "١٣٧",
+    "french": "cent trente-sept",
+    "chinese": "一百三十七",
+    "russian": "сто тридцать семь",
+    "urdu": "سو سنتالیس"
+  },
+  {
+    "bengali": "১৩৮",
+    "english": "138",
+    "arabic": "١٣٨",
+    "french": "cent trente-huit",
+    "chinese": "一百三十八",
+    "russian": "сто тридцать восемь",
+    "urdu": "سو اڑتالیس"
+  },
+  {
+    "bengali": "১৩৯",
+    "english": "139",
+    "arabic": "١٩٩",
+    "french": "cent trente-neuf",
+    "chinese": "一百三十九",
+    "russian": "сто тридцать девять",
+    "urdu": "سو انتالیس"
+  },
+  {
+    "bengali": "১৪০",
+    "english": "140",
+    "arabic": "١٤٠",
+    "french": "cent quarante",
+    "chinese": "一百四十",
+    "russian": "сто сорок",
+    "urdu": "سو چالیس"
+  },
+  {
+    "bengali": "১৪১",
+    "english": "141",
+    "arabic": "١٤١",
+    "french": "cent quarante et un",
+    "chinese": "一百四十一",
+    "russian": "сто сорок один",
+    "urdu": "سو اکتالیس"
+  },
+  {
+    "bengali": "১৪২",
+    "english": "142",
+    "arabic": "١٤٢",
+    "french": "cent quarante-deux",
+    "chinese": "一百四十二",
+    "russian": "сто сорок два",
+    "urdu": "سو بیالیس"
+  },
+  {
+    "bengali": "১৪৩",
+    "english": "143",
+    "arabic": "١٤٣",
+    "french": "cent quarante-trois",
+    "chinese": "一百四十三",
+    "russian": "сто сорок три",
+    "urdu": "سو تیالیس"
+  },
+  {
+    "bengali": "১৪৪",
+    "english": "144",
+    "arabic": "١٤٤",
+    "french": "cent quarante-quatre",
+    "chinese": "一百四十四",
+    "russian": "сто сорок четыре",
+    "urdu": "سو چوالیس"
+  },
+  {
+    "bengali": "১৪৫",
+    "english": "145",
+    "arabic": "١٤٥",
+    "french": "cent quarante-cinq",
+    "chinese": "一百四十五",
+    "russian": "сто сорок пять",
+    "urdu": "سو پیالیس"
+  },
+  {
+    "bengali": "১৪৬",
+    "english": "146",
+    "arabic": "١٤٦",
+    "french": "cent quarante-six",
+    "chinese": "一百四十六",
+    "russian": "сто сорок шесть",
+    "urdu": "سو چھیالیس"
+  },
+  {
+    "bengali": "১৪৭",
+    "english": "147",
+    "arabic": "١٤٧",
+    "french": "cent quarante-sept",
+    "chinese": "一百四十七",
+    "russian": "сто сорок семь",
+    "urdu": "سو ستالیس"
+  },
+  {
+    "bengali": "১৪৮",
+    "english": "148",
+    "arabic": "١٤٨",
+    "french": "cent quarante-huit",
+    "chinese": "一百四十八",
+    "russian": "сто сорок восемь",
+    "urdu": "سو اڑتالیس"
+  },
+  {
+    "bengali": "১৪৯",
+    "english": "149",
+    "arabic": "١٤٩",
+    "french": "cent quarante-neuf",
+    "chinese": "一百四十九",
+    "russian": "сто сорок девять",
+    "urdu": "سو انتالیس"
+  },
+  {
+    "bengali": "১৫০",
+    "english": "150",
+    "arabic": "١٥٠",
+    "french": "cent cinquante",
+    "chinese": "一百五十",
+    "russian": "сто пятьдесят",
+    "urdu": "سو پچاس"
+  },
+  {
+    "bengali": "১৫১",
+    "english": "151",
+    "arabic": "١٥١",
+    "french": "cent cinquante et un",
+    "chinese": "一百五十一",
+    "russian": "сто пятьдесят один",
+    "urdu": "سو اکاون"
+  },
+  {
+    "bengali": "১৫২",
+    "english": "152",
+    "arabic": "١٥٢",
+    "french": "cent cinquante-deux",
+    "chinese": "一百五十二",
+    "russian": "сто пятьдесят два",
+    "urdu": "سو بیس"
+  },
+  {
+    "bengali": "১৫৩",
+    "english": "153",
+    "arabic": "١٥٣",
+    "french": "cent cinquante-trois",
+    "chinese": "一百五十三",
+    "russian": "сто пятьдесят три",
+    "urdu": "سو تیس"
+  },
+  {
+    "bengali": "১৫৪",
+    "english": "154",
+    "arabic": "١٥٤",
+    "french": "cent cinquante-quatre",
+    "chinese": "一百五十四",
+    "russian": "сто пятьдесят четыре",
+    "urdu": "سو چوبیس"
+  },
+  {
+    "bengali": "১৫৫",
+    "english": "155",
+    "arabic": "١٥٥",
+    "french": "cent cinquante-cinq",
+    "chinese": "一百五十五",
+    "russian": "сто пятьдесят пять",
+    "urdu": "سو پچاس"
+  },
+  {
+    "bengali": "১৫৬",
+    "english": "156",
+    "arabic": "١٥٦",
+    "french": "cent cinquante-six",
+    "chinese": "一百五十六",
+    "russian": "сто пятьдесят шесть",
+    "urdu": "سو چھببیس"
+  },
+  {
+    "bengali": "১৫৭",
+    "english": "157",
+    "arabic": "١٥٧",
+    "french": "cent cinquante-sept",
+    "chinese": "一百五十七",
+    "russian": "сто пятьдесят семь",
+    "urdu": "سو سترہ"
+  },
+  {
+    "bengali": "১৫৮",
+    "english": "158",
+    "arabic": "١٥٨",
+    "french": "cent cinquante-huit",
+    "chinese": "一百五十八",
+    "russian": "сто пятьдесят восемь",
+    "urdu": "سو اٹھارہ"
+  },
+  {
+    "bengali": "১৫৯",
+    "english": "159",
+    "arabic": "١٥٩",
+    "french": "cent cinquante-neuf",
+    "chinese": "一百五十九",
+    "russian": "сто пятьдесят девять",
+    "urdu": "سو انیس"
+  },
+  {
+    "bengali": "১৬০",
+    "english": "160",
+    "arabic": "١٦٠",
+    "french": "cent soixante",
+    "chinese": "一百六十",
+    "russian": "сто шестьдесят",
+    "urdu": "سو ساٹھ"
+  },
+  {
+    "bengali": "১৬১",
+    "english": "161",
+    "arabic": "١٦١",
+    "french": "cent soixante et un",
+    "chinese": "一百六十一",
+    "russian": "сто шестьдесят один",
+    "urdu": "سو اکسٹیس"
+  },
+  {
+    "bengali": "১৬২",
+    "english": "162",
+    "arabic": "١٦٢",
+    "french": "cent soixante-deux",
+    "chinese": "一百六十二",
+    "russian": "сто шестьдесят два",
+    "urdu": "سو بیاس"
+  },
+  {
+    "bengali": "১৬৩",
+    "english": "163",
+    "arabic": "١٦٣",
+    "french": "cent soixante-trois",
+    "chinese": "一百六十三",
+    "russian": "сто шестьдесят три",
+    "urdu": "سو ترس"
+  },
+  {
+    "bengali": "১৬৪",
+    "english": "164",
+    "arabic": "١٦٤",
+    "french": "cent soixante-quatre",
+    "chinese": "一百六十四",
+    "russian": "сто шестьдесят четыре",
+    "urdu": "سو چوسٹھ"
+  },
+  {
+    "bengali": "১৬৫",
+    "english": "165",
+    "arabic": "١٦٥",
+    "french": "cent soixante-cinq",
+    "chinese": "一百六十五",
+    "russian": "сто шестьдесят пять",
+    "urdu": "سو پینسٹھ"
+  },
+  {
+    "bengali": "১৬৬",
+    "english": "166",
+    "arabic": "١٦٦",
+    "french": "cent soixante-six",
+    "chinese": "一百六十六",
+    "russian": "сто шестьдесят шесть",
+    "urdu": "سو چھیاسٹھ"
+  },
+  {
+    "bengali": "১৬৭",
+    "english": "167",
+    "arabic": "١٦٧",
+    "french": "cent soixante-sept",
+    "chinese": "一百六十七",
+    "russian": "сто шестьдесят семь",
+    "urdu": "سو ستاسٹھ"
+  },
+  {
+    "bengali": "১৬৮",
+    "english": "168",
+    "arabic": "١٦٨",
+    "french": "cent soixante-huit",
+    "chinese": "一百六十八",
+    "russian": "сто шестьдесят восемь",
+    "urdu": "سو اٹھاسٹھ"
+  },
+  {
+    "bengali": "১৬৯",
+    "english": "169",
+    "arabic": "١٦٩",
+    "french": "cent soixante-neuf",
+    "chinese": "一百六十九",
+    "russian": "сто шестьдесят девять",
+    "urdu": "سو نوہ"
+  },
+  {
+    "bengali": "১৭০",
+    "english": "170",
+    "arabic": "١٧٠",
+    "french": "cent soixante-dix",
+    "chinese": "一百七十",
+    "russian": "сто семьдесят",
+    "urdu": "سو ستر"
+  },
+  {
+    "bengali": "১৭১",
+    "english": "171",
+    "arabic": "١٧١",
+    "french": "cent soixante et onze",
+    "chinese": "一百七十一",
+    "russian": "сто семьдесят один",
+    "urdu": "سو اکتر"
+  },
+  {
+    "bengali": "১৭২",
+    "english": "172",
+    "arabic": "١٧٢",
+    "french": "cent soixante-douze",
+    "chinese": "一百七十二",
+    "russian": "сто семьдесят два",
+    "urdu": "سو بیاس"
+  },
+  {
+    "bengali": "১৭৩",
+    "english": "173",
+    "arabic": "١٧٣",
+    "french": "cent soixante-treize",
+    "chinese": "一百七十三",
+    "russian": "сто семьдесят три",
+    "urdu": "سو ترہ"
+  },
+  {
+    "bengali": "১৭৪",
+    "english": "174",
+    "arabic": "١٧٤",
+    "french": "cent soixante-quatorze",
+    "chinese": "一百七十四",
+    "russian": "сто семьдесят четыре",
+    "urdu": "سو چوہتر"
+  },
+  {
+    "bengali": "১৭৫",
+    "english": "175",
+    "arabic": "١٧٥",
+    "french": "cent soixante-quinze",
+    "chinese": "一百七十五",
+    "russian": "сто семьдесят пять",
+    "urdu": "سو پچاس"
+  },
+  {
+    "bengali": "১৭৬",
+    "english": "176",
+    "arabic": "١٧٦",
+    "french": "cent soixante-seize",
+    "chinese": "一百七十六",
+    "russian": "сто семьдесят шесть",
+    "urdu": "سو چھپپہ"
+  },
+  {
+    "bengali": "১৭৭",
+    "english": "177",
+    "arabic": "١٧٧",
+    "french": "cent soixante-dix-sept",
+    "chinese": "一百七十七",
+    "russian": "сто семьдесят семь",
+    "urdu": "سو ستاسی"
+  },
+  {
+    "bengali": "১৭৮",
+    "english": "178",
+    "arabic": "١٧٨",
+    "french": "cent soixante-dix-huit",
+    "chinese": "一百七十八",
+    "russian": "сто семьдесят восемь",
+    "urdu": "سو اٹھاسی"
+  },
+  {
+    "bengali": "১৭৯",
+    "english": "179",
+    "arabic": "١٧٩",
+    "french": "cent soixante-dix-neuf",
+    "chinese": "一百七十九",
+    "russian": "сто семьдесят девять",
+    "urdu": "سو نوہ"
+  },
+  {
+    "bengali": "১৮০",
+    "english": "180",
+    "arabic": "١٨٠",
+    "french": "cent quatre-vingts",
+    "chinese": "一百八十",
+    "russian": "сто восемьдесят",
+    "urdu": "سو اسٹھ"
+  },
+  {
+    "bengali": "১৮১",
+    "english": "181",
+    "arabic": "١٨١",
+    "french": "cent quatre-vingt-un",
+    "chinese": "一百八十一",
+    "russian": "сто восемьдесят один",
+    "urdu": "سو اکتیس"
+  },
+  {
+    "bengali": "১৮২",
+    "english": "182",
+    "arabic": "١٨٢",
+    "french": "cent quatre-vingt-deux",
+    "chinese": "一百八十二",
+    "russian": "сто восемьдесят два",
+    "urdu": "سو بیاس"
+  },
+  {
+    "bengali": "১৮৩",
+    "english": "183",
+    "arabic": "١٨٣",
+    "french": "cent quatre-vingt-trois",
+    "chinese": "一百八十三",
+    "russian": "сто восемьдесят три",
+    "urdu": "سو تریس"
+  },
+  {
+    "bengali": "১৮৪",
+    "english": "184",
+    "arabic": "١٨٤",
+    "french": "cent quatre-vingt-quatre",
+    "chinese": "一百八十四",
+    "russian": "сто восемьдесят четыре",
+    "urdu": "سو چوہتر"
+  },
+  {
+    "bengali": "১৮৫",
+    "english": "185",
+    "arabic": "١٨٥",
+    "french": "cent quatre-vingt-cinq",
+    "chinese": "一百八十五",
+    "russian": "сто восемьдесят пять",
+    "urdu": "سو پچاس"
+  },
+  {
+    "bengali": "১৮৬",
+    "english": "186",
+    "arabic": "١٨٦",
+    "french": "cent quatre-vingt-six",
+    "chinese": "一百八十六",
+    "russian": "сто восемьдесят шесть",
+    "urdu": "سو چھپپہ"
+  },
+  {
+    "bengali": "১৮৭",
+    "english": "187",
+    "arabic": "١٨٧",
+    "french": "cent quatre-vingt-sept",
+    "chinese": "一百八十七",
+    "russian": "сто восемьдесят семь",
+    "urdu": "سو ستاسی"
+  },
+  {
+    "bengali": "১৮৮",
+    "english": "188",
+    "arabic": "١٨٨",
+    "french": "cent quatre-vingt-huit",
+    "chinese": "一百八十八",
+    "russian": "сто восемьдесят восемь",
+    "urdu": "سو اٹھاسٹھ"
+  },
+  {
+    "bengali": "১৮৯",
+    "english": "189",
+    "arabic": "١٨٩",
+    "french": "cent quatre-vingt-neuf",
+    "chinese": "一百八十九",
+    "russian": "сто восемьдесят девять",
+    "urdu": "سو نوہ"
+  },
+  {
+    "bengali": "১৯০",
+    "english": "190",
+    "arabic": "١٩٠",
+    "french": "cent quatre-vingt-dix",
+    "chinese": "一百九十",
+    "russian": "сто девяносто",
+    "urdu": "سو نوہ"
+  },
+  {
+    "bengali": "১৯১",
+    "english": "191",
+    "arabic": "١٩١",
+    "french": "cent quatre-vingt-onze",
+    "chinese": "一百九十一",
+    "russian": "сто девяносто один",
+    "urdu": "سو اکانوہ"
+  },
+  {
+    "bengali": "১৯২",
+    "english": "192",
+    "arabic": "١٩٢",
+    "french": "cent quatre-vingt-douze",
+    "chinese": "一百九十二",
+    "russian": "сто девяносто два",
+    "urdu": "سو بانوہ"
+  },
+  {
+    "bengali": "১৯৩",
+    "english": "193",
+    "arabic": "١٩٣",
+    "french": "cent quatre-vingt-treize",
+    "chinese": "一百九十三",
+    "russian": "сто девяносто три",
+    "urdu": "سو ترانوہ"
+  },
+  {
+    "bengali": "১৯৪",
+    "english": "194",
+    "arabic": "١٩٤",
+    "french": "cent quatre-vingt-quatorze",
+    "chinese": "一百九十四",
+    "russian": "сто девяносто четыре",
+    "urdu": "سو چورانوہ"
+  },
+  {
+    "bengali": "১৯৫",
+    "english": "195",
+    "arabic": "١٩٥",
+    "french": "cent quatre-vingt-quinze",
+    "chinese": "一百九十五",
+    "russian": "сто девяносто пять",
+    "urdu": "سو پچانوہ"
+  },
+  {
+    "bengali": "১৯৬",
+    "english": "196",
+    "arabic": "١٩٦",
+    "french": "cent quatre-vingt-seize",
+    "chinese": "一百九十六",
+    "russian": "сто девяносто шесть",
+    "urdu": "سو چھیانوہ"
+  },
+  {
+    "bengali": "১৯৭",
+    "english": "197",
+    "arabic": "١٩٧",
+    "french": "cent quatre-vingt-dix-sept",
+    "chinese": "一百九十七",
+    "russian": "сто девяносто семь",
+    "urdu": "سو ستانوہ"
+  },
+  {
+    "bengali": "১৯৮",
+    "english": "198",
+    "arabic": "١٩٨",
+    "french": "cent quatre-vingt-dix-huit",
+    "chinese": "一百九十八",
+    "russian": "сто девяносто восемь",
+    "urdu": "سو اٹھانوہ"
+  },
+  {
+    "bengali": "১৯৯",
+    "english": "199",
+    "arabic": "١٩٩",
+    "french": "cent quatre-vingt-dix-neuf",
+    "chinese": "一百九十九",
+    "russian": "сто девяносто девять",
+    "urdu": "سو ننانوہ"
+  },
+  {
+    "bengali": "২০০",
+    "english": "200",
+    "arabic": "٢٠٠",
+    "french": "deux cents",
+    "chinese": "二百",
+    "russian": "двести",
+    "urdu": "دو سو"
+  },
+  {
+    "bengali": "২০১",
+    "english": "201",
+    "arabic": "٢٠١",
+    "french": "deux cent un",
+    "chinese": "二百一",
+    "russian": "двести один",
+    "urdu": "دو سو ایک"
+  },
+  {
+    "bengali": "২০২",
+    "english": "202",
+    "arabic": "٢٠٢",
+    "french": "deux cent deux",
+    "chinese": "二百二",
+    "russian": "двести два",
+    "urdu": "دو سو دو"
+  },
+  {
+    "bengali": "২০৩",
+    "english": "203",
+    "arabic": "٢٠٣",
+    "french": "deux cent trois",
+    "chinese": "二百三",
+    "russian": "двести три",
+    "urdu": "دو سو تین"
+  },
+  {
+    "bengali": "২০৪",
+    "english": "204",
+    "arabic": "٢٠٤",
+    "french": "deux cent quatre",
+    "chinese": "二百四",
+    "russian": "двести четыре",
+    "urdu": "دو سو چار"
+  },
+  {
+    "bengali": "২০৫",
+    "english": "205",
+    "arabic": "٢٠٥",
+    "french": "deux cent cinq",
+    "chinese": "二百五",
+    "russian": "двести пять",
+    "urdu": "دو سو پانچ"
+  },
+  {
+    "bengali": "২০৬",
+    "english": "206",
+    "arabic": "٢٠٦",
+    "french": "deux cent six",
+    "chinese": "二百六",
+    "russian": "двести шесть",
+    "urdu": "دو سو چھہ"
+  },
+  {
+    "bengali": "২০৭",
+    "english": "207",
+    "arabic": "٢٠٧",
+    "french": "deux cent sept",
+    "chinese": "二百七",
+    "russian": "двести семь",
+    "urdu": "دو سو سات"
+  },
+  {
+    "bengali": "২০৮",
+    "english": "208",
+    "arabic": "٢٠٨",
+    "french": "deux cent huit",
+    "chinese": "二百八",
+    "russian": "двести восемь",
+    "urdu": "دو سو آٹھ"
+  },
+  {
+    "bengali": "২০৯",
+    "english": "209",
+    "arabic": "٢٠٩",
+    "french": "deux cent neuf",
+    "chinese": "二百九",
+    "russian": "двести девять",
+    "urdu": "دو سو نو"
+  },
+  {
+    "bengali": "২১০",
+    "english": "210",
+    "arabic": "٢١٠",
+    "french": "deux cent dix",
+    "chinese": "二百十",
+    "russian": "двести десять",
+    "urdu": "دو سو دس"
+  },
+  {
+    "bengali": "২১১",
+    "english": "211",
+    "arabic": "٢١١",
+    "french": "deux cent onze",
+    "chinese": "二百十一",
+    "russian": "двести одиннадцать",
+    "urdu": "دو سو گیارہ"
+  },
+  {
+    "bengali": "২১২",
+    "english": "212",
+    "arabic": "٢١٢",
+    "french": "deux cent douze",
+    "chinese": "二百十二",
+    "russian": "двести двенадцать",
+    "urdu": "دو سو بارہ"
+  },
+  {
+    "bengali": "২১৩",
+    "english": "213",
+    "arabic": "٢١٣",
+    "french": "deux cent treize",
+    "chinese": "二百十三",
+    "russian": "двести тринадцать",
+    "urdu": "دو سو تیرہ"
+  },
+  {
+    "bengali": "২১৪",
+    "english": "214",
+    "arabic": "٢١٤",
+    "french": "deux cent quatorze",
+    "chinese": "二百十四",
+    "russian": "двести четырнадцать",
+    "urdu": "دو سو چودہ"
+  },
+  {
+    "bengali": "২১৫",
+    "english": "215",
+    "arabic": "٢١٥",
+    "french": "deux cent quinze",
+    "chinese": "二百十五",
+    "russian": "двести пятнадцать",
+    "urdu": "دو سو پندرہ"
+  },
+  {
+    "bengali": "২১৬",
+    "english": "216",
+    "arabic": "٢١٦",
+    "french": "deux cent seize",
+    "chinese": "二百十六",
+    "russian": "двести шестнадцать",
+    "urdu": "دو سو سولہ"
+  },
+  {
+    "bengali": "২১৭",
+    "english": "217",
+    "arabic": "٢١٧",
+    "french": "deux cent dix-sept",
+    "chinese": "二百十七",
+    "russian": "двести семнадцать",
+    "urdu": "دو سو سترہ"
+  },
+  {
+    "bengali": "২১৮",
+    "english": "218",
+    "arabic": "٢١٨",
+    "french": "deux cent dix-huit",
+    "chinese": "二百十八",
+    "russian": "двести восемнадцать",
+    "urdu": "دو سو اٹھارہ"
+  },
+  {
+    "bengali": "২১৯",
+    "english": "219",
+    "arabic": "٢١٩",
+    "french": "deux cent dix-neuf",
+    "chinese": "二百十九",
+    "russian": "двести девятнадцать",
+    "urdu": "دو سو انیس"
+  },
+  {
+    "bengali": "২২০",
+    "english": "220",
+    "arabic": "٢٢٠",
+    "french": "deux cent vingt",
+    "chinese": "二百二十",
+    "russian": "двести двадцать",
+    "urdu": "دو سو بیس"
+  },
+  {
+    "bengali": "২২১",
+    "english": "221",
+    "arabic": "٢٢١",
+    "french": "deux cent vingt et un",
+    "chinese": "二百二十一",
+    "russian": "двести двадцать один",
+    "urdu": "دو سو اک ون"
+  },
+  {
+    "bengali": "২২২",
+    "english": "222",
+    "arabic": "٢٢٢",
+    "french": "deux cent vingt-deux",
+    "chinese": "二百二十二",
+    "russian": "двести двадцать два",
+    "urdu": "دو سو بائیس"
+  },
+  {
+    "bengali": "২২৩",
+    "english": "223",
+    "arabic": "٢٢٣",
+    "french": "deux cent vingt-trois",
+    "chinese": "二百二十三",
+    "russian": "двести двадцать три",
+    "urdu": "دو سو تیس"
+  },
+  {
+    "bengali": "২২৪",
+    "english": "224",
+    "arabic": "٢٢٤",
+    "french": "deux cent vingt-quatre",
+    "chinese": "二百二十四",
+    "russian": "двести двадцать четыре",
+    "urdu": "دو سو چوبیس"
+  },
+  {
+    "bengali": "২২৫",
+    "english": "225",
+    "arabic": "٢٢٥",
+    "french": "deux cent vingt-cinq",
+    "chinese": "二百二十五",
+    "russian": "двести двадцать пять",
+    "urdu": "دو سو پچیس"
+  },
+  {
+    "bengali": "২২৬",
+    "english": "226",
+    "arabic": "٢٢٦",
+    "french": "deux cent vingt-six",
+    "chinese": "二百二十六",
+    "russian": "двести двадцать шесть",
+    "urdu": "دو سو چھببیس"
+  },
+  {
+    "bengali": "২২৭",
+    "english": "227",
+    "arabic": "٢٢٧",
+    "french": "deux cent vingt-sept",
+    "chinese": "二百二十七",
+    "russian": "двести двадцать семь",
+    "urdu": "دو سو سترہ"
+  },
+  {
+    "bengali": "২২৮",
+    "english": "228",
+    "arabic": "٢٢٨",
+    "french": "deux cent vingt-huit",
+    "chinese": "二百二十八",
+    "russian": "двести двадцать восемь",
+    "urdu": "دو سو اٹھائیس"
+  },
+  {
+    "bengali": "২২৯",
+    "english": "229",
+    "arabic": "٢٢٩",
+    "french": "deux cent vingt-neuf",
+    "chinese": "二百二十九",
+    "russian": "двести двадцать девять",
+    "urdu": "دو سو نوہ"
+  },
+  {
+    "bengali": "২৩০",
+    "english": "230",
+    "arabic": "٢٣٠",
+    "french": "deux cent trente",
+    "chinese": "二百三十",
+    "russian": "двести тридцать",
+    "urdu": "دو سو تیس"
+  },
+  {
+    "bengali": "২৩১",
+    "english": "231",
+    "arabic": "٢٣١",
+    "french": "deux cent trente et un",
+    "chinese": "二百三十一",
+    "russian": "двести тридцать один",
+    "urdu": "دو سو اکتیس"
+  },
+  {
+    "bengali": "২৩২",
+    "english": "232",
+    "arabic": "٢٣٢",
+    "french": "deux cent trente-deux",
+    "chinese": "二百三十二",
+    "russian": "двести тридцать два",
+    "urdu": "دو سو بیاس"
+  },
+  {
+    "bengali": "২৩৩",
+    "english": "233",
+    "arabic": "٢٣٣",
+    "french": "deux cent trente-trois",
+    "chinese": "二百三十三",
+    "russian": "двести тридцать три",
+    "urdu": "دو سو تریس"
+  },
+  {
+    "bengali": "২৩৪",
+    "english": "234",
+    "arabic": "٢٣٤",
+    "french": "deux cent trente-quatre",
+    "chinese": "二百三十四",
+    "russian": "двести тридцать четыре",
+    "urdu": "دو سو چوبیس"
+  },
+  {
+    "bengali": "২৩৫",
+    "english": "235",
+    "arabic": "٢٣٥",
+    "french": "deux cent trente-cinq",
+    "chinese": "二百三十五",
+    "russian": "двести тридцать пять",
+    "urdu": "دو سو پچیس"
+  },
+  {
+    "bengali": "২৩৬",
+    "english": "236",
+    "arabic": "٢٣٦",
+    "french": "deux cent trente-six",
+    "chinese": "二百三十六",
+    "russian": "двести тридцать шесть",
+    "urdu": "دو سو چھببیس"
+  },
+  {
+    "bengali": "২৩৭",
+    "english": "237",
+    "arabic": "٢٣٧",
+    "french": "deux cent trente-sept",
+    "chinese": "二百三十七",
+    "russian": "двести тридцать семь",
+    "urdu": "دو سو سترہ"
+  },
+  {
+    "bengali": "২৩৮",
+    "english": "238",
+    "arabic": "٢٣٨",
+    "french": "deux cent trente-huit",
+    "chinese": "二百三十八",
+    "russian": "двести тридцать восемь",
+    "urdu": "دو سو اٹھائیس"
+  },
+  {
+    "bengali": "২৩৯",
+    "english": "239",
+    "arabic": "٢٣٩",
+    "french": "deux cent trente-neuf",
+    "chinese": "二百三十九",
+    "russian": "двести тридцать девять",
+    "urdu": "دو سو نوہ"
+  },
+  {
+    "bengali": "২৪০",
+    "english": "240",
+    "arabic": "٢٤٠",
+    "french": "deux cent quarante",
+    "chinese": "二百四十",
+    "russian": "двести сорок",
+    "urdu": "دو سو چالیس"
+  },
+  {
+    "bengali": "২৪১",
+    "english": "241",
+    "arabic": "٢٤١",
+    "french": "deux cent quarante et un",
+    "chinese": "二百四十一",
+    "russian": "двести сорок один",
+    "urdu": "دو سو اکتالیس"
+  },
+  {
+    "bengali": "২৪২",
+    "english": "242",
+    "arabic": "٢٤٢",
+    "french": "deux cent quarante-deux",
+    "chinese": "二百四十二",
+    "russian": "двести сорок два",
+    "urdu": "دو سو بیالیس"
+  },
+  {
+    "bengali": "২৪৩",
+    "english": "243",
+    "arabic": "٢٤٣",
+    "french": "deux cent quarante-trois",
+    "chinese": "二百四十三",
+    "russian": "двести сорок три",
+    "urdu": "دو سو تینالیس"
+  },
+  {
+    "bengali": "২৪৪",
+    "english": "244",
+    "arabic": "٢٤٤",
+    "french": "deux cent quarante-quatre",
+    "chinese": "二百四十四",
+    "russian": "двести сорок четыре",
+    "urdu": "دو سو چوالیس"
+  },
+  {
+    "bengali": "২৪৫",
+    "english": "245",
+    "arabic": "٢٤٥",
+    "french": "deux cent quarante-cinq",
+    "chinese": "二百四十五",
+    "russian": "двести сорок пять",
+    "urdu": "دو سو پینالیس"
+  },
+  {
+    "bengali": "২৪৬",
+    "english": "246",
+    "arabic": "٢٤٦",
+    "french": "deux cent quarante-six",
+    "chinese": "二百四十六",
+    "russian": "двести сорок шесть",
+    "urdu": "دو سو چھیالیس"
+  },
+  {
+    "bengali": "২৪৭",
+    "english": "247",
+    "arabic": "٢٤٧",
+    "french": "deux cent quarante-sept",
+    "chinese": "二百四十七",
+    "russian": "двести сорок семь",
+    "urdu": "دو سو ستالیس"
+  },
+  {
+    "bengali": "২৪৮",
+    "english": "248",
+    "arabic": "٢٤٨",
+    "french": "deux cent quarante-huit",
+    "chinese": "二百四十八",
+    "russian": "двести сорок восемь",
+    "urdu": "دو سو اٹھالیس"
+  },
+  {
+    "bengali": "২৪৯",
+    "english": "249",
+    "arabic": "٢٤٩",
+    "french": "deux cent quarante-neuf",
+    "chinese": "二百四十九",
+    "russian": "двести сорок девять",
+    "urdu": "دو سو نوالیس"
+  },
+  {
+    "bengali": "২৫০",
+    "english": "250",
+    "arabic": "٢٥٠",
+    "french": "deux cent cinquante",
+    "chinese": "二百五十",
+    "russian": "двести пятьдесят",
+    "urdu": "دو سو پچاس"
+  },
+  {
+    "bengali": "২৫১",
+    "english": "251",
+    "arabic": "٢٥١",
+    "french": "deux cent cinquante et un",
+    "chinese": "二百五十一",
+    "russian": "двести пятьдесят один",
+    "urdu": "دو سو اکوانوہ"
+  },
+  {
+    "bengali": "২৫২",
+    "english": "252",
+    "arabic": "٢٥٢",
+    "french": "deux cent cinquante-deux",
+    "chinese": "二百五十二",
+    "russian": "двести пятьдесят два",
+    "urdu": "دو سو بائیس"
+  },
+  {
+    "bengali": "২৫৩",
+    "english": "253",
+    "arabic": "٢٥٣",
+    "french": "deux cent cinquante-trois",
+    "chinese": "二百五十三",
+    "russian": "двести пятьдесят три",
+    "urdu": "دو سو تین"
+  },
+  {
+    "bengali": "২৫৪",
+    "english": "254",
+    "arabic": "٢٥٤",
+    "french": "deux cent cinquante-quatre",
+    "chinese": "二百五十四",
+    "russian": "двести пятьдесят четыре",
+    "urdu": "دو سو چار"
+  },
+  {
+    "bengali": "২৫৫",
+    "english": "255",
+    "arabic": "٢٥٥",
+    "french": "deux cent cinquante-cinq",
+    "chinese": "二百五十五",
+    "russian": "двести пятьдесят пять",
+    "urdu": "دو سو پانچ"
+  },
+  {
+    "bengali": "২৫৬",
+    "english": "256",
+    "arabic": "٢٥٦",
+    "french": "deux cent cinquante-six",
+    "chinese": "二百五十六",
+    "russian": "двести пятьдесят шесть",
+    "urdu": "دو سو چھہ"
+  },
+  {
+    "bengali": "২৫৭",
+    "english": "257",
+    "arabic": "٢٥٧",
+    "french": "deux cent cinquante-sept",
+    "chinese": "二百五十七",
+    "russian": "двести пятьдесят семь",
+    "urdu": "دو سو سات"
+  },
+  {
+    "bengali": "২৫৮",
+    "english": "258",
+    "arabic": "٢٥٨",
+    "french": "deux cent cinquante-huit",
+    "chinese": "二百五十八",
+    "russian": "двести пятьдесят восемь",
+    "urdu": "دو سو آٹھ"
+  },
+  {
+    "bengali": "২৫৯",
+    "english": "259",
+    "arabic": "٢٥٩",
+    "french": "deux cent cinquante-neuf",
+    "chinese": "二百五十九",
+    "russian": "двести пятьдесят девять",
+    "urdu": "دو سو نو"
+  },
+  {
+    "bengali": "২৬০",
+    "english": "260",
+    "arabic": "٢٦٠",
+    "french": "deux cent soixante",
+    "chinese": "二百六十",
+    "russian": "двести шестьдесят",
+    "urdu": "دو سو ساٹھ"
+  },
+  {
+    "bengali": "২৬১",
+    "english": "261",
+    "arabic": "٢٦١",
+    "french": "deux cent soixante et un",
+    "chinese": "二百六十一",
+    "russian": "двести шестьдесят один",
+    "urdu": "دو سو اکسٹیس"
+  },
+  {
+    "bengali": "২৬২",
+    "english": "262",
+    "arabic": "٢٦٢",
+    "french": "deux cent soixante-deux",
+    "chinese": "二百六十二",
+    "russian": "двести шестьдесят два",
+    "urdu": "دو سو بیاس"
+  },
+  {
+    "bengali": "২৬৩",
+    "english": "263",
+    "arabic": "٢٦٣",
+    "french": "deux cent soixante-trois",
+    "chinese": "二百六十三",
+    "russian": "двести шестьдесят три",
+    "urdu": "دو سو تریس"
+  },
+  {
+    "bengali": "২৬৪",
+    "english": "264",
+    "arabic": "٢٦٤",
+    "french": "deux cent soixante-quatre",
+    "chinese": "二百六十四",
+    "russian": "двести шестьдесят четыре",
+    "urdu": "دو سو چوبیس"
+  },
+  {
+    "bengali": "২৬৫",
+    "english": "265",
+    "arabic": "٢٦٥",
+    "french": "deux cent soixante-cinq",
+    "chinese": "二百六十五",
+    "russian": "двести шестьдесят пять",
+    "urdu": "دو سو پچیس"
+  },
+  {
+    "bengali": "২৬৬",
+    "english": "266",
+    "arabic": "٢٦٦",
+    "french": "deux cent soixante-six",
+    "chinese": "二百六十六",
+    "russian": "двести шестьдесят шесть",
+    "urdu": "دو سو چھببیس"
+  },
+  {
+    "bengali": "২৬৭",
+    "english": "267",
+    "arabic": "٢٦٧",
+    "french": "deux cent soixante-sept",
+    "chinese": "二百六十七",
+    "russian": "двести шестьдесят семь",
+    "urdu": "دو سو سترہ"
+  },
+  {
+    "bengali": "২৬৮",
+    "english": "268",
+    "arabic": "٢٦٨",
+    "french": "deux cent soixante-huit",
+    "chinese": "二百六十八",
+    "russian": "двести шестьдесят восемь",
+    "urdu": "دو سو اٹھالیس"
+  },
+  {
+    "bengali": "২৬৯",
+    "english": "269",
+    "arabic": "٢٦٩",
+    "french": "deux cent soixante-neuf",
+    "chinese": "二百六十九",
+    "russian": "двести шестьдесят девять",
+    "urdu": "دو سو نوالیس"
+  },
+  {
+    "bengali": "২৭০",
+    "english": "270",
+    "arabic": "٢٧٠",
+    "french": "deux cent soixante-dix",
+    "chinese": "二百七十",
+    "russian": "двести семьдесят",
+    "urdu": "دو سو ستر"
+  },
+  {
+    "bengali": "২৭১",
+    "english": "271",
+    "arabic": "٢٧١",
+    "french": "deux cent soixante et un",
+    "chinese": "二百七十一",
+    "russian": "двести семьдесят один",
+    "urdu": "دو سو اکانوہ"
+  },
+  {
+    "bengali": "২৭২",
+    "english": "272",
+    "arabic": "٢٧٢",
+    "french": "deux cent soixante-deux",
+    "chinese": "二百七十二",
+    "russian": "двести семьдесят два",
+    "urdu": "دو سو بہتر"
+  },
+  {
+    "bengali": "২৭৩",
+    "english": "273",
+    "arabic": "٢٧٣",
+    "french": "deux cent soixante-trois",
+    "chinese": "二百七十三",
+    "russian": "двести семьдесят три",
+    "urdu": "دو سو ترانوہ"
+  },
+  {
+    "bengali": "২৭৪",
+    "english": "274",
+    "arabic": "٢٧٤",
+    "french": "deux cent soixante-quatre",
+    "chinese": "二百七十四",
+    "russian": "двести семьдесят четыре",
+    "urdu": "دو سو چوراس"
+  },
+  {
+    "bengali": "২৭৫",
+    "english": "275",
+    "arabic": "٢٧٥",
+    "french": "deux cent soixante-cinq",
+    "chinese": "二百七十五",
+    "russian": "двести семьдесят пять",
+    "urdu": "دو سو پچاس"
+  },
+  {
+    "bengali": "২৭৬",
+    "english": "276",
+    "arabic": "٢٧٦",
+    "french": "deux cent soixante-six",
+    "chinese": "二百七十六",
+    "russian": "двести семьдесят шесть",
+    "urdu": "دو سو چھپپانوہ"
+  },
+  {
+    "bengali": "২৭৭",
+    "english": "277",
+    "arabic": "٢٧٧",
+    "french": "deux cent soixante-sept",
+    "chinese": "二百七十七",
+    "russian": "двести семьдесят семь",
+    "urdu": "دو سو ستاسی"
+  },
+  {
+    "bengali": "২৭৮",
+    "english": "278",
+    "arabic": "٢٧٨",
+    "french": "deux cent soixante-huit",
+    "chinese": "二百七十八",
+    "russian": "двести семьдесят восемь",
+    "urdu": "دو سو اٹھاسی"
+  },
+  {
+    "bengali": "২৭৯",
+    "english": "279",
+    "arabic": "٢٧٩",
+    "french": "deux cent soixante-neuf",
+    "chinese": "二百七十九",
+    "russian": "двести семьдесят девять",
+    "urdu": "دو سو نواسی"
+  },
+  {
+    "bengali": "২৮০",
+    "english": "280",
+    "arabic": "٢٨٠",
+    "french": "deux cent quatre-vingts",
+    "chinese": "二百八十",
+    "russian": "двести восемьдесят",
+    "urdu": "دو سو اٹھائیس"
+  },
+  {
+    "bengali": "২৮১",
+    "english": "281",
+    "arabic": "٢٨١",
+    "french": "deux cent quatre-vingt-un",
+    "chinese": "二百八十一",
+    "russian": "двести восемьдесят один",
+    "urdu": "دو سو اکانوہ"
+  },
+  {
+    "bengali": "২৮২",
+    "english": "282",
+    "arabic": "٢٨٢",
+    "french": "deux cent quatre-vingt-deux",
+    "chinese": "二百八十二",
+    "russian": "двести восемьдесят два",
+    "urdu": "دو سو بیاس"
+  },
+  {
+    "bengali": "২৮৩",
+    "english": "283",
+    "arabic": "٢٨٣",
+    "french": "deux cent quatre-vingt-trois",
+    "chinese": "二百八十三",
+    "russian": "двести восемьдесят три",
+    "urdu": "دو سو ترانوہ"
+  },
+  {
+    "bengali": "২৮৪",
+    "english": "284",
+    "arabic": "٢٨٤",
+    "french": "deux cent quatre-vingt-quatre",
+    "chinese": "二百八十四",
+    "russian": "двести восемьдесят четыре",
+    "urdu": "دو سو چوراس"
+  },
+  {
+    "bengali": "২৮৫",
+    "english": "285",
+    "arabic": "٢٨٥",
+    "french": "deux cent quatre-vingt-cinq",
+    "chinese": "二百八十五",
+    "russian": "двести восемьдесят пять",
+    "urdu": "دو سو پچاس"
+  },
+  {
+    "bengali": "২৮৬",
+    "english": "286",
+    "arabic": "٢٨٦",
+    "french": "deux cent quatre-vingt-six",
+    "chinese": "二百八十六",
+    "russian": "двести восемьдесят шесть",
+    "urdu": "دو سو چھپپانوہ"
+  }
+]

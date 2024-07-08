@@ -1,0 +1,2738 @@
+[
+  {
+    "id": 1,
+    "name": "الفاتحة",
+    "transliteration": {
+      "bengali": "আল-ফাতিহা",
+      "english": "Al-Fatihah",
+      "arabic": "الفاتحة",
+      "urdu": "الفاتحہ",
+      "russian": "Аль-Фатиха",
+      "french": "Al-Fatihah",
+      "chinese": "阿尔法提哈"
+    },
+    "slug": "1-al-fatihah",
+    "translation": {
+      "bengali": "সূচনা",
+      "chinese": "开端章",
+      "english": "The Opener",
+      "french": "L'ouverture",
+      "russian": "Открывающая Коран",
+      "urdu": "کھولنے والی"
+    },
+    "type": "meccan",
+    "total_verses": 7
+  },
+  {
+    "id": 2,
+    "slug": "2-al-baqarah",
+    "name": "البقرة",
+    "transliteration": {
+      "bengali": "আল-বাকারা",
+      "english": "Al-Baqarah",
+      "arabic": "البقرة",
+      "urdu": "البقرہ",
+      "russian": "Аль-Бакара",
+      "french": "Al-Baqarah",
+      "chinese": "阿尔巴卡拉"
+    },
+    "translation": {
+      "bengali": "বকনা-বাছুর",
+      "chinese": "黄牛",
+      "english": "The Cow",
+      "french": "La vache",
+      "russian": "Корова",
+      "urdu": "گائے"
+    },
+    "type": "medinan",
+    "total_verses": 286
+  },
+  {
+    "id": 3,
+    "slug": "3-ali-imran",
+    "name": "آل عمران",
+    "transliteration": {
+      "bengali": "আল-ইমরান",
+      "english": "Ali 'Imran",
+      "arabic": "آل عمران",
+      "urdu": "آل عمران",
+      "russian": "Али 'Имран",
+      "french": "Ali 'Imran",
+      "chinese": "阿里伊姆兰"
+    },
+    "translation": {
+      "bengali": "ইমরানের পরিবার",
+      "chinese": "仪姆兰的家属",
+      "english": "Family of Imran",
+      "french": "La famille de 'imran",
+      "russian": "Семейство Имрана",
+      "urdu": "عمران کا خاندان"
+    },
+    "type": "medinan",
+    "total_verses": 200
+  },
+  {
+    "id": 4,
+    "slug": "4-an-nisa",
+    "name": "النساء",
+    "transliteration": {
+      "bengali": "আন-নিসা",
+      "english": "An-Nisa",
+      "arabic": "النساء",
+      "urdu": "النساء",
+      "russian": "Ан-Ниса",
+      "french": "An-Nisa",
+      "chinese": "安尼萨"
+    },
+    "translation": {
+      "bengali": "নারী",
+      "chinese": "妇女",
+      "english": "The Women",
+      "french": "Les femmes",
+      "russian": "Женщины",
+      "urdu": "عورت"
+    },
+    "type": "medinan",
+    "total_verses": 176
+  },
+  {
+    "id": 5,
+    "name": "المائدة",
+    "slug": "5-al-maidah",
+    "transliteration": {
+      "bengali": "আল-মায়েদা",
+      "english": "Al-Maidah",
+      "arabic": "المائدة",
+      "urdu": "المائدہ",
+      "russian": "Аль-Майдя",
+      "french": "Al-Maidah",
+      "chinese": "阿尔迈达"
+    },
+    "translation": {
+      "bengali": "খাদ্য পরিবেশিত টেবিল",
+      "chinese": "筵席",
+      "english": "The Table Spread",
+      "french": "La table servie",
+      "russian": "Трапеза",
+      "urdu": "دسترخوان"
+    },
+    "type": "medinan",
+    "total_verses": 120
+  },
+  {
+    "id": 6,
+    "name": "الأنعام",
+    "slug": "6-al-anam",
+    "transliteration": {
+      "bengali": "আল-আনআম",
+      "english": "Al-Anam",
+      "arabic": "الأنعام",
+      "urdu": "الانعام",
+      "russian": "Аль-Ан'ам",
+      "french": "Al-Anam",
+      "chinese": "阿尔安安"
+    },
+    "translation": {
+      "bengali": "গৃহপালিত পশু",
+      "chinese": "牲畜",
+      "english": "The Cattle",
+      "french": "Les bestiaux",
+      "russian": "Скот",
+      "urdu": "مویشی"
+    },
+    "type": "meccan",
+    "total_verses": 165
+  },
+  {
+    "id": 7,
+    "name": "الأعراف",
+    "slug": "7-al-araf",
+    "transliteration": {
+      "bengali": "আল-আরাফ",
+      "english": "Al-A'raf",
+      "arabic": "الأعراف",
+      "urdu": "الاعراف",
+      "russian": "Аль-А'раф",
+      "french": "Al-A'raf",
+      "chinese": "阿尔阿拉夫"
+    },
+    "translation": {
+      "bengali": "উচু স্থান",
+      "chinese": "高处",
+      "english": "The Heights",
+      "french": "Al-A'raf",
+      "russian": "Ограды",
+      "urdu": "اونچی جگہ"
+    },
+    "type": "meccan",
+    "total_verses": 206
+  },
+  {
+    "id": 8,
+    "name": "الأنفال",
+    "slug": "8-al-anfal",
+    "transliteration": {
+      "bengali": "আল-আনফাল",
+      "english": "Al-Anfal",
+      "arabic": "الأنفال",
+      "urdu": "الانفال",
+      "russian": "Аль-Анфаль",
+      "french": "Al-Anfal",
+      "chinese": "阿尔安法尔"
+    },
+    "translation": {
+      "bengali": "যুদ্ধ-লব্ধ ধনসম্পদ",
+      "chinese": "战利品",
+      "english": "The Spoils of War",
+      "french": "Le butin",
+      "russian": "Трофеи",
+      "urdu": "مال غنیمت"
+    },
+    "type": "medinan",
+    "total_verses": 75
+  },
+  {
+    "id": 9,
+    "name": "التوبة",
+    "slug": "9-at-tawbah",
+    "transliteration": {
+      "bengali": "আত-তাওবা",
+      "english": "At-Tawbah",
+      "arabic": "التوبة",
+      "urdu": "التوبہ",
+      "russian": "Ат-Тауба",
+      "french": "At-Tawbah",
+      "chinese": "阿特-塔瓦巴"
+    },
+    "translation": {
+      "bengali": "অনুশোচনা",
+      "chinese": "忏悔",
+      "english": "The Repentance",
+      "french": "Le repentir",
+      "russian": "Покаяние",
+      "urdu": "توبہ"
+    },
+    "type": "medinan",
+    "total_verses": 129
+  },
+  {
+    "id": 10,
+    "name": "يونس",
+    "slug": "10-yunus",
+    "transliteration": {
+      "bengali": "ইউনুস",
+      "english": "Yunus",
+      "arabic": "يونس",
+      "urdu": "یونس",
+      "russian": "Йунус",
+      "french": "Jonas",
+      "chinese": "优努斯"
+    },
+    "translation": {
+      "bengali": "নবী ইউনুস",
+      "chinese": "优努斯",
+      "english": "Jonah",
+      "french": "Jonas",
+      "russian": "Йунус",
+      "urdu": "یونس"
+    },
+    "type": "meccan",
+    "total_verses": 109
+  },
+  {
+    "id": 11,
+    "name": "هود",
+    "transliteration": {
+      "bengali": "হুদ",
+      "english": "Hud",
+      "arabic": "هود",
+      "urdu": "حود",
+      "russian": "Худ",
+      "french": "Houd",
+      "chinese": "呼德"
+    },
+    "slug": "11-hud",
+    "translation": {
+      "bengali": "নবী হুদ",
+      "chinese": "呼德",
+      "english": "Hud",
+      "french": "Houd",
+      "russian": "Худ",
+      "urdu": "حود"
+    },
+    "type": "meccan",
+    "total_verses": 123
+  },
+  {
+    "id": 12,
+    "name": "يوسف",
+    "transliteration": {
+      "bengali": "ইউসুফ",
+      "english": "Yusuf",
+      "arabic": "يوسف",
+      "urdu": "یوسف",
+      "russian": "Йусуф",
+      "french": "Joseph",
+      "chinese": "优素福"
+    },
+    "slug": "12-yusuf",
+    "translation": {
+      "bengali": "নবী ইউসুফ",
+      "chinese": "优素福",
+      "english": "Joseph",
+      "french": "Joseph",
+      "russian": "Йусуф",
+      "urdu": "یوسف"
+    },
+    "type": "meccan",
+    "total_verses": 111
+  },
+  {
+    "id": 13,
+    "name": "الرعد",
+    "slug": "13-ar-raad",
+    "transliteration": {
+      "bengali": "আর-রায়্যাদ",
+      "english": "Ar-Raad",
+      "arabic": "الرعد",
+      "urdu": "الرعد",
+      "russian": "Ар-Раад",
+      "french": "Ar-Raad",
+      "chinese": "阿尔拉德"
+    },
+    "translation": {
+      "bengali": "বজ্রপাত",
+      "chinese": "雷霆",
+      "english": "The Thunder",
+      "french": "Le tonnerre",
+      "russian": "Гром",
+      "urdu": "گرج"
+    },
+    "type": "medinan",
+    "total_verses": 43
+  },
+  {
+    "id": 14,
+    "name": "ابراهيم",
+    "slug": "14-ibrahim",
+    "transliteration": {
+      "bengali": "ইবরাহীম",
+      "english": "Ibrahim",
+      "arabic": "ابراهيم",
+      "urdu": "ابراہیم",
+      "russian": "Ибрахим",
+      "french": "Abraham",
+      "chinese": "易卜拉欣"
+    },
+    "translation": {
+      "bengali": "নবী ইবরাহীম",
+      "chinese": "易卜拉欣",
+      "english": "Abraham",
+      "french": "Abraham",
+      "russian": "Ибрахим",
+      "urdu": "ابراہیم"
+    },
+    "type": "meccan",
+    "total_verses": 52
+  },
+  {
+    "id": 15,
+    "slug": "15-al-hijr",
+    "name": "الحجر",
+    "transliteration": {
+      "bengali": "আল-হিজর",
+      "english": "Al-Hijr",
+      "arabic": "الحجر",
+      "urdu": "الحجر",
+      "russian": "Аль-Хиджр",
+      "french": "Al-Hijr",
+      "chinese": "阿尔希杰尔"
+    },
+    "translation": {
+      "bengali": "পাথুরে পাহাড়",
+      "chinese": "石谷",
+      "english": "The Rocky Tract",
+      "french": "Al-Hijr",
+      "russian": "Хиджр ",
+      "urdu": "پتھر"
+    },
+    "type": "meccan",
+    "total_verses": 99
+  },
+  {
+    "id": 16,
+    "name": "النحل",
+    "slug": "16-an-nahl",
+    "transliteration": {
+      "bengali": "আন-নাহল",
+      "english": "An-Nahl",
+      "arabic": "النحل",
+      "urdu": "النحل",
+      "russian": "Ан-Нахль",
+      "french": "An-Nahl",
+      "chinese": "安纳赫尔"
+    },
+    "translation": {
+      "bengali": "মৌমাছি",
+      "chinese": "蜜蜂",
+      "english": "The Bee",
+      "french": "Les abeilles",
+      "russian": "Пчелы",
+      "urdu": "شہد کی مکھی"
+    },
+    "type": "meccan",
+    "total_verses": 128
+  },
+  {
+    "id": 17,
+    "name": "الإسراء",
+    "slug": "17-al-isra",
+    "transliteration": {
+      "bengali": "আল-ইসরা",
+      "english": "Al-Isra",
+      "arabic": "الإسراء",
+      "urdu": "الاسراء",
+      "russian": "Аль-Исра",
+      "french": "Al-Isra",
+      "chinese": "阿尔伊斯拉"
+    },
+    "translation": {
+      "bengali": "ইহুদি জাতি",
+      "chinese": "夜行",
+      "english": "The Night Journey",
+      "french": "Le voyage nocturne",
+      "russian": "Ночной перенос",
+      "urdu": "رات کا صفر"
+    },
+    "type": "meccan",
+    "total_verses": 111
+  },
+  {
+    "id": 18,
+    "name": "الكهف",
+    "slug": "18-al-kahf",
+    "transliteration": {
+      "bengali": "আল-কাহফ",
+      "english": "Al-Kahf",
+      "arabic": "الكهف",
+      "urdu": "الکہف",
+      "russian": "Аль-Кахф",
+      "french": "Al-Kahf",
+      "chinese": "阿尔卡赫夫"
+    },
+    "translation": {
+      "bengali": "গুহা",
+      "chinese": "山洞",
+      "english": "The Cave",
+      "french": "La caverne",
+      "russian": "Пещера",
+      "urdu": "غار"
+    },
+    "type": "meccan",
+    "total_verses": 110
+  },
+  {
+    "id": 19,
+    "name": "مريم",
+    "slug": "19-maryam",
+    "transliteration": {
+      "bengali": "মারইয়াম",
+      "english": "Maryam",
+      "arabic": "مريم",
+      "urdu": "مریم",
+      "russian": "Марьям",
+      "french": "Marie",
+      "chinese": "玛丽亚"
+    },
+    "translation": {
+      "bengali": "মারইয়াম (ঈসা নবীর মা)",
+      "chinese": "麦尔彦",
+      "english": "Mary",
+      "french": "Marie",
+      "russian": "Марьям",
+      "urdu": "مریم"
+    },
+    "type": "meccan",
+    "total_verses": 98
+  },
+  {
+    "id": 20,
+    "name": "طه",
+    "slug": "20-ta-ha",
+    "transliteration": {
+      "bengali": "ত়া হা",
+      "english": "Ta-Ha",
+      "arabic": "طه",
+      "urdu": "طٰہٰ",
+      "russian": "Та Ха ",
+      "french": "Ta-Ha",
+      "chinese": "塔哈"
+    },
+    "translation": {
+      "bengali": "ত়া হা",
+      "chinese": "塔哈",
+      "english": "Ta-Ha",
+      "french": "Ta-Ha",
+      "russian": "Та Ха ",
+      "urdu": "طٰہٰ"
+    },
+    "type": "meccan",
+    "total_verses": 135
+  },
+  {
+    "id": 21,
+    "name": "الأنبياء",
+    "slug": "21-al-anbiya",
+    "transliteration": {
+      "bengali": "আল-আনবিয়া",
+      "english": "Al-Anbiya",
+      "arabic": "الأنبياء",
+      "urdu": "الانبیاء",
+      "russian": "Аль-Анбия",
+      "french": "Al-Anbiya",
+      "chinese": "阿尔安比亚"
+    },
+    "translation": {
+      "bengali": "নবীগণ",
+      "chinese": "众先知",
+      "english": "The Prophets",
+      "french": "Les prophètes",
+      "russian": "Пророки",
+      "urdu": "پیغمبر"
+    },
+    "type": "meccan",
+    "total_verses": 112
+  },
+  {
+    "id": 22,
+    "name": "الحج",
+    "slug": "22-al-hajj",
+    "transliteration": {
+      "bengali": "আল-হাজ্জ",
+      "english": "Al-Hajj",
+      "arabic": "الحج",
+      "urdu": "الحج",
+      "russian": "Аль-Хадж",
+      "french": "Al-Hajj",
+      "chinese": "阿尔哈吉"
+    },
+    "translation": {
+      "bengali": "হ়াজ্জ",
+      "chinese": "朝觐",
+      "english": "The Pilgrimage",
+      "french": "Le pèlerinage",
+      "russian": "Паломничество",
+      "urdu": "حج"
+    },
+    "type": "medinan",
+    "total_verses": 78
+  },
+  {
+    "id": 23,
+    "name": "المؤمنون",
+    "slug": "23-al-muminun",
+    "transliteration": {
+      "bengali": "আল-মুমিনুন",
+      "english": "Al-Muminun",
+      "arabic": "المؤمنون",
+      "urdu": "المومنون",
+      "russian": "Аль-Муминун",
+      "french": "Al-Muminun",
+      "chinese": "阿尔穆明宁"
+    },
+    "translation": {
+      "bengali": "বিশ্বাসী",
+      "chinese": "信士",
+      "english": "The Believers",
+      "french": "Les croyants",
+      "russian": "Верующие",
+      "urdu": "مومنین"
+    },
+    "type": "meccan",
+    "total_verses": 118
+  },
+  {
+    "id": 24,
+    "slug": "24-an-nur",
+    "name": "النور",
+    "transliteration": {
+      "bengali": "আন-নূর",
+      "english": "An-Nur",
+      "arabic": "النور",
+      "urdu": "النور",
+      "russian": "Ан-Нур",
+      "french": "An-Nur",
+      "chinese": "安努尔"
+    },
+    "translation": {
+      "bengali": "আলো",
+      "chinese": "光明",
+      "english": "The Light",
+      "french": "La lumière",
+      "russian": "Свет",
+      "urdu": "نور"
+    },
+    "type": "medinan",
+    "total_verses": 64
+  },
+  {
+    "id": 25,
+    "name": "الفرقان",
+    "slug": "25-al-furqan",
+    "transliteration": {
+      "bengali": "আল-ফুরকান",
+      "english": "Al-Furqan",
+      "arabic": "الفرقان",
+      "urdu": "الفرقان",
+      "russian": "Аль-Фуркан",
+      "french": "Al-Furqan",
+      "chinese": "阿尔富尔坎"
+    },
+    "translation": {
+      "bengali": "মানদণ্ড",
+      "chinese": "准则",
+      "english": "The Criterion",
+      "french": "Le discernement",
+      "russian": "аль-Фуркан",
+      "urdu": "صحیح اور غلط میں فرق کرنے والی کتاب"
+    },
+    "type": "meccan",
+    "total_verses": 77
+  },
+  {
+    "id": 26,
+    "name": "الشعراء",
+    "slug": "26-ash-shuara",
+    "transliteration": {
+      "bengali": "আশ-শুয়ারা",
+      "english": "Ash-Shu'ara",
+      "arabic": "الشعراء",
+      "urdu": "الشعراء",
+      "russian": "Аш-Шуара",
+      "french": "Ash-Shu'ara",
+      "chinese": "阿什舒阿拉"
+    },
+    "translation": {
+      "bengali": "কবি",
+      "chinese": "众诗人",
+      "english": "The Poets",
+      "french": "Les poètes",
+      "russian": "Поэты",
+      "urdu": "شعراٗ"
+    },
+    "type": "meccan",
+    "total_verses": 227
+  },
+  {
+    "id": 27,
+    "name": "النمل",
+    "slug": "27-an-naml",
+    "transliteration": {
+      "bengali": "আন-নামল",
+      "english": "An-Naml",
+      "arabic": "النمل",
+      "urdu": "النمل",
+      "russian": "Ан-Намль",
+      "french": "An-Naml",
+      "chinese": "安纳姆尔"
+    },
+    "translation": {
+      "bengali": "পিঁপড়া",
+      "chinese": "蚂蚁",
+      "english": "The Ant",
+      "french": "Les fourmis",
+      "russian": "Муравьи",
+      "urdu": "چیونٹی"
+    },
+    "type": "meccan",
+    "total_verses": 93
+  },
+  {
+    "id": 28,
+    "slug": "28-al-qasas",
+    "name": "القصص",
+    "transliteration": {
+      "bengali": "আল-কাসাস",
+      "english": "Al-Qasas",
+      "arabic": "القصص",
+      "urdu": "القصص",
+      "russian": "Аль-Касас",
+      "french": "Al-Qasas",
+      "chinese": "阿尔卡萨斯"
+    },
+    "translation": {
+      "bengali": "কাহিনি",
+      "chinese": "故事",
+      "english": "The Stories",
+      "french": "Le récit",
+      "russian": "Рассказ",
+      "urdu": "قصے"
+    },
+    "type": "meccan",
+    "total_verses": 88
+  },
+  {
+    "id": 29,
+    "name": "العنكبوت",
+    "slug": "29-al-ankabut",
+    "transliteration": {
+      "bengali": "আল-আনকাবুত",
+      "english": "Al-Ankabut",
+      "arabic": "العنكبوت",
+      "urdu": "العنکبوت",
+      "russian": "Аль-Анкабут",
+      "french": "Al-Ankabut",
+      "chinese": "阿尔安卡布特"
+    },
+    "translation": {
+      "bengali": "মাকড়শা",
+      "chinese": "蜘蛛",
+      "english": "The Spider",
+      "french": "L'araignée",
+      "russian": "Паук",
+      "urdu": "مکڑی"
+    },
+    "type": "meccan",
+    "total_verses": 69
+  },
+  {
+    "id": 30,
+    "slug": "30-ar-rum",
+    "name": "الروم",
+    "transliteration": {
+      "bengali": "আর-রুম",
+      "english": "Ar-Rum",
+      "arabic": "الروم",
+      "urdu": "الروم",
+      "russian": "Ар-Рум",
+      "french": "Ar-Rum",
+      "chinese": "阿尔鲁姆"
+    },
+    "translation": {
+      "bengali": "রোমান জাতি",
+      "chinese": "罗马人",
+      "english": "The Romans",
+      "french": "Les romains",
+      "russian": "Римляне",
+      "urdu": "روم"
+    },
+    "type": "meccan",
+    "total_verses": 60
+  },
+  {
+    "id": 31,
+    "slug": "31-luqman",
+    "name": "لقمان",
+    "transliteration": {
+      "bengali": "লুকমান",
+      "english": "Luqman",
+      "arabic": "لقمان",
+      "urdu": "لقمان",
+      "russian": "Лукман",
+      "french": "Louqman",
+      "chinese": "鲁格曼"
+    },
+    "translation": {
+      "bengali": "এক জ্ঞানী ব্যাক্তি",
+      "chinese": "鲁格曼",
+      "english": "Luqman",
+      "french": "Louqman",
+      "russian": "Лукман",
+      "urdu": "لقمان"
+    },
+    "type": "meccan",
+    "total_verses": 34
+  },
+  {
+    "id": 32,
+    "name": "السجدة",
+    "slug": "32-as-sajdah",
+    "transliteration": {
+      "bengali": "আস-সাজদা",
+      "english": "As-Sajdah",
+      "arabic": "السجدة",
+      "urdu": "السجدہ",
+      "russian": "Ас-Саджда",
+      "french": "As-Sajdah",
+      "chinese": "阿斯苏加达"
+    },
+    "translation": {
+      "bengali": "সিজদা",
+      "chinese": "叩头",
+      "english": "The Prostration",
+      "french": "La prosternation",
+      "russian": "Земной поклон",
+      "urdu": "سجدہ"
+    },
+    "type": "meccan",
+    "total_verses": 30
+  },
+  {
+    "id": 33,
+    "name": "الأحزاب",
+    "slug": "33-al-ahzab",
+    "transliteration": {
+      "bengali": "আল-আহজাব",
+      "english": "Al-Ahzab",
+      "arabic": "الأحزاب",
+      "urdu": "الاحزاب",
+      "russian": "Аль-Ахзаб",
+      "french": "Al-Ahzab",
+      "chinese": "阿尔阿赫扎布"
+    },
+    "translation": {
+      "bengali": "জোট",
+      "chinese": "同盟军",
+      "english": "The Combined Forces",
+      "french": "Les coalisés",
+      "russian": "Союзники",
+      "urdu": "متحد گروہ"
+    },
+    "type": "medinan",
+    "total_verses": 73
+  },
+  {
+    "id": 34,
+    "name": "سبإ",
+    "transliteration": {
+      "bengali": "সবা",
+      "english": "Saba",
+      "arabic": "سبإ",
+      "urdu": "سبا",
+      "russian": "Саба",
+      "french": "Saba",
+      "chinese": "赛伯"
+    },
+    "slug": "34-saba",
+    "translation": {
+      "bengali": "রানী সাবা/শেবা",
+      "chinese": "赛伯邑",
+      "english": "Sheba",
+      "french": "Saba'",
+      "russian": "Сава",
+      "urdu": "سبا"
+    },
+    "type": "meccan",
+    "total_verses": 54
+  },
+  {
+    "id": 35,
+    "name": "فاطر",
+    "slug": "35-fatir",
+    "transliteration": {
+      "bengali": "ফাতির",
+      "english": "Fatir",
+      "arabic": "فاطر",
+      "urdu": "فاطر",
+      "russian": "Фатир",
+      "french": "Fatir",
+      "chinese": "法提尔"
+    },
+    "translation": {
+      "bengali": "আদি স্রষ্টা",
+      "chinese": "创造者",
+      "english": "Originator",
+      "french": "Le Créateur",
+      "russian": "Творец",
+      "urdu": "پیدا کرنے والا"
+    },
+    "type": "meccan",
+    "total_verses": 45
+  },
+  {
+    "id": 36,
+    "name": "يس",
+    "slug": "36-ya-sin",
+    "transliteration": {
+      "bengali": "ইয়াসীন",
+      "english": "Ya Sin",
+      "arabic": "يس",
+      "urdu": "یٰسٓ",
+      "russian": "Йа Син",
+      "french": "Ya-Sin",
+      "chinese": "雅辛"
+    },
+    "translation": {
+      "bengali": "ইয়াসীন",
+      "chinese": "雅辛",
+      "english": "Ya Sin",
+      "french": "Ya-Sin",
+      "russian": "Йа Син",
+      "urdu": "یٰسٓ"
+    },
+    "type": "meccan",
+    "total_verses": 83
+  },
+  {
+    "id": 37,
+    "name": "الصافات",
+    "slug": "37-as-saffat",
+    "transliteration": {
+      "bengali": "আস-সাফফাত",
+      "english": "As-Saffat",
+      "arabic": "الصافات",
+      "urdu": "الصافات",
+      "russian": "Ас-Саффат",
+      "french": "As-Saffat",
+      "chinese": "阿斯萨法特"
+    },
+    "translation": {
+      "bengali": "সারিবদ্ধভাবে দাঁড়ানো",
+      "chinese": "列班者",
+      "english": "Those who set the Ranks",
+      "french": "Les rangés",
+      "russian": "Выстроившиеся в ряды",
+      "urdu": "صف باندھنے والے"
+    },
+    "type": "meccan",
+    "total_verses": 182
+  },
+  {
+    "id": 38,
+    "name": "ص",
+    "transliteration": {
+      "bengali": "সাদ",
+      "english": "Sad",
+      "arabic": "ص",
+      "urdu": "صٓ",
+      "russian": "Сод",
+      "french": "Sad",
+      "chinese": "萨德"
+    },
+    "slug": "38-sad",
+    "translation": {
+      "bengali": "আরবি বর্ণ সাদ",
+      "chinese": "萨德",
+      "english": "The Letter \"Saad\"",
+      "french": "Sad",
+      "russian": "Сод",
+      "urdu": "صٓ"
+    },
+    "type": "meccan",
+    "total_verses": 88
+  },
+  {
+    "id": 39,
+    "name": "الزمر",
+    "slug": "39-az-zumar",
+    "transliteration": {
+      "bengali": "আজ-জুমার",
+      "english": "Az-Zumar",
+      "arabic": "الزمر",
+      "urdu": "الزمر",
+      "russian": "Аз-Зумар",
+      "french": "Az-Zumar",
+      "chinese": "阿兹祖玛尔"
+    },
+    "translation": {
+      "bengali": "দলবদ্ধ জনতা",
+      "chinese": "队伍",
+      "english": "The Troops",
+      "french": "Les groupes",
+      "russian": "Толпы",
+      "urdu": "گروہ"
+    },
+    "type": "meccan",
+    "total_verses": 75
+  },
+  {
+    "id": 40,
+    "name": "غافر",
+    "slug": "40-ghafir",
+    "transliteration": {
+      "bengali": "গাফির",
+      "english": "Ghafir",
+      "arabic": "غافر",
+      "urdu": "غافر",
+      "russian": "Гафир",
+      "french": "Ghafir",
+      "chinese": "加菲尔"
+    },
+    "translation": {
+      "bengali": "ক্ষমাকারী",
+      "chinese": "赦宥者",
+      "english": "The Forgiver",
+      "french": "Le Pardonneur",
+      "russian": "Прощающий",
+      "urdu": "بخشنے والا"
+    },
+    "type": "meccan",
+    "total_verses": 85
+  },
+  {
+    "id": 41,
+    "name": "فصلت",
+    "slug": "41-fussilat",
+    "transliteration": {
+      "bengali": "ফুসসিলাত",
+      "english": "Fussilat",
+      "arabic": "فصلت",
+      "urdu": "فصلت",
+      "russian": "Фуссилат",
+      "french": "Fussilat",
+      "chinese": "富斯斯拉特"
+    },
+    "translation": {
+      "bengali": "সুস্পষ্ট বিবরণ",
+      "chinese": "奉绥来特",
+      "english": "Explained in Detail",
+      "french": "Les versets explicites",
+      "russian": "Разъяснены",
+      "urdu": "مفصل"
+    },
+    "type": "meccan",
+    "total_verses": 54
+  },
+  {
+    "id": 42,
+    "name": "الشورى",
+    "slug": "42-ash-shura",
+    "transliteration": {
+      "bengali": "আশ-শুরা",
+      "english": "Ash-Shura",
+      "arabic": "الشورى",
+      "urdu": "الشوری",
+      "russian": "Аш-Шура",
+      "french": "Ash-Shura",
+      "chinese": "阿什舒拉"
+    },
+    "translation": {
+      "bengali": "পরামর্শ",
+      "chinese": "协商",
+      "english": "The Consultation",
+      "french": "La concertation",
+      "russian": "Совет",
+      "urdu": "شورٰی"
+    },
+    "type": "meccan",
+    "total_verses": 53
+  },
+  {
+    "id": 43,
+    "name": "الزخرف",
+    "slug": "43-az-zukhruf",
+    "transliteration": {
+      "bengali": "আজ-জুখরুফ",
+      "english": "Az-Zukhruf",
+      "arabic": "الزخرف",
+      "urdu": "الزخرف",
+      "russian": "Аз-Зухруф",
+      "french": "Az-Zukhruf",
+      "chinese": "阿兹祖克胡鲁夫"
+    },
+    "translation": {
+      "bengali": "সোনাদানা",
+      "chinese": "金饰",
+      "english": "The Ornaments of Gold",
+      "french": "L'ornement",
+      "russian": "Украшения",
+      "urdu": "سونے کی چمک"
+    },
+    "type": "meccan",
+    "total_verses": 89
+  },
+  {
+    "id": 44,
+    "name": "الدخان",
+    "slug": "44-ad-dukhan",
+    "transliteration": {
+      "bengali": "আদ-দুখান",
+      "english": "Ad-Dukhan",
+      "arabic": "الدخان",
+      "urdu": "الدخان",
+      "russian": "Ад-Духан",
+      "french": "Ad-Dukhan",
+      "chinese": "阿德杜汗"
+    },
+    "translation": {
+      "bengali": "ধোঁয়া",
+      "chinese": "烟雾",
+      "english": "The Smoke",
+      "french": "La fumée",
+      "russian": "Дым",
+      "urdu": "دھواں"
+    },
+    "type": "meccan",
+    "total_verses": 59
+  },
+  {
+    "id": 45,
+    "name": "الجاثية",
+    "slug": "45-al-jathiyah",
+    "transliteration": {
+      "bengali": "আল-জাথিয়াহ",
+      "english": "Al-Jathiyah",
+      "arabic": "الجاثية",
+      "urdu": "الجاثیہ",
+      "russian": "Аль-Джатия",
+      "french": "Al-Jathiyah",
+      "chinese": "阿尔贾西亚"
+    },
+    "translation": {
+      "bengali": "নতজানু",
+      "chinese": "屈膝",
+      "english": "The Crouching",
+      "french": "L'agenouillée",
+      "russian": "Коленопреклоненные",
+      "urdu": "زانوٗوں کے بل گری ہوئی"
+    },
+    "type": "meccan",
+    "total_verses": 37
+  },
+  {
+    "id": 46,
+    "name": "الأحقاف",
+    "transliteration": {
+      "bengali": "আল-আহকাফ",
+      "english": "Al-Ahqaf",
+      "arabic": "الأحقاف",
+      "urdu": "الاحقاف",
+      "russian": "Аль-Ахкаф",
+      "french": "Al-Ahqaf",
+      "chinese": "阿尔阿赫卡夫"
+    },
+    "slug": "46-al-ahqaf",
+    "translation": {
+      "bengali": "বালুর পাহাড়",
+      "chinese": "沙丘",
+      "english": "The Wind-Curved Sandhills",
+      "french": "Al-Ahqaf",
+      "russian": "Барханы",
+      "urdu": "ریگستان"
+    },
+    "type": "meccan",
+    "total_verses": 35
+  },
+  {
+    "id": 47,
+    "name": "محمد",
+    "slug": "47-muhammad",
+    "transliteration": {
+      "bengali": "মুহাম্মদ",
+      "english": "Muhammad",
+      "arabic": "محمد",
+      "urdu": "محمدﷺ",
+      "russian": "Мухаммад",
+      "french": "Mouhammad",
+      "chinese": "穆罕默德"
+    },
+    "translation": {
+      "bengali": "নবী মুহাম্মদ",
+      "chinese": "穆罕默德",
+      "english": "Muhammad",
+      "french": "Mouhammad",
+      "russian": "Мухаммад",
+      "urdu": "محمدﷺ"
+    },
+    "type": "medinan",
+    "total_verses": 38
+  },
+  {
+    "id": 48,
+    "name": "الفتح",
+    "slug": "48-al-fath",
+    "transliteration": {
+      "bengali": "আল-ফাতহ",
+      "english": "Al-Fath",
+      "arabic": "الفتح",
+      "urdu": "الفتح",
+      "russian": "Аль-Фатх",
+      "french": "Al-Fath",
+      "chinese": "阿尔法特赫"
+    },
+    "translation": {
+      "bengali": "বিজয়",
+      "chinese": "胜利",
+      "english": "The Victory",
+      "french": "La victoire éclatante",
+      "russian": "Победа",
+      "urdu": "فتح"
+    },
+    "type": "medinan",
+    "total_verses": 29
+  },
+  {
+    "id": 49,
+    "name": "الحجرات",
+    "slug": "49-al-hujurat",
+    "transliteration": {
+      "bengali": "আল-হুজুরাত",
+      "english": "Al-Hujurat",
+      "arabic": "الحجرات",
+      "urdu": "الحجرات",
+      "russian": "Аль-Худжурат",
+      "french": "Al-Hujurat",
+      "chinese": "阿尔胡苏拉特"
+    },
+    "translation": {
+      "bengali": "আবাস",
+      "chinese": "寝室",
+      "english": "The Rooms",
+      "french": "Les appartements",
+      "russian": "Комнаты",
+      "urdu": "حجرے"
+    },
+    "type": "medinan",
+    "total_verses": 18
+  },
+  {
+    "id": 50,
+    "name": "ق",
+    "transliteration": {
+      "bengali": "কাফ",
+      "english": "Qaf",
+      "arabic": "ق",
+      "urdu": "قٓ",
+      "russian": "Каф",
+      "french": "Qaf",
+      "chinese": "戛弗"
+    },
+    "slug": "50-qaf",
+    "translation": {
+      "bengali": "কাফ",
+      "chinese": "戛弗",
+      "english": "The Letter \"Qaf\"",
+      "french": "Qaf",
+      "russian": "Каф",
+      "urdu": "قٓ"
+    },
+    "type": "meccan",
+    "total_verses": 45
+  },
+  {
+    "id": 51,
+    "name": "الذاريات",
+    "slug": "51-adh-dhariyat",
+    "transliteration": {
+      "bengali": "আদ-দারিয়াত",
+      "english": "Adh-Dhariyat",
+      "arabic": "الذاريات",
+      "urdu": "الذاریات",
+      "russian": "Ад-Дарият",
+      "french": "Adh-Dhariyat",
+      "chinese": "阿尔扎里亚特"
+    },
+    "translation": {
+      "bengali": "বিক্ষেপকারী বাতাস",
+      "chinese": "播种者",
+      "english": "The Winnowing Winds",
+      "french": "Qui éparpillent",
+      "russian": "Рассеивающие прах",
+      "urdu": "بکھیرنے والیاں"
+    },
+    "type": "meccan",
+    "total_verses": 60
+  },
+  {
+    "id": 52,
+    "name": "الطور",
+    "slug": "52-at-tur",
+    "transliteration": {
+      "bengali": "আত-তূর",
+      "english": "At-Tur",
+      "arabic": "الطور",
+      "urdu": "الطور",
+      "russian": "Ат-Тур",
+      "french": "At-Tur",
+      "chinese": "阿特图尔"
+    },
+    "translation": {
+      "bengali": "পাহাড়",
+      "chinese": "山岳",
+      "english": "The Mount",
+      "french": "Le mont At-Tour",
+      "russian": "Гора",
+      "urdu": "طور پہاڑ"
+    },
+    "type": "meccan",
+    "total_verses": 49
+  },
+  {
+    "id": 53,
+    "slug": "53-an-najm",
+    "name": "النجم",
+    "transliteration": {
+      "bengali": "আন-নাজম",
+      "english": "An-Najm",
+      "arabic": "النجم",
+      "urdu": "النجم",
+      "russian": "Ан-Наджм",
+      "french": "An-Najm",
+      "chinese": "阿尔纳吉姆"
+    },
+    "translation": {
+      "bengali": "তারা",
+      "chinese": "星宿",
+      "english": "The Star",
+      "french": "L'étoile",
+      "russian": "Звезда",
+      "urdu": "ستارہ"
+    },
+    "type": "meccan",
+    "total_verses": 62
+  },
+  {
+    "id": 54,
+    "name": "القمر",
+    "slug": "54-al-qamar",
+    "transliteration": {
+      "bengali": "আল-কামার",
+      "english": "Al-Qamar",
+      "arabic": "القمر",
+      "urdu": "القمر",
+      "russian": "Аль-Камар",
+      "french": "Al-Qamar",
+      "chinese": "阿尔卡马尔"
+    },
+    "translation": {
+      "bengali": "চাঁদ",
+      "chinese": "月亮",
+      "english": "The Moon",
+      "french": "La lune",
+      "russian": "Месяц",
+      "urdu": "چاند"
+    },
+    "type": "meccan",
+    "total_verses": 55
+  },
+  {
+    "id": 55,
+    "name": "الرحمن",
+    "slug": "55-ar-rahman",
+    "transliteration": {
+      "bengali": "আর-রহমান",
+      "english": "Ar-Rahman",
+      "arabic": "الرحمن",
+      "urdu": "الرحمٰن",
+      "russian": "Ар-Рахман",
+      "french": "Ar-Rahman",
+      "chinese": "阿尔拉赫曼"
+    },
+    "translation": {
+      "bengali": "পরম করুণাময়",
+      "chinese": "至仁主",
+      "english": "The Beneficent",
+      "french": "Le Tout Miséricordieux",
+      "russian": "Милостивый",
+      "urdu": "مہربان"
+    },
+    "type": "medinan",
+    "total_verses": 78
+  },
+  {
+    "id": 56,
+    "name": "الواقعة",
+    "slug": "56-al-waqi-ah",
+    "transliteration": {
+      "bengali": "আল-ওয়াকিয়াহ",
+      "english": "Al-Waqi'ah",
+      "arabic": "الواقعة",
+      "urdu": "الواقعہ",
+      "russian": "Аль-Вакиа",
+      "french": "Al-Waqi'ah",
+      "chinese": "阿尔瓦基阿"
+    },
+    "translation": {
+      "bengali": "নিশ্চিত ঘটনা",
+      "chinese": "大事",
+      "english": "The Inevitable",
+      "french": "L'inévitable",
+      "russian": "Событие",
+      "urdu": "واقعہ ہونے والی قیامت"
+    },
+    "type": "meccan",
+    "total_verses": 96
+  },
+  {
+    "id": 57,
+    "name": "الحديد",
+    "slug": "57-al-hadid",
+    "transliteration": {
+      "bengali": "আল-হাদীদ",
+      "english": "Al-Hadid",
+      "arabic": "الحديد",
+      "urdu": "الحدید",
+      "russian": "Аль-Хадид",
+      "french": "Al-Hadid",
+      "chinese": "阿尔哈迪德"
+    },
+    "translation": {
+      "bengali": "লোহা",
+      "chinese": "铁",
+      "english": "The Iron",
+      "french": "Le fer",
+      "russian": "Железо",
+      "urdu": "فولاد"
+    },
+    "type": "medinan",
+    "total_verses": 29
+  },
+  {
+    "id": 58,
+    "name": "المجادلة",
+    "slug": "58-al-mujadila",
+    "transliteration": {
+      "bengali": "আল-মুজাদিলা",
+      "english": "Al-Mujadila",
+      "arabic": "المجادلة",
+      "urdu": "المجادلہ",
+      "russian": "Аль-Муджадила",
+      "french": "Al-Mujadila",
+      "chinese": "阿尔穆贾迪拉"
+    },
+    "translation": {
+      "bengali": "অনুযোগকারিণী",
+      "chinese": "辩诉者",
+      "english": "The Pleading Woman",
+      "french": "La discussion",
+      "russian": "Препирающаяся",
+      "urdu": "جھگڑنے والی"
+    },
+    "type": "medinan",
+    "total_verses": 22
+  },
+  {
+    "id": 59,
+    "name": "الحشر",
+    "slug": "59-al-hashr",
+    "transliteration": {
+      "bengali": "আল-হাশর",
+      "english": "Al-Hashr",
+      "arabic": "الحشر",
+      "urdu": "الحشر",
+      "russian": "Аль-Хашр",
+      "french": "Al-Hashr",
+      "chinese": "阿尔哈什尔"
+    },
+    "translation": {
+      "bengali": "সমাবেশ",
+      "chinese": "放逐",
+      "english": "The Exile",
+      "french": "L'exode",
+      "russian": "Сбор",
+      "urdu": "حشر"
+    },
+    "type": "medinan",
+    "total_verses": 24
+  },
+  {
+    "id": 60,
+    "name": "الممتحنة",
+    "slug": "60-al-mumtahanah",
+    "transliteration": {
+      "bengali": "আল-মুমতাহানাহ",
+      "english": "Al-Mumtahanah",
+      "arabic": "الممتحنة",
+      "urdu": "الممتحنہ",
+      "russian": "Аль-Мумтахана",
+      "french": "Al-Mumtahanah",
+      "chinese": "阿尔穆姆塔哈纳"
+    },
+    "translation": {
+      "bengali": "নারী, যাকে পরীক্ষা করা হবে",
+      "chinese": "受考验的妇人",
+      "english": "She that is to be examined",
+      "french": "L'éprouvée",
+      "russian": "Испытуемая",
+      "urdu": "امتحان لی جانے والی"
+    },
+    "type": "medinan",
+    "total_verses": 13
+  },
+  {
+    "id": 61,
+    "name": "الصف",
+    "slug": "61-as-saff",
+    "transliteration": {
+      "bengali": "আস-সাফ",
+      "english": "As-Saff",
+      "arabic": "الصف",
+      "urdu": "الصف",
+      "russian": "Ас-Сафф",
+      "french": "As-Saff",
+      "chinese": "阿尔萨夫"
+    },
+    "translation": {
+      "bengali": "সারিবদ্ধ সৈন্যদল",
+      "chinese": "列阵",
+      "english": "The Ranks",
+      "french": "Le rang",
+      "russian": "Ряды",
+      "urdu": "صف"
+    },
+    "type": "medinan",
+    "total_verses": 14
+  },
+  {
+    "id": 62,
+    "name": "الجمعة",
+    "slug": "62-al-jumu-ah",
+    "transliteration": {
+      "bengali": "আল-জুমুআহ",
+      "english": "Al-Jumu'ah",
+      "arabic": "الجمعة",
+      "urdu": "الجمعہ",
+      "russian": "Аль-Джумуа",
+      "french": "Al-Jumu'ah",
+      "chinese": "阿尔朱姆阿"
+    },
+    "translation": {
+      "bengali": "সম্মেলন/শুক্রবার",
+      "chinese": "聚礼",
+      "english": "The Congregation, Friday",
+      "french": "Le vendredi",
+      "russian": "Собрание",
+      "urdu": "جمعہ"
+    },
+    "type": "medinan",
+    "total_verses": 11
+  },
+  {
+    "id": 63,
+    "name": "المنافقون",
+    "slug": "63-al-munafiqun",
+    "transliteration": {
+      "bengali": "আল-মুনাফিকুন",
+      "english": "Al-Munafiqun",
+      "arabic": "المنافقون",
+      "urdu": "المنافقون",
+      "russian": "Аль-Мунафикун",
+      "french": "Al-Munafiqun",
+      "chinese": "阿尔穆纳菲库恩"
+    },
+    "translation": {
+      "bengali": "ভণ্ড বিশ্বাসী",
+      "chinese": "伪信者",
+      "english": "The Hypocrites",
+      "french": "Les hypocrites",
+      "russian": "Лицемеры",
+      "urdu": "منافقین"
+    },
+    "type": "medinan",
+    "total_verses": 11
+  },
+  {
+    "id": 64,
+    "name": "التغابن",
+    "slug": "64-at-taghabun",
+    "transliteration": {
+      "bengali": "আত-তাগাবুন",
+      "english": "At-Taghabun",
+      "arabic": "التغابن",
+      "urdu": "التغابن",
+      "russian": "Ат-Тагабун",
+      "french": "At-Taghabun",
+      "chinese": "阿特塔加布恩"
+    },
+    "translation": {
+      "bengali": "মোহ অপসারণ",
+      "chinese": "相欺",
+      "english": "The Mutual Disillusion",
+      "french": "La grande perte",
+      "russian": "Взаимное обделение",
+      "urdu": "ہار جیت"
+    },
+    "type": "medinan",
+    "total_verses": 18
+  },
+  {
+    "id": 65,
+    "name": "الطلاق",
+    "slug": "65-at-talaq",
+    "transliteration": {
+      "bengali": "আত-তালাক",
+      "english": "At-Talaq",
+      "arabic": "الطلاق",
+      "urdu": "الطلاق",
+      "russian": "Ат-Талак",
+      "french": "At-Talaq",
+      "chinese": "阿特塔拉克"
+    },
+    "translation": {
+      "bengali": "তালাক",
+      "chinese": "离婚",
+      "english": "The Divorce",
+      "french": "Le divorce",
+      "russian": "Развод",
+      "urdu": "طلاق"
+    },
+    "type": "medinan",
+    "total_verses": 12
+  },
+  {
+    "id": 66,
+    "name": "التحريم",
+    "slug": "66-at-tahrim",
+    "transliteration": {
+      "bengali": "আত-তাহরীম",
+      "english": "At-Tahrim",
+      "arabic": "التحريم",
+      "urdu": "التحریم",
+      "russian": "Ат-Тахрим",
+      "french": "At-Tahrim",
+      "chinese": "阿特塔赫里姆"
+    },
+    "translation": {
+      "bengali": "নিষিদ্ধকরণ",
+      "chinese": "禁戒",
+      "english": "The Prohibition",
+      "french": "L'interdiction",
+      "russian": "Запрещение",
+      "urdu": "حرمت"
+    },
+    "type": "medinan",
+    "total_verses": 12
+  },
+  {
+    "id": 67,
+    "slug": "67-al-mulk",
+    "name": "الملك",
+    "transliteration": {
+      "bengali": "আল-মুলক",
+      "english": "Al-Mulk",
+      "arabic": "الملك",
+      "urdu": "الملک",
+      "russian": "Аль-Мульк",
+      "french": "Al-Mulk",
+      "chinese": "阿尔穆尔克"
+    },
+    "translation": {
+      "bengali": "সার্বভৌম কর্তৃত্ব",
+      "chinese": "国权",
+      "english": "The Sovereignty",
+      "french": "La royauté",
+      "russian": "Власть",
+      "urdu": "ملک"
+    },
+    "type": "meccan",
+    "total_verses": 30
+  },
+  {
+    "id": 68,
+    "name": "القلم",
+    "slug": "68-al-qalam",
+    "transliteration": {
+      "bengali": "আল-কলম",
+      "english": "Al-Qalam",
+      "arabic": "القلم",
+      "urdu": "القلم",
+      "russian": "Аль-Калам",
+      "french": "Al-Qalam",
+      "chinese": "阿尔卡拉姆"
+    },
+    "translation": {
+      "bengali": "কলম",
+      "chinese": "笔",
+      "english": "The Pen",
+      "french": "La plume",
+      "russian": "Письменная трость",
+      "urdu": "قلم"
+    },
+    "type": "meccan",
+    "total_verses": 52
+  },
+  {
+    "id": 69,
+    "name": "الحاقة",
+    "slug": "69-al-haqqah",
+    "transliteration": {
+      "bengali": "আল-হাক্কা",
+      "english": "Al-Haqqah",
+      "arabic": "الحاقة",
+      "urdu": "الحاقہ",
+      "russian": "Аль-Хакка",
+      "french": "Al-Haqqah",
+      "chinese": "阿尔哈卡哈"
+    },
+    "translation": {
+      "bengali": "নিশ্চিত সত্য",
+      "chinese": "真灾",
+      "english": "The Reality",
+      "french": "L'inéluctable",
+      "russian": "Неминуемое",
+      "urdu": "حق ہونے والی"
+    },
+    "type": "meccan",
+    "total_verses": 52
+  },
+  {
+    "id": 70,
+    "slug": "70-al-ma-arij",
+    "name": "المعارج",
+    "transliteration": {
+      "bengali": "আল-মা'আরিজ",
+      "english": "Al-Ma'arij",
+      "arabic": "المعارج",
+      "urdu": "المعارج",
+      "russian": "Аль-Мааридж",
+      "french": "Al-Ma'arij",
+      "chinese": "阿尔马阿里吉"
+    },
+    "translation": {
+      "bengali": "উন্নয়নের সোপান",
+      "chinese": "天梯",
+      "english": "The Ascending Stairways",
+      "french": "Les voies d'ascension",
+      "russian": "Ступени",
+      "urdu": "عروج"
+    },
+    "type": "meccan",
+    "total_verses": 44
+  },
+  {
+    "id": 71,
+    "name": "نوح",
+    "slug": "71-nuh",
+    "transliteration": {
+      "bengali": "নূহ",
+      "english": "Nuh",
+      "arabic": "نوح",
+      "urdu": "نوح",
+      "russian": "Нух",
+      "french": "Noé",
+      "chinese": "努哈"
+    },
+    "translation": {
+      "bengali": "নবী নূহ",
+      "chinese": "努哈",
+      "english": "Noah",
+      "french": "Noé",
+      "russian": "Нух",
+      "urdu": "نوح"
+    },
+    "type": "meccan",
+    "total_verses": 28
+  },
+  {
+    "id": 72,
+    "name": "الجن",
+    "slug": "72-al-jinn",
+    "transliteration": {
+      "bengali": "আল-জিন",
+      "english": "Al-Jinn",
+      "arabic": "الجن",
+      "urdu": "الجن",
+      "russian": "Аль-Джинн",
+      "french": "Les djinns",
+      "chinese": "阿尔金"
+    },
+    "translation": {
+      "bengali": "জিন সম্প্রদায়",
+      "chinese": "精灵",
+      "english": "The Jinn",
+      "french": "Les djinns",
+      "russian": "Джинны",
+      "urdu": "جن"
+    },
+    "type": "meccan",
+    "total_verses": 28
+  },
+  {
+    "id": 73,
+    "name": "المزمل",
+    "slug": "73-al-muzzammil",
+    "transliteration": {
+      "bengali": "আল-মুজাম্মিল",
+      "english": "Al-Muzzammil",
+      "arabic": "المزمل",
+      "urdu": "المزمل",
+      "russian": "Аль-Муззаммил",
+      "french": "Al-Muzzammil",
+      "chinese": "阿尔穆扎米尔"
+    },
+    "translation": {
+      "bengali": "বস্ত্রাচ্ছাদনকারী",
+      "chinese": "披衣的人",
+      "english": "The Enshrouded One",
+      "french": "L'enveloppé",
+      "russian": "Закутавшийся",
+      "urdu": "کپڑا لپیٹنے والا"
+    },
+    "type": "meccan",
+    "total_verses": 20
+  },
+  {
+    "id": 74,
+    "name": "المدثر",
+    "slug": "74-al-muddaththir",
+    "transliteration": {
+      "bengali": "আল-মুদ্দাসির",
+      "english": "Al-Muddaththir",
+      "arabic": "المدثر",
+      "urdu": "المدثر",
+      "russian": "Аль-Муддассир",
+      "french": "Al-Muddaththir",
+      "chinese": "阿尔穆达斯尔"
+    },
+    "translation": {
+      "bengali": "পোশাক পরিহিত",
+      "chinese": "盖被的人",
+      "english": "The Cloaked One",
+      "french": "Celui qui se couvre",
+      "russian": "Завернувшийся",
+      "urdu": "کپڑا اوڑھنے والا"
+    },
+    "type": "meccan",
+    "total_verses": 56
+  },
+  {
+    "id": 75,
+    "name": "القيامة",
+    "transliteration": {
+      "bengali": "আল-কিয়ামাহ",
+      "english": "Al-Qiyamah",
+      "arabic": "القيامة",
+      "urdu": "القیامہ",
+      "russian": "Аль-Кияма",
+      "french": "Al-Qiyamah",
+      "chinese": "阿尔基亚马"
+    },
+    "slug": "75-al-qiyamah",
+    "translation": {
+      "bengali": "পুনরুত্থান",
+      "chinese": "复活",
+      "english": "The Resurrection",
+      "french": "La résurrection",
+      "russian": "Воскресение",
+      "urdu": "قیامۃ"
+    },
+    "type": "meccan",
+    "total_verses": 40
+  },
+  {
+    "id": 76,
+    "name": "الانسان",
+    "slug": "76-al-insan",
+    "transliteration": {
+      "bengali": "আল-ইনসান",
+      "english": "Al-Insan",
+      "arabic": "الانسان",
+      "urdu": "الانسان",
+      "russian": "Аль-Инсан",
+      "french": "Al-Insan",
+      "chinese": "阿尔因萨恩"
+    },
+    "translation": {
+      "bengali": "মানবজাতি",
+      "chinese": "人",
+      "english": "The Man",
+      "french": "L'homme",
+      "russian": "Человек",
+      "urdu": "انسان"
+    },
+    "type": "medinan",
+    "total_verses": 31
+  },
+  {
+    "id": 77,
+    "name": "المرسلات",
+    "slug": "77-al-mursalat",
+    "transliteration": {
+      "bengali": "আল-মুরসালাত",
+      "english": "Al-Mursalat",
+      "arabic": "المرسلات",
+      "urdu": "المرسلات",
+      "russian": "Аль-Мурсалат",
+      "french": "Al-Mursalat",
+      "chinese": "阿尔穆尔萨拉特"
+    },
+    "translation": {
+      "bengali": "প্রেরিত পুরুষ",
+      "chinese": "天使",
+      "english": "The Emissaries",
+      "french": "Les envoyés",
+      "russian": "Посылаемые",
+      "urdu": "بھیجی جانے والی ہوائیں"
+    },
+    "type": "meccan",
+    "total_verses": 50
+  },
+  {
+    "id": 78,
+    "name": "النبإ",
+    "slug": "78-an-naba",
+    "transliteration": {
+      "bengali": "আন-নাবা",
+      "english": "An-Naba",
+      "arabic": "النبإ",
+      "urdu": "النبا",
+      "russian": "Ан-Наба",
+      "french": "An-Naba",
+      "chinese": "安纳巴"
+    },
+    "translation": {
+      "bengali": "মহাসংবাদ",
+      "chinese": "消息",
+      "english": "The Tidings",
+      "french": "La nouvelle",
+      "russian": "Весть",
+      "urdu": "خبر"
+    },
+    "type": "meccan",
+    "total_verses": 40
+  },
+  {
+    "id": 79,
+    "name": "النازعات",
+    "slug": "79-an-naziat",
+    "transliteration": {
+      "bengali": "আন-নাজিয়াত",
+      "english": "An-Naziat",
+      "arabic": "النازعات",
+      "urdu": "النازعات",
+      "russian": "Ан-Назиат",
+      "french": "An-Naziat",
+      "chinese": "安纳扎特"
+    },
+    "translation": {
+      "bengali": "প্রচেষ্টাকারী",
+      "chinese": "急掣的",
+      "english": "Those who drag forth",
+      "french": "Ceux qui arrachent",
+      "russian": "Исторгающие",
+      "urdu": "زور سے کھینچنے والے"
+    },
+    "type": "meccan",
+    "total_verses": 46
+  },
+  {
+    "id": 80,
+    "name": "عبس",
+    "slug": "80-abasa",
+    "transliteration": {
+      "bengali": "আবাসা",
+      "english": "Abasa",
+      "arabic": "عبس",
+      "urdu": "عبس",
+      "russian": "Абаса",
+      "french": "Abasa",
+      "chinese": "阿巴萨"
+    },
+    "translation": {
+      "bengali": "সে ভ্রু কুঁচকালো",
+      "chinese": "皱眉",
+      "english": "He Frowned",
+      "french": "Il s'est renfrogné",
+      "russian": "Нахмурился",
+      "urdu": "تیوری چڑہائی"
+    },
+    "type": "meccan",
+    "total_verses": 42
+  },
+  {
+    "id": 81,
+    "slug": "81-at-takwir",
+    "name": "التكوير",
+    "transliteration": {
+      "bengali": "আত-তাকউয়ীর",
+      "english": "At-Takwir",
+      "arabic": "التكوير",
+      "urdu": "التکویر",
+      "russian": "Ат-Таквир",
+      "french": "At-Takwir",
+      "chinese": "阿特塔克维尔"
+    },
+    "translation": {
+      "bengali": "অন্ধকারাচ্ছন্ন",
+      "chinese": "黯黮",
+      "english": "The Overthrowing",
+      "french": "L'obscurcissement",
+      "russian": "Скручивание",
+      "urdu": "لپیٹنا"
+    },
+    "type": "meccan",
+    "total_verses": 29
+  },
+  {
+    "id": 82,
+    "name": "الإنفطار",
+    "slug": "82-al-infitar",
+    "transliteration": {
+      "bengali": "আল-ইনফিতার",
+      "english": "Al-Infitar",
+      "arabic": "الإنفطار",
+      "urdu": "الانفطار",
+      "russian": "Аль-Инфитар",
+      "french": "Al-Infitar",
+      "chinese": "阿尔因菲塔尔"
+    },
+    "translation": {
+      "bengali": "বিদীর্ণ করা",
+      "chinese": "破裂",
+      "english": "The Cleaving",
+      "french": "La rupture",
+      "russian": "Раскалывание",
+      "urdu": "ٹکڑے ہونا"
+    },
+    "type": "meccan",
+    "total_verses": 19
+  },
+  {
+    "id": 83,
+    "name": "المطففين",
+    "slug": "83-al-mutaffifin",
+    "transliteration": {
+      "bengali": "আল-মুতাফফিফীন",
+      "english": "Al-Mutaffifin",
+      "arabic": "المطففين",
+      "urdu": "المتففین",
+      "russian": "Аль-Мутаффифин",
+      "french": "Al-Mutaffifin",
+      "chinese": "阿尔穆塔菲菲因"
+    },
+    "translation": {
+      "bengali": "প্রতারণা করা",
+      "chinese": "称量不公",
+      "english": "The Defrauding",
+      "french": "Les fraudeurs",
+      "russian": "Обвешивающие",
+      "urdu": "ناپ تول میں کمی کرنے والے"
+    },
+    "type": "meccan",
+    "total_verses": 36
+  },
+  {
+    "id": 84,
+    "slug": "84-al-inshiqaq",
+    "name": "الإنشقاق",
+    "transliteration": {
+      "bengali": "আল-ইনশিকাক",
+      "english": "Al-Inshiqaq",
+      "arabic": "الإنشقاق",
+      "urdu": "الانشقاق",
+      "russian": "Аль-Иншикак",
+      "french": "Al-Inshiqaq",
+      "chinese": "阿尔因希卡克"
+    },
+    "translation": {
+      "bengali": "খণ্ড-বিখণ্ডকরণ",
+      "chinese": "绽裂",
+      "english": "The Sundering",
+      "french": "La déchirure",
+      "russian": "Разверзнется",
+      "urdu": "پھٹنا"
+    },
+    "type": "meccan",
+    "total_verses": 25
+  },
+  {
+    "id": 85,
+    "slug": "85-al-buruj",
+    "name": "البروج",
+    "transliteration": {
+      "bengali": "আল-বুরুজ",
+      "english": "Al-Buruj",
+      "arabic": "البروج",
+      "urdu": "البروج",
+      "russian": "Аль-Бурудж",
+      "french": "Al-Buruj",
+      "chinese": "阿尔布鲁杰"
+    },
+    "translation": {
+      "bengali": "নক্ষত্রপুঞ্জ",
+      "chinese": "十二宫",
+      "english": "The Mansions of the Stars",
+      "french": "Les constellations",
+      "russian": "Созвездия Зодиака",
+      "urdu": "برج"
+    },
+    "type": "meccan",
+    "total_verses": 22
+  },
+  {
+    "id": 86,
+    "name": "الطارق",
+    "slug": "86-at-tariq",
+    "transliteration": {
+      "bengali": "আত-তারিক",
+      "english": "At-Tariq",
+      "arabic": "الطارق",
+      "urdu": "الطارق",
+      "russian": "Ат-Тарик",
+      "french": "At-Tariq",
+      "chinese": "阿特塔里克"
+    },
+    "translation": {
+      "bengali": "রাতের আগন্তুক",
+      "chinese": "启明星",
+      "english": "The Nightcommer",
+      "french": "L'astre nocturne",
+      "russian": "Ночной путник",
+      "urdu": "رات کو آنے والا"
+    },
+    "type": "meccan",
+    "total_verses": 17
+  },
+  {
+    "id": 87,
+    "name": "الأعلى",
+    "slug": "87-al-a-la",
+    "transliteration": {
+      "bengali": "আল-আলা",
+      "english": "Al-A'la",
+      "arabic": "الأعلى",
+      "urdu": "الاعلی",
+      "russian": "Аль-Аля",
+      "french": "Al-A'la",
+      "chinese": "阿尔阿拉"
+    },
+    "translation": {
+      "bengali": "সর্বোন্নত",
+      "chinese": "至尊",
+      "english": "The Most High",
+      "french": "Le Très-Haut",
+      "russian": "Всевышний",
+      "urdu": "اعلی"
+    },
+    "type": "meccan",
+    "total_verses": 19
+  },
+  {
+    "id": 88,
+    "name": "الغاشية",
+    "slug": "88-al-ghashiyah",
+    "transliteration": {
+      "bengali": "আল-গাশিয়াহ",
+      "english": "Al-Ghashiyah",
+      "arabic": "الغاشية",
+      "urdu": "الغاشیہ",
+      "russian": "Аль-Гашия",
+      "french": "Al-Ghashiyah",
+      "chinese": "阿尔加希亚"
+    },
+    "translation": {
+      "bengali": "বিহ্বলকর ঘটনা",
+      "chinese": "大灾",
+      "english": "The Overwhelming",
+      "french": "L'enveloppante",
+      "russian": "Покрывающее",
+      "urdu": "چھا جانے والی"
+    },
+    "type": "meccan",
+    "total_verses": 26
+  },
+  {
+    "id": 89,
+    "name": "الفجر",
+    "slug": "89-al-fajr",
+    "transliteration": {
+      "bengali": "আল-ফাজর",
+      "english": "Al-Fajr",
+      "arabic": "الفجر",
+      "urdu": "الفجر",
+      "russian": "Аль-Фаджр",
+      "french": "Al-Fajr",
+      "chinese": "阿尔法吉尔"
+    },
+    "translation": {
+      "bengali": "ভোরবেলা",
+      "chinese": "黎明",
+      "english": "The Dawn",
+      "french": "L'aube",
+      "russian": "Заря",
+      "urdu": "فجر"
+    },
+    "type": "meccan",
+    "total_verses": 30
+  },
+  {
+    "id": 90,
+    "name": "البلد",
+    "slug": "90-al-balad",
+    "transliteration": {
+      "bengali": "আল-বালাদ",
+      "english": "Al-Balad",
+      "arabic": "البلد",
+      "urdu": "البلد",
+      "russian": "Аль-Балад",
+      "french": "Al-Balad",
+      "chinese": "阿尔巴拉德"
+    },
+    "translation": {
+      "bengali": "নগর",
+      "chinese": "地方",
+      "english": "The City",
+      "french": "La cité",
+      "russian": "Город",
+      "urdu": "شہر"
+    },
+    "type": "meccan",
+    "total_verses": 20
+  },
+  {
+    "id": 91,
+    "slug": "91-ash-shams",
+    "name": "الشمس",
+    "transliteration": {
+      "bengali": "আশ-শামস",
+      "english": "Ash-Shams",
+      "arabic": "الشمس",
+      "urdu": "الشمس",
+      "russian": "Аш-Шамс",
+      "french": "Ash-Shams",
+      "chinese": "阿什沙姆斯"
+    },
+    "translation": {
+      "bengali": "সূর্য",
+      "chinese": "太阳",
+      "english": "The Sun",
+      "french": "Le soleil",
+      "russian": "Солнце",
+      "urdu": "آفتاب"
+    },
+    "type": "meccan",
+    "total_verses": 15
+  },
+  {
+    "id": 92,
+    "name": "الليل",
+    "slug": "92-al-lail",
+    "transliteration": {
+      "bengali": "আল-লাইল",
+      "english": "Al-Lail",
+      "arabic": "الليل",
+      "urdu": "اللیل",
+      "russian": "Аль-Лайл",
+      "french": "Al-Lail",
+      "chinese": "阿尔莱尔"
+    },
+    "translation": {
+      "bengali": "রাত",
+      "chinese": "黑夜",
+      "english": "The Night",
+      "french": "La nuit",
+      "russian": "Ночь",
+      "urdu": "رات"
+    },
+    "type": "meccan",
+    "total_verses": 21
+  },
+  {
+    "id": 93,
+    "slug": "93-ad-duha",
+    "name": "الضحى",
+    "transliteration": {
+      "bengali": "আদ-দুহা",
+      "english": "Ad-Duha",
+      "arabic": "الضحى",
+      "urdu": "الضحی",
+      "russian": "Ад-Духа",
+      "french": "Ad-Duha",
+      "chinese": "阿德杜哈"
+    },
+    "translation": {
+      "bengali": "পূর্বাহ্নের সুর্যকিরণ",
+      "chinese": "上午",
+      "english": "The Morning Hours",
+      "french": "Le jour montant",
+      "russian": "Утро",
+      "urdu": "دن کا چڑھنا"
+    },
+    "type": "meccan",
+    "total_verses": 11
+  },
+  {
+    "id": 94,
+    "name": "الشرح",
+    "slug": "94-ash-sharh",
+    "transliteration": {
+      "bengali": "আশ-শারহ",
+      "english": "Ash-Sharh",
+      "arabic": "الشرح",
+      "urdu": "الشرح",
+      "russian": "Аш-Шарх",
+      "french": "Ash-Sharh",
+      "chinese": "阿什沙赫"
+    },
+    "translation": {
+      "bengali": "বক্ষ প্রশস্তকরণ",
+      "chinese": "开拓",
+      "english": "The Relief",
+      "french": "L'ouverture",
+      "russian": "Раскрытие",
+      "urdu": "تسکین"
+    },
+    "type": "meccan",
+    "total_verses": 8
+  },
+  {
+    "id": 95,
+    "name": "التين",
+    "slug": "95-at-tin",
+    "transliteration": {
+      "bengali": "আত-তিন",
+      "english": "At-Tin",
+      "arabic": "التين",
+      "urdu": "التین",
+      "russian": "Ат-Тин",
+      "french": "At-Tin",
+      "chinese": "阿特廷"
+    },
+    "translation": {
+      "bengali": "ডুমুর",
+      "chinese": "无花果",
+      "english": "The Fig",
+      "french": "Les figues",
+      "russian": "Смоковница",
+      "urdu": "انجیر"
+    },
+    "type": "meccan",
+    "total_verses": 8
+  },
+  {
+    "id": 96,
+    "name": "العلق",
+    "slug": "96-al-alaq",
+    "transliteration": {
+      "bengali": "আল-আলাক",
+      "english": "Al-Alaq",
+      "arabic": "العلق",
+      "urdu": "العلق",
+      "russian": "Аль-Аляк",
+      "french": "Al-Alaq",
+      "chinese": "阿尔阿拉克"
+    },
+    "translation": {
+      "bengali": "রক্তপিণ্ড",
+      "chinese": "血块",
+      "english": "The Clot",
+      "french": "L'adhérence",
+      "russian": "Сгусток крови",
+      "urdu": "جما ہوا خون"
+    },
+    "type": "meccan",
+    "total_verses": 19
+  },
+  {
+    "id": 97,
+    "name": "القدر",
+    "slug": "97-al-qadr",
+    "transliteration": {
+      "bengali": "আল-কাদর",
+      "english": "Al-Qadr",
+      "arabic": "القدر",
+      "urdu": "القدر",
+      "russian": "Аль-Кадр",
+      "french": "Al-Qadr",
+      "chinese": "阿尔卡德尔"
+    },
+    "translation": {
+      "bengali": "মহিমান্বিত",
+      "chinese": "高贵",
+      "english": "The Power",
+      "french": "La destinée",
+      "russian": "Предопределение",
+      "urdu": "شب قدر"
+    },
+    "type": "meccan",
+    "total_verses": 5
+  },
+  {
+    "id": 98,
+    "name": "البينة",
+    "slug": "98-al-bayyinah",
+    "transliteration": {
+      "bengali": "আল-বাযিনা",
+      "english": "Al-Bayyinah",
+      "arabic": "البينة",
+      "urdu": "البینہ",
+      "russian": "Аль-Баййина",
+      "french": "Al-Bayyinah",
+      "chinese": "阿尔巴因纳"
+    },
+    "translation": {
+      "bengali": "প্রমাণ",
+      "chinese": "明证",
+      "english": "The Clear Proof",
+      "french": "La preuve",
+      "russian": "Ясное знамение",
+      "urdu": "ثبوت"
+    },
+    "type": "medinan",
+    "total_verses": 8
+  },
+  {
+    "id": 99,
+    "name": "الزلزلة",
+    "slug": "99-az-zalzalah",
+    "transliteration": {
+      "bengali": "আজ-জলজালা",
+      "english": "Az-Zalzalah",
+      "arabic": "الزلزلة",
+      "urdu": "الزلزلہ",
+      "russian": "Аз-Залзала",
+      "french": "Az-Zalzalah",
+      "chinese": "阿兹扎尔扎拉"
+    },
+    "translation": {
+      "bengali": "ভূমিকম্প",
+      "chinese": "地震",
+      "english": "The Earthquake",
+      "french": "Le séisme",
+      "russian": "Сотрясение",
+      "urdu": "زلزلہ"
+    },
+    "type": "medinan",
+    "total_verses": 8
+  },
+  {
+    "id": 100,
+    "name": "العاديات",
+    "slug": "100-al-adiyat",
+    "transliteration": {
+      "bengali": "আল-আদিয়াত",
+      "english": "Al-Adiyat",
+      "arabic": "العاديات",
+      "urdu": "العادیات",
+      "russian": "Аль-Адият",
+      "french": "Al-Adiyat",
+      "chinese": "阿尔阿迪亚特"
+    },
+    "translation": {
+      "bengali": "অভিযানকারী",
+      "chinese": "奔驰的马队",
+      "english": "The Courser",
+      "french": "Les coursiers",
+      "russian": "Скачущие",
+      "urdu": "دوڑنے والے گھوڑے"
+    },
+    "type": "meccan",
+    "total_verses": 11
+  },
+  {
+    "id": 101,
+    "name": "القارعة",
+    "slug": "101-al-qariah",
+    "transliteration": {
+      "bengali": "আল-কারিয়া",
+      "english": "Al-Qariah",
+      "arabic": "القارعة",
+      "urdu": "القارعہ",
+      "russian": "Аль-Кариа",
+      "french": "Al-Qariah",
+      "chinese": "阿尔卡里亚"
+    },
+    "translation": {
+      "bengali": "মহাসংকট",
+      "chinese": "大难",
+      "english": "The Calamity",
+      "french": "Le fracas",
+      "russian": "Великое бедствие",
+      "urdu": "کھڑکھڑاہٹ"
+    },
+    "type": "meccan",
+    "total_verses": 11
+  },
+  {
+    "id": 102,
+    "name": "التكاثر",
+    "slug": "102-at-takathur",
+    "transliteration": {
+      "bengali": "আত-তাকাথুর",
+      "english": "At-Takathur",
+      "arabic": "التكاثر",
+      "urdu": "التکاثر",
+      "russian": "Ат-Такасур",
+      "french": "At-Takathur",
+      "chinese": "阿特卡苏尔"
+    },
+    "translation": {
+      "bengali": "প্রাচুর্যের প্রতিযোগিতা",
+      "chinese": "竞赛富遮",
+      "english": "The Rivalry in world increase",
+      "french": "La course aux richesses",
+      "russian": "Страсть к приумножению",
+      "urdu": "کثرت"
+    },
+    "type": "meccan",
+    "total_verses": 8
+  },
+  {
+    "id": 103,
+    "name": "العصر",
+    "slug": "103-al-asr",
+    "transliteration": {
+      "bengali": "আল-আসর",
+      "english": "Al-Asr",
+      "arabic": "العصر",
+      "urdu": "العصر",
+      "russian": "Аль-Аср",
+      "french": "Al-Asr",
+      "chinese": "阿尔阿斯尔"
+    },
+    "translation": {
+      "bengali": "সময়",
+      "chinese": "时光",
+      "english": "The Declining Day",
+      "french": "Le temps",
+      "russian": "Предвечернее время",
+      "urdu": "زمانہ"
+    },
+    "type": "meccan",
+    "total_verses": 3
+  },
+  {
+    "id": 104,
+    "name": "الهمزة",
+    "slug": "104-al-humazah",
+    "transliteration": {
+      "bengali": "আল-হুমাজাহ",
+      "english": "Al-Humazah",
+      "arabic": "الهمزة",
+      "urdu": "الہمزہ",
+      "russian": "Аль-Хумаза",
+      "french": "Al-Humazah",
+      "chinese": "阿尔胡马扎"
+    },
+    "translation": {
+      "bengali": "পরনিন্দাকারী",
+      "chinese": "诽谤者",
+      "english": "The Traducer",
+      "french": "Les calomniateurs",
+      "russian": "Хулитель",
+      "urdu": "عیب لگانے والا"
+    },
+    "type": "meccan",
+    "total_verses": 9
+  },
+  {
+    "id": 105,
+    "name": "الفيل",
+    "slug": "105-al-fil",
+    "transliteration": {
+      "bengali": "আল-ফীল",
+      "english": "Al-Fil",
+      "arabic": "الفيل",
+      "urdu": "الفیل",
+      "russian": "Аль-Филь",
+      "french": "Al-Fil",
+      "chinese": "阿尔菲尔"
+    },
+    "translation": {
+      "bengali": "হাতি",
+      "chinese": "象",
+      "english": "The Elephant",
+      "french": "L'éléphant",
+      "russian": "Слон",
+      "urdu": "ہاتھی"
+    },
+    "type": "meccan",
+    "total_verses": 5
+  },
+  {
+    "id": 106,
+    "name": "قريش",
+    "slug": "106-quraysh",
+    "transliteration": {
+      "bengali": "কুরাইশ",
+      "english": "Quraysh",
+      "arabic": "قريش",
+      "urdu": "قریش",
+      "russian": "Курейш",
+      "french": "Quraysh",
+      "chinese": "古来氏"
+    },
+    "translation": {
+      "bengali": "কুরাইশ গোত্র",
+      "chinese": "古来氏",
+      "english": "Quraysh",
+      "french": "Les Quraysh",
+      "russian": "Курейшиты",
+      "urdu": "قریش"
+    },
+    "type": "meccan",
+    "total_verses": 4
+  },
+  {
+    "id": 107,
+    "name": "الماعون",
+    "slug": "107-al-ma-un",
+    "transliteration": {
+      "bengali": "আল-মা'উন",
+      "english": "Al-Ma'un",
+      "arabic": "الماعون",
+      "urdu": "الماعون",
+      "russian": "Аль-Маун",
+      "french": "Al-Ma'un",
+      "chinese": "阿尔马乌恩"
+    },
+    "translation": {
+      "bengali": "সাহায্য সহায়তা",
+      "chinese": "什物",
+      "english": "The Small kindnesses",
+      "french": "L'entraide",
+      "russian": "Мелочь",
+      "urdu": "تھوڑی سی چیز"
+    },
+    "type": "meccan",
+    "total_verses": 7
+  },
+  {
+    "id": 108,
+    "slug": "108-al-kawthar",
+    "name": "الكوثر",
+    "transliteration": {
+      "bengali": "আল-কাউসার",
+      "english": "Al-Kawthar",
+      "arabic": "الكوثر",
+      "urdu": "الکوثر",
+      "russian": "Аль-Каусар",
+      "french": "Al-Kawthar",
+      "chinese": "阿尔考萨尔"
+    },
+    "translation": {
+      "bengali": "কাউসার/প্রাচুর্য",
+      "chinese": "多福",
+      "english": "The Abundance",
+      "french": "L'abondance",
+      "russian": "Изобилие",
+      "urdu": "جنت کی نہر"
+    },
+    "type": "meccan",
+    "total_verses": 3
+  },
+  {
+    "id": 109,
+    "name": "الكافرون",
+    "slug": "109-al-kafirun",
+    "transliteration": {
+      "bengali": "আল-কাফিরুন",
+      "english": "Al-Kafirun",
+      "arabic": "الكافرون",
+      "urdu": "الکافرون",
+      "russian": "Аль-Кафирун",
+      "french": "Al-Kafirun",
+      "chinese": "阿尔卡菲伦"
+    },
+    "translation": {
+      "bengali": "অবিশ্বাসী",
+      "chinese": "不信道的人们",
+      "english": "The Disbelievers",
+      "french": "Les mécréants",
+      "russian": "Неверующие",
+      "urdu": "کافرین"
+    },
+    "type": "meccan",
+    "total_verses": 6
+  },
+  {
+    "id": 110,
+    "slug": "110-an-nasr",
+    "name": "النصر",
+    "transliteration": {
+      "bengali": "আন-নাসর",
+      "english": "An-Nasr",
+      "arabic": "النصر",
+      "urdu": "النصر",
+      "russian": "Ан-Наср",
+      "french": "An-Nasr",
+      "chinese": "安纳斯尔"
+    },
+    "translation": {
+      "bengali": "সাহায্য",
+      "chinese": "援助",
+      "english": "The Divine Support",
+      "french": "Le secours",
+      "russian": "Помощь",
+      "urdu": "نصرت"
+    },
+    "type": "medinan",
+    "total_verses": 3
+  },
+  {
+    "id": 111,
+    "name": "المسد",
+    "slug": "111-al-masad",
+    "transliteration": {
+      "bengali": "আল-মাসাদ",
+      "english": "Al-Masad",
+      "arabic": "المسد",
+      "urdu": "المسد",
+      "russian": "Аль-Масад",
+      "french": "Al-Masad",
+      "chinese": "阿尔马萨德"
+    },
+    "translation": {
+      "bengali": "খেজুরের পাকানো (রশি)",
+      "chinese": "火焰",
+      "english": "The Palm Fiber",
+      "french": "Les fibres",
+      "russian": "Пальмовые волокна",
+      "urdu": "خوب بٹی ہوئی"
+    },
+    "type": "meccan",
+    "total_verses": 5
+  },
+  {
+    "id": 112,
+    "name": "الإخلاص",
+    "slug": "112-al-ikhlas",
+    "transliteration": {
+      "bengali": "আল-ইখলাস",
+      "english": "Al-Ikhlas",
+      "arabic": "الإخلاص",
+      "urdu": "الاخلاص",
+      "russian": "Аль-Ихлас",
+      "french": "Al-Ikhlas",
+      "chinese": "阿尔伊赫拉斯"
+    },
+    "translation": {
+      "bengali": "আন্তরিকতা",
+      "chinese": "忠诚",
+      "english": "The Sincerity",
+      "french": "La sincérité",
+      "russian": "Очищение веры",
+      "urdu": "اخلاص"
+    },
+    "type": "meccan",
+    "total_verses": 4
+  },
+  {
+    "id": 113,
+    "name": "الفلق",
+    "slug": "113-al-falaq",
+    "transliteration": {
+      "bengali": "আল-ফালাক",
+      "english": "Al-Falaq",
+      "arabic": "الفلق",
+      "urdu": "الفلق",
+      "russian": "Аль-Фалах",
+      "french": "Al-Falaq",
+      "chinese": "阿尔法拉克"
+    },
+    "translation": {
+      "bengali": "নিশিভোর",
+      "chinese": "曙光",
+      "english": "The Daybreak",
+      "french": "L'aube naissante",
+      "russian": "Рассвет",
+      "urdu": "صبح"
+    },
+    "type": "meccan",
+    "total_verses": 5
+  },
+  {
+    "id": 114,
+    "name": "الناس",
+    "slug": "114-an-nas",
+    "transliteration": {
+      "bengali": "আন-নাস",
+      "english": "An-Nas",
+      "arabic": "الناس",
+      "urdu": "الناس",
+      "russian": "Ан-Нас",
+      "french": "An-Nas",
+      "chinese": "安纳斯"
+    },
+    "translation": {
+      "bengali": "মানুষ জাতি",
+      "chinese": "世人",
+      "english": "Mankind",
+      "french": "Les humains",
+      "russian": "Люди",
+      "urdu": "انسان"
+    },
+    "type": "meccan",
+    "total_verses": 6
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "english": "Meccan",
+    "arabic": "مكية",
+    "bengali": "মক্কা",
+    "french": "Mecquoise",
+    "chinese": "麦加",
+    "russian": "Мекканская",
+    "urdu": "مکیہ"
+  },
+  {
+    "english": "Medinan",
+    "arabic": "مدنية",
+    "bengali": "মদীনা",
+    "french": "Médinoise",
+    "chinese": "麦地那",
+    "russian": "Мединская",
+    "urdu": "مدنیہ"
+  },
+  {
+    "bengali": "সূরা",
+    "english": "surah",
+    "french": "sourate",
+    "urdu": "سورہ",
+    "chinese": "古兰经章节",
+    "arabic": "سورة",
+    "russian": "Сура"
+  },
+  {
+    "bengali": "আয়াত",
+    "english": "Ayat",
+    "french": "Versets",
+    "urdu": "آیت",
+    "chinese": "古兰经章节",
+    "arabic": "آية",
+    "russian": "Аят"
+  },
+  {
+    "bengali": "টি",
+    "english": "Ayat",
+    "french": "té",
+    "urdu": "ٹی",
+    "chinese": "吨",
+    "arabic": "تي",
+    "russian": "Ти"
+  },
+  {
+    "bengali": "অবতীর্ণ",
+    "english": "Revelation",
+    "french": "descendu",
+    "urdu": " نیچے اتر گیا",
+    "chinese": "后裔",
+    "arabic": "أَعْطَيْنَٰكَ ٱلْكَوْثَرَ ",
+    "russian": "Аят"
+  }
+]
