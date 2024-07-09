@@ -42,7 +42,7 @@ export default function LanguageSwitch() {
         <div className="relative">
           <ComboboxInput
             className={clsx(
-              "w-full rounded-lg border dark:border-none dark:bg-white/5 py-1 pr-8 pl-3 text-sm/6 dark:text-white",
+              "w-full rounded-lg bg-bg_primary border border-border_color dark:border-dark_border_color dark:bg-dark_bg_primary py-1 pr-8 pl-3 text-sm/6 dark:text-white",
               "focus:outline-none data-[focus]:outline-2 data-[focus]:-outline-offset-2 dark:data-[focus]:outline-white/25"
             )}
             displayValue={(language) => language?.name}
@@ -57,7 +57,7 @@ export default function LanguageSwitch() {
           anchor="bottom"
           transition
           className={clsx(
-            "w-[var(--input-width)] rounded-md border border-white/5 bg-black/10 text-black dark:text-white dark:bg-white/5 p-1 [--anchor-gap:var(--spacing-1)] empty:invisible",
+            "w-[var(--input-width)] rounded-md border dark:border-dark_border_color bg-bg_primary border-border_color bg-black/10 text-black dark:text-white dark:bg-dark_bg_primary p-1 [--anchor-gap:var(--spacing-1)] empty:invisible",
             "transition duration-100 ease-in data-[leave]:data-[closed]:opacity-0  absolute mt-1  z-[100] "
           )}
           style={{

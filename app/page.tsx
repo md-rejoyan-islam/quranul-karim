@@ -7,7 +7,7 @@ export default function Home() {
   const lang = "bengali";
 
   return (
-    <div className="max-w-[1276px] mx-auto bg-[#fff] dark:bg-[#0f172a] dark:text-[#bcccdf] pb-10 progress-bar">
+    <div className="max-w-[1276px] mx-auto  dark:text-[#bcccdf] pb-10 progress-bar">
       <div className=" lg:flex flex-col hidden justify-center items-center p-10">
         <h1 className="text-[34px] text-[#e49733] dark:text-[#38bdf8]">
           কুরআনুল কারীম

@@ -2,6 +2,35 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --primary_color: #e49733;
+  --bg_primary_color: #f8ebd5;
+  --border_color: #63748c1a;
+  --dark_primary_color: rgb(56, 189, 248);
+  --dark_bg_primary_color: rgb(15, 23, 42);
+  --dark_border_color: #46546852;
+  --bg_surah_card: #fff5e4;
+  --dark_bg_surah_card: #2b303a66;
+  --bg_surah_number: #f8ebd5;
+  --dark_bg_surah_number: #0f172a;
+
+  /* --bg__surah__card: #fff5e4;
+	--bg__tab: #efe2cd;
+	--text__title: #423000;
+	--text__sub__title: #524f38; */
+}
+
+.theme_dark__mode {
+  --dark_primary_color: rgb(56, 189, 248);
+  --dark_bg_primary_color: rgb(15, 23, 42);
+  --dark_border_color: #46546852;
+
+  /* --bg__surah__card: #2b303a66;
+	--bg__tab: #1a1e2ab8;
+	--text__title: #beccdf;
+	--text__sub__title: #94a3b8; */
+}
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;
