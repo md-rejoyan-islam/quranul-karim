@@ -1,4 +1,4 @@
-import { getIdName } from "@/app/surah/[slug]/api";
+import { getIdName } from "@/app/[lang]/surah/[slug]/api";
 import Link from "next/link";
 
 export default async function Card({

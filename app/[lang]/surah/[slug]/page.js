@@ -5,10 +5,9 @@ import {
   mainData,
   revelationLang,
 } from "./api";
-import TitleCard from "@/components/TitleCard";
 
 export default async function Surah({ params }) {
-  const lang = "english";
+  const lang = "bengali";
   const data = await mainData(params?.slug);
 
   const details = await detailsData(data?.id);
@@ -16,18 +15,13 @@ export default async function Surah({ params }) {
   const revelation = await revelationLang(details.revelation, lang);
 
   return (
-    <main className="px-4 max-w-[1276px] mx-auto dark:text-[#beccdf]">
-      <TitleCard
-        name={data.transliteration[lang]}
-        number={await getIdName(data.id, lang)}
-        meaning={data.translation[lang]}
-        verses={await getIdName(data.total_verses, lang)}
-        revelation={revelation}
-        lang={lang}
-      />
+    <section className="px-4 max-w-[1276px] mx-auto dark:text-[#beccdf]">
       <div className="py-10 ">
         {details?.verses?.map((verse) => (
-          <div key={verse.id} className="py-8 border-b dark:border-slate-800">
+          <div
+            key={verse.id}
+            className="py-8 border-b border-border_color dark:border-dark_border_color"
+          >
             <p className="text-[22px] " dir="rtl">
               {verse.text}
             </p>
@@ -37,6 +31,6 @@ export default async function Surah({ params }) {
           </div>
         ))}
       </div>
-    </main>
+    </section>
   );
 }

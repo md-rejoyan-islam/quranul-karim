@@ -1,4 +1,4 @@
-import { revelationLang } from "@/app/surah/[slug]/api";
+import { revelationLang } from "@/app/[lang]/surah/[slug]/api";
 
 export default async function TitleCard({
   name,

@@ -1,5 +1,5 @@
 import type { Config } from "tailwindcss";
-import { colors } from "tailwindcss/colors";
+import colors from "tailwindcss/colors";
 
 const config: Config = {
   darkMode: "class",
@@ -14,6 +14,7 @@ const config: Config = {
       primary: "var(--primary_color)",
       dark_primary: "var(--dark_primary_color)",
       bg_primary: "var(--bg_primary_color)",
+      bg_secondary: "var(--bg_secondary_color)",
       dark_bg_primary: "var(--dark_bg_primary_color)",
       border_color: "var(--border_color)",
       dark_border_color: "var(--dark_border_color)",

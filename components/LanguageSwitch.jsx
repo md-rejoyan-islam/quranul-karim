@@ -37,7 +37,7 @@ export default function LanguageSwitch() {
         value={selected}
         onChange={(value) => setSelected(value)}
         onClose={() => setQuery("")}
-        __demoMode
+        // __demoMode
       >
         <div className="relative">
           <ComboboxInput
@@ -68,7 +68,7 @@ export default function LanguageSwitch() {
             <ComboboxOption
               key={language.id}
               value={language}
-              className="group flex  items-center gap-2  cursor-pointer  px-3 select-none data-[focus]:bg-white/10"
+              className="group flex  items-center gap-2  cursor-pointer py-1  px-3 select-none data-[focus]:bg-white/10"
             >
               <HiCheck className="invisible size-4 dark:fill-white group-data-[selected]:visible" />
               <div className="text-sm/6 dark:text-white">{language.name}</div>

@@ -1,7 +1,8 @@
+import React from "react";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-import Header from "@/components/Header";
+
 import Footer from "@/components/Footer";
 import ThemeWrapperProvider from "@/app/ThemeProvider";
 
@@ -23,7 +24,6 @@ export default function RootLayout({
         className={inter.className + " dark:bg-dark_bg_primary bg-bg_primary  "}
       >
         <ThemeWrapperProvider>
-          <Header />
           {children}
           <Footer />
         </ThemeWrapperProvider>
