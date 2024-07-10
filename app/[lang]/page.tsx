@@ -1,19 +1,19 @@
 import Footer from "@/components/Footer";
 import Card from "@/components/Card";
-import mainData from "@/data/main.json";
 import Header from "@/components/Header";
+import { getDictionary } from "./dictionaries";
 
-export default function Home({
+export default async function Home({
   params: { lang },
 }: {
   params: { lang: string };
 }) {
-  // const lang = "bengali";
+  const dictionary = await getDictionary(lang);
 
-  const language = (lang) => {
-    if (lang === "bn") return "bengali";
-    else if (lang === "en") return "english";
-  };
+  console.log(dictionary);
+
+  const response = await fetch(`${process.env.SERVER_URL}/${lang}/surah`);
+  const data = await response.json();
 
   return (
     <>
@@ -21,21 +21,20 @@ export default function Home({
       <main className="max-w-[1276px] mx-auto  dark:text-[#bcccdf] pb-10 progress-bar">
         <div className=" lg:flex flex-col hidden justify-center items-center p-10">
           <h1 className="text-[34px] text-[#e49733] dark:text-[#38bdf8]">
-            কুরআনুল কারীম
+            {dictionary?.title}
           </h1>
-          <h4 className="text-[20px]">বাংলা অনুবাদ ও সংক্ষিপ্ত তাফসীর</h4>
+          <h4 className="text-[20px]"> {dictionary?.sub_title} </h4>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3  m-auto">
-          {mainData.map((data, index) => {
+          {data?.data?.map((data, index) => {
             return (
               <Card
                 key={index}
-                meaning={data.translation[language(lang)]}
+                meaning={data.translation}
                 number={data.id}
-                lang={language(lang)}
-                arabic={data?.name}
+                arabic={data?.arabic}
                 url={data.slug}
-                name={data.transliteration[language(lang)]}
+                name={data.transliteration}
               />
             );
           })}

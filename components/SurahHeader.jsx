@@ -11,7 +11,6 @@ import { useRouter } from "next/navigation";
 export default function SurahHeader({
   name,
   meaning,
-  lang,
   number,
   verses,
   revelation,

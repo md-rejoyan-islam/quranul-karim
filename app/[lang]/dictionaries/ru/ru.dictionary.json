@@ -1,0 +1,21 @@
+{
+  "title": "Коран",
+  "sub_title": "Русский перевод и краткий тафсир",
+  "surah": "Сура",
+  "ayat": "Аят",
+  "t": "Ти",
+  "revelation": "Аят",
+  "setting": "Настройки",
+  "theme_title": "Тема",
+  "light": "Светлая",
+  "dark": "Темная",
+  "show_arabic_text": "Показать арабский текст",
+  "yes": "Да",
+  "no": "Нет",
+  "arabic_font_size_title": "Размер шрифта арабского текста",
+  "small": "Маленький",
+  "big": "Большой",
+  "show_translation": "Показать английский перевод",
+  "translation_font_size_title": "Размер шрифта перевода",
+  "translation_demo_text": "Милостивый, Самый Милосердный"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Le Saint Coran",
+  "sub_title": "Traduction française et bref commentaire",
+  "surah": "sourate",
+  "ayat": "Versets",
+  "t": "té",
+  "revelation": "descendu",
+  "setting": "Paramètre",
+  "theme_title": "Thème",
+  "light": "Lumière",
+  "dark": "Sombre",
+  "show_arabic_text": "Afficher le texte arabe",
+  "yes": "Oui",
+  "no": "Non",
+  "arabic_font_size_title": "Taille de la police arabe",
+  "small": "Petit",
+  "big": "Grand",
+  "show_translation": "Afficher la traduction en anglais",
+  "translation_font_size_title": "Taille de la police de traduction",
+  "translation_demo_text": "Miséricordieux, Très Miséricordieux"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "古兰经",
+  "sub_title": "中文翻译和简短注释",
+  "surah": "古兰经章节",
+  "ayat": "古兰经章节",
+  "t": "吨",
+  "revelation": "后裔",
+  "setting": "设置",
+  "theme_title": "主题",
+  "light": "光",
+  "dark": "黑",
+  "show_arabic_text": "显示阿拉伯文本",
+  "yes": "是",
+  "no": "没有",
+  "arabic_font_size_title": "阿拉伯字体大小",
+  "small": "小",
+  "big": "大",
+  "show_translation": "显示英文翻译",
+  "translation_font_size_title": "翻译字体大小",
+  "translation_demo_text": "仁慈，最仁慈"
+}

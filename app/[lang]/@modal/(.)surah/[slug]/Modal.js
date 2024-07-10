@@ -3,7 +3,6 @@ import { Dialog, DialogBackdrop, DialogPanel } from "@headlessui/react";
 import { useRouter } from "next/navigation";
 
 import React, { useEffect, useState } from "react";
-import { RxCross2 } from "react-icons/rx";
 
 export default function Modal({ children }) {
   const [isOpen, setIsOpen] = useState(false);
