@@ -1,0 +1,914 @@
+[
+  {
+    "id": "一",
+    "transliteration": "阿尔法提哈",
+    "slug": "1-al-fatihah",
+    "translation": "开端章",
+    "total_verses": "七",
+    "arabic": "الفاتحة"
+  },
+  {
+    "id": "二",
+    "transliteration": "阿尔巴卡拉",
+    "slug": "2-al-baqarah",
+    "translation": "黄牛",
+    "total_verses": "二百八十六",
+    "arabic": "البقرة"
+  },
+  {
+    "id": "三",
+    "transliteration": "阿里伊姆兰",
+    "slug": "3-ali-imran",
+    "translation": "仪姆兰的家属",
+    "total_verses": "二百",
+    "arabic": "آل عمران"
+  },
+  {
+    "id": "四",
+    "transliteration": "安尼萨",
+    "slug": "4-an-nisa",
+    "translation": "妇女",
+    "total_verses": "一百七十六",
+    "arabic": "النساء"
+  },
+  {
+    "id": "五",
+    "transliteration": "阿尔迈达",
+    "slug": "5-al-maidah",
+    "translation": "筵席",
+    "total_verses": "一百二十",
+    "arabic": "المائدة"
+  },
+  {
+    "id": "六",
+    "transliteration": "阿尔安安",
+    "slug": "6-al-anam",
+    "translation": "牲畜",
+    "total_verses": "一百六十五",
+    "arabic": "الأنعام"
+  },
+  {
+    "id": "七",
+    "transliteration": "阿尔阿拉夫",
+    "slug": "7-al-araf",
+    "translation": "高处",
+    "total_verses": "二百六",
+    "arabic": "الأعراف"
+  },
+  {
+    "id": "八",
+    "transliteration": "阿尔安法尔",
+    "slug": "8-al-anfal",
+    "translation": "战利品",
+    "total_verses": "七十五",
+    "arabic": "الأنفال"
+  },
+  {
+    "id": "九",
+    "transliteration": "阿特-塔瓦巴",
+    "slug": "9-at-tawbah",
+    "translation": "忏悔",
+    "total_verses": "一百二十九",
+    "arabic": "التوبة"
+  },
+  {
+    "id": "十",
+    "transliteration": "优努斯",
+    "slug": "10-yunus",
+    "translation": "优努斯",
+    "total_verses": "一百九",
+    "arabic": "يونس"
+  },
+  {
+    "id": "十一",
+    "transliteration": "呼德",
+    "slug": "11-hud",
+    "translation": "呼德",
+    "total_verses": "一百二十三",
+    "arabic": "هود"
+  },
+  {
+    "id": "十二",
+    "transliteration": "优素福",
+    "slug": "12-yusuf",
+    "translation": "优素福",
+    "total_verses": "一百十一",
+    "arabic": "يوسف"
+  },
+  {
+    "id": "十三",
+    "transliteration": "阿尔拉德",
+    "slug": "13-ar-raad",
+    "translation": "雷霆",
+    "total_verses": "四十三",
+    "arabic": "الرعد"
+  },
+  {
+    "id": "十四",
+    "transliteration": "易卜拉欣",
+    "slug": "14-ibrahim",
+    "translation": "易卜拉欣",
+    "total_verses": "五十二",
+    "arabic": "ابراهيم"
+  },
+  {
+    "id": "十五",
+    "transliteration": "阿尔希杰尔",
+    "slug": "15-al-hijr",
+    "translation": "石谷",
+    "total_verses": "九十九",
+    "arabic": "الحجر"
+  },
+  {
+    "id": "十六",
+    "transliteration": "安纳赫尔",
+    "slug": "16-an-nahl",
+    "translation": "蜜蜂",
+    "total_verses": "一百二十八",
+    "arabic": "النحل"
+  },
+  {
+    "id": "十七",
+    "transliteration": "阿尔伊斯拉",
+    "slug": "17-al-isra",
+    "translation": "夜行",
+    "total_verses": "一百十一",
+    "arabic": "الإسراء"
+  },
+  {
+    "id": "十八",
+    "transliteration": "阿尔卡赫夫",
+    "slug": "18-al-kahf",
+    "translation": "山洞",
+    "total_verses": "一百十",
+    "arabic": "الكهف"
+  },
+  {
+    "id": "十九",
+    "transliteration": "玛丽亚",
+    "slug": "19-maryam",
+    "translation": "麦尔彦",
+    "total_verses": "九十八",
+    "arabic": "مريم"
+  },
+  {
+    "id": "二十",
+    "transliteration": "塔哈",
+    "slug": "20-ta-ha",
+    "translation": "塔哈",
+    "total_verses": "一百三十五",
+    "arabic": "طه"
+  },
+  {
+    "id": "二十一",
+    "transliteration": "阿尔安比亚",
+    "slug": "21-al-anbiya",
+    "translation": "众先知",
+    "total_verses": "一百十二",
+    "arabic": "الأنبياء"
+  },
+  {
+    "id": "二十二",
+    "transliteration": "阿尔哈吉",
+    "slug": "22-al-hajj",
+    "translation": "朝觐",
+    "total_verses": "七十八",
+    "arabic": "الحج"
+  },
+  {
+    "id": "二十三",
+    "transliteration": "阿尔穆明宁",
+    "slug": "23-al-muminun",
+    "translation": "信士",
+    "total_verses": "一百十八",
+    "arabic": "المؤمنون"
+  },
+  {
+    "id": "二十四",
+    "transliteration": "安努尔",
+    "slug": "24-an-nur",
+    "translation": "光明",
+    "total_verses": "六十四",
+    "arabic": "النور"
+  },
+  {
+    "id": "二十五",
+    "transliteration": "阿尔富尔坎",
+    "slug": "25-al-furqan",
+    "translation": "准则",
+    "total_verses": "七十七",
+    "arabic": "الفرقان"
+  },
+  {
+    "id": "二十六",
+    "transliteration": "阿什舒阿拉",
+    "slug": "26-ash-shuara",
+    "translation": "众诗人",
+    "total_verses": "二百二十七",
+    "arabic": "الشعراء"
+  },
+  {
+    "id": "二十七",
+    "transliteration": "安纳姆尔",
+    "slug": "27-an-naml",
+    "translation": "蚂蚁",
+    "total_verses": "九十三",
+    "arabic": "النمل"
+  },
+  {
+    "id": "二十八",
+    "transliteration": "阿尔卡萨斯",
+    "slug": "28-al-qasas",
+    "translation": "故事",
+    "total_verses": "八十八",
+    "arabic": "القصص"
+  },
+  {
+    "id": "二十九",
+    "transliteration": "阿尔安卡布特",
+    "slug": "29-al-ankabut",
+    "translation": "蜘蛛",
+    "total_verses": "六十九",
+    "arabic": "العنكبوت"
+  },
+  {
+    "id": "三十",
+    "transliteration": "阿尔鲁姆",
+    "slug": "30-ar-rum",
+    "translation": "罗马人",
+    "total_verses": "六十",
+    "arabic": "الروم"
+  },
+  {
+    "id": "三十一",
+    "transliteration": "鲁格曼",
+    "slug": "31-luqman",
+    "translation": "鲁格曼",
+    "total_verses": "三十四",
+    "arabic": "لقمان"
+  },
+  {
+    "id": "三十二",
+    "transliteration": "阿斯苏加达",
+    "slug": "32-as-sajdah",
+    "translation": "叩头",
+    "total_verses": "三十",
+    "arabic": "السجدة"
+  },
+  {
+    "id": "三十三",
+    "transliteration": "阿尔阿赫扎布",
+    "slug": "33-al-ahzab",
+    "translation": "同盟军",
+    "total_verses": "七十三",
+    "arabic": "الأحزاب"
+  },
+  {
+    "id": "三十四",
+    "transliteration": "赛伯",
+    "slug": "34-saba",
+    "translation": "赛伯邑",
+    "total_verses": "五十四",
+    "arabic": "سبإ"
+  },
+  {
+    "id": "三十五",
+    "transliteration": "法提尔",
+    "slug": "35-fatir",
+    "translation": "创造者",
+    "total_verses": "四十五",
+    "arabic": "فاطر"
+  },
+  {
+    "id": "三十六",
+    "transliteration": "雅辛",
+    "slug": "36-ya-sin",
+    "translation": "雅辛",
+    "total_verses": "八十三",
+    "arabic": "يس"
+  },
+  {
+    "id": "三十七",
+    "transliteration": "阿斯萨法特",
+    "slug": "37-as-saffat",
+    "translation": "列班者",
+    "total_verses": "一百八十二",
+    "arabic": "الصافات"
+  },
+  {
+    "id": "三十八",
+    "transliteration": "萨德",
+    "slug": "38-sad",
+    "translation": "萨德",
+    "total_verses": "八十八",
+    "arabic": "ص"
+  },
+  {
+    "id": "三十九",
+    "transliteration": "阿兹祖玛尔",
+    "slug": "39-az-zumar",
+    "translation": "队伍",
+    "total_verses": "七十五",
+    "arabic": "الزمر"
+  },
+  {
+    "id": "四十",
+    "transliteration": "加菲尔",
+    "slug": "40-ghafir",
+    "translation": "赦宥者",
+    "total_verses": "八十五",
+    "arabic": "غافر"
+  },
+  {
+    "id": "四十一",
+    "transliteration": "富斯斯拉特",
+    "slug": "41-fussilat",
+    "translation": "奉绥来特",
+    "total_verses": "五十四",
+    "arabic": "فصلت"
+  },
+  {
+    "id": "四十二",
+    "transliteration": "阿什舒拉",
+    "slug": "42-ash-shura",
+    "translation": "协商",
+    "total_verses": "五十三",
+    "arabic": "الشورى"
+  },
+  {
+    "id": "四十三",
+    "transliteration": "阿兹祖克胡鲁夫",
+    "slug": "43-az-zukhruf",
+    "translation": "金饰",
+    "total_verses": "八十九",
+    "arabic": "الزخرف"
+  },
+  {
+    "id": "四十四",
+    "transliteration": "阿德杜汗",
+    "slug": "44-ad-dukhan",
+    "translation": "烟雾",
+    "total_verses": "五十九",
+    "arabic": "الدخان"
+  },
+  {
+    "id": "四十五",
+    "transliteration": "阿尔贾西亚",
+    "slug": "45-al-jathiyah",
+    "translation": "屈膝",
+    "total_verses": "三十七",
+    "arabic": "الجاثية"
+  },
+  {
+    "id": "四十六",
+    "transliteration": "阿尔阿赫卡夫",
+    "slug": "46-al-ahqaf",
+    "translation": "沙丘",
+    "total_verses": "三十五",
+    "arabic": "الأحقاف"
+  },
+  {
+    "id": "四十七",
+    "transliteration": "穆罕默德",
+    "slug": "47-muhammad",
+    "translation": "穆罕默德",
+    "total_verses": "三十八",
+    "arabic": "محمد"
+  },
+  {
+    "id": "四十八",
+    "transliteration": "阿尔法特赫",
+    "slug": "48-al-fath",
+    "translation": "胜利",
+    "total_verses": "二十九",
+    "arabic": "الفتح"
+  },
+  {
+    "id": "四十九",
+    "transliteration": "阿尔胡苏拉特",
+    "slug": "49-al-hujurat",
+    "translation": "寝室",
+    "total_verses": "十八",
+    "arabic": "الحجرات"
+  },
+  {
+    "id": "五十",
+    "transliteration": "戛弗",
+    "slug": "50-qaf",
+    "translation": "戛弗",
+    "total_verses": "四十五",
+    "arabic": "ق"
+  },
+  {
+    "id": "五十一",
+    "transliteration": "阿尔扎里亚特",
+    "slug": "51-adh-dhariyat",
+    "translation": "播种者",
+    "total_verses": "六十",
+    "arabic": "الذاريات"
+  },
+  {
+    "id": "五十二",
+    "transliteration": "阿特图尔",
+    "slug": "52-at-tur",
+    "translation": "山岳",
+    "total_verses": "四十九",
+    "arabic": "الطور"
+  },
+  {
+    "id": "五十三",
+    "transliteration": "阿尔纳吉姆",
+    "slug": "53-an-najm",
+    "translation": "星宿",
+    "total_verses": "六十二",
+    "arabic": "النجم"
+  },
+  {
+    "id": "五十四",
+    "transliteration": "阿尔卡马尔",
+    "slug": "54-al-qamar",
+    "translation": "月亮",
+    "total_verses": "五十五",
+    "arabic": "القمر"
+  },
+  {
+    "id": "五十五",
+    "transliteration": "阿尔拉赫曼",
+    "slug": "55-ar-rahman",
+    "translation": "至仁主",
+    "total_verses": "七十八",
+    "arabic": "الرحمن"
+  },
+  {
+    "id": "五十六",
+    "transliteration": "阿尔瓦基阿",
+    "slug": "56-al-waqi-ah",
+    "translation": "大事",
+    "total_verses": "九十六",
+    "arabic": "الواقعة"
+  },
+  {
+    "id": "五十七",
+    "transliteration": "阿尔哈迪德",
+    "slug": "57-al-hadid",
+    "translation": "铁",
+    "total_verses": "二十九",
+    "arabic": "الحديد"
+  },
+  {
+    "id": "五十八",
+    "transliteration": "阿尔穆贾迪拉",
+    "slug": "58-al-mujadila",
+    "translation": "辩诉者",
+    "total_verses": "二十二",
+    "arabic": "المجادلة"
+  },
+  {
+    "id": "五十九",
+    "transliteration": "阿尔哈什尔",
+    "slug": "59-al-hashr",
+    "translation": "放逐",
+    "total_verses": "二十四",
+    "arabic": "الحشر"
+  },
+  {
+    "id": "六十",
+    "transliteration": "阿尔穆姆塔哈纳",
+    "slug": "60-al-mumtahanah",
+    "translation": "受考验的妇人",
+    "total_verses": "十三",
+    "arabic": "الممتحنة"
+  },
+  {
+    "id": "六十一",
+    "transliteration": "阿尔萨夫",
+    "slug": "61-as-saff",
+    "translation": "列阵",
+    "total_verses": "十四",
+    "arabic": "الصف"
+  },
+  {
+    "id": "六十二",
+    "transliteration": "阿尔朱姆阿",
+    "slug": "62-al-jumu-ah",
+    "translation": "聚礼",
+    "total_verses": "十一",
+    "arabic": "الجمعة"
+  },
+  {
+    "id": "六十三",
+    "transliteration": "阿尔穆纳菲库恩",
+    "slug": "63-al-munafiqun",
+    "translation": "伪信者",
+    "total_verses": "十一",
+    "arabic": "المنافقون"
+  },
+  {
+    "id": "六十四",
+    "transliteration": "阿特塔加布恩",
+    "slug": "64-at-taghabun",
+    "translation": "相欺",
+    "total_verses": "十八",
+    "arabic": "التغابن"
+  },
+  {
+    "id": "六十五",
+    "transliteration": "阿特塔拉克",
+    "slug": "65-at-talaq",
+    "translation": "离婚",
+    "total_verses": "十二",
+    "arabic": "الطلاق"
+  },
+  {
+    "id": "六十六",
+    "transliteration": "阿特塔赫里姆",
+    "slug": "66-at-tahrim",
+    "translation": "禁戒",
+    "total_verses": "十二",
+    "arabic": "التحريم"
+  },
+  {
+    "id": "六十七",
+    "transliteration": "阿尔穆尔克",
+    "slug": "67-al-mulk",
+    "translation": "国权",
+    "total_verses": "三十",
+    "arabic": "الملك"
+  },
+  {
+    "id": "六十八",
+    "transliteration": "阿尔卡拉姆",
+    "slug": "68-al-qalam",
+    "translation": "笔",
+    "total_verses": "五十二",
+    "arabic": "القلم"
+  },
+  {
+    "id": "六十九",
+    "transliteration": "阿尔哈卡哈",
+    "slug": "69-al-haqqah",
+    "translation": "真灾",
+    "total_verses": "五十二",
+    "arabic": "الحاقة"
+  },
+  {
+    "id": "七十",
+    "transliteration": "阿尔马阿里吉",
+    "slug": "70-al-ma-arij",
+    "translation": "天梯",
+    "total_verses": "四十四",
+    "arabic": "المعارج"
+  },
+  {
+    "id": "七十一",
+    "transliteration": "努哈",
+    "slug": "71-nuh",
+    "translation": "努哈",
+    "total_verses": "二十八",
+    "arabic": "نوح"
+  },
+  {
+    "id": "七十二",
+    "transliteration": "阿尔金",
+    "slug": "72-al-jinn",
+    "translation": "精灵",
+    "total_verses": "二十八",
+    "arabic": "الجن"
+  },
+  {
+    "id": "七十三",
+    "transliteration": "阿尔穆扎米尔",
+    "slug": "73-al-muzzammil",
+    "translation": "披衣的人",
+    "total_verses": "二十",
+    "arabic": "المزمل"
+  },
+  {
+    "id": "七十四",
+    "transliteration": "阿尔穆达斯尔",
+    "slug": "74-al-muddaththir",
+    "translation": "盖被的人",
+    "total_verses": "五十六",
+    "arabic": "المدثر"
+  },
+  {
+    "id": "七十五",
+    "transliteration": "阿尔基亚马",
+    "slug": "75-al-qiyamah",
+    "translation": "复活",
+    "total_verses": "四十",
+    "arabic": "القيامة"
+  },
+  {
+    "id": "七十六",
+    "transliteration": "阿尔因萨恩",
+    "slug": "76-al-insan",
+    "translation": "人",
+    "total_verses": "三十一",
+    "arabic": "الانسان"
+  },
+  {
+    "id": "七十七",
+    "transliteration": "阿尔穆尔萨拉特",
+    "slug": "77-al-mursalat",
+    "translation": "天使",
+    "total_verses": "五十",
+    "arabic": "المرسلات"
+  },
+  {
+    "id": "七十八",
+    "transliteration": "安纳巴",
+    "slug": "78-an-naba",
+    "translation": "消息",
+    "total_verses": "四十",
+    "arabic": "النبإ"
+  },
+  {
+    "id": "七十九",
+    "transliteration": "安纳扎特",
+    "slug": "79-an-naziat",
+    "translation": "急掣的",
+    "total_verses": "四十六",
+    "arabic": "النازعات"
+  },
+  {
+    "id": "八十",
+    "transliteration": "阿巴萨",
+    "slug": "80-abasa",
+    "translation": "皱眉",
+    "total_verses": "四十二",
+    "arabic": "عبس"
+  },
+  {
+    "id": "八十一",
+    "transliteration": "阿特塔克维尔",
+    "slug": "81-at-takwir",
+    "translation": "黯黮",
+    "total_verses": "二十九",
+    "arabic": "التكوير"
+  },
+  {
+    "id": "八十二",
+    "transliteration": "阿尔因菲塔尔",
+    "slug": "82-al-infitar",
+    "translation": "破裂",
+    "total_verses": "十九",
+    "arabic": "الإنفطار"
+  },
+  {
+    "id": "八十三",
+    "transliteration": "阿尔穆塔菲菲因",
+    "slug": "83-al-mutaffifin",
+    "translation": "称量不公",
+    "total_verses": "三十六",
+    "arabic": "المطففين"
+  },
+  {
+    "id": "八十四",
+    "transliteration": "阿尔因希卡克",
+    "slug": "84-al-inshiqaq",
+    "translation": "绽裂",
+    "total_verses": "二十五",
+    "arabic": "الإنشقاق"
+  },
+  {
+    "id": "八十五",
+    "transliteration": "阿尔布鲁杰",
+    "slug": "85-al-buruj",
+    "translation": "十二宫",
+    "total_verses": "二十二",
+    "arabic": "البروج"
+  },
+  {
+    "id": "八十六",
+    "transliteration": "阿特塔里克",
+    "slug": "86-at-tariq",
+    "translation": "启明星",
+    "total_verses": "十七",
+    "arabic": "الطارق"
+  },
+  {
+    "id": "八十七",
+    "transliteration": "阿尔阿拉",
+    "slug": "87-al-a-la",
+    "translation": "至尊",
+    "total_verses": "十九",
+    "arabic": "الأعلى"
+  },
+  {
+    "id": "八十八",
+    "transliteration": "阿尔加希亚",
+    "slug": "88-al-ghashiyah",
+    "translation": "大灾",
+    "total_verses": "二十六",
+    "arabic": "الغاشية"
+  },
+  {
+    "id": "八十九",
+    "transliteration": "阿尔法吉尔",
+    "slug": "89-al-fajr",
+    "translation": "黎明",
+    "total_verses": "三十",
+    "arabic": "الفجر"
+  },
+  {
+    "id": "九十",
+    "transliteration": "阿尔巴拉德",
+    "slug": "90-al-balad",
+    "translation": "地方",
+    "total_verses": "二十",
+    "arabic": "البلد"
+  },
+  {
+    "id": "九十一",
+    "transliteration": "阿什沙姆斯",
+    "slug": "91-ash-shams",
+    "translation": "太阳",
+    "total_verses": "十五",
+    "arabic": "الشمس"
+  },
+  {
+    "id": "九十二",
+    "transliteration": "阿尔莱尔",
+    "slug": "92-al-lail",
+    "translation": "黑夜",
+    "total_verses": "二十一",
+    "arabic": "الليل"
+  },
+  {
+    "id": "九十三",
+    "transliteration": "阿德杜哈",
+    "slug": "93-ad-duha",
+    "translation": "上午",
+    "total_verses": "十一",
+    "arabic": "الضحى"
+  },
+  {
+    "id": "九十四",
+    "transliteration": "阿什沙赫",
+    "slug": "94-ash-sharh",
+    "translation": "开拓",
+    "total_verses": "八",
+    "arabic": "الشرح"
+  },
+  {
+    "id": "九十五",
+    "transliteration": "阿特廷",
+    "slug": "95-at-tin",
+    "translation": "无花果",
+    "total_verses": "八",
+    "arabic": "التين"
+  },
+  {
+    "id": "九十六",
+    "transliteration": "阿尔阿拉克",
+    "slug": "96-al-alaq",
+    "translation": "血块",
+    "total_verses": "十九",
+    "arabic": "العلق"
+  },
+  {
+    "id": "九十七",
+    "transliteration": "阿尔卡德尔",
+    "slug": "97-al-qadr",
+    "translation": "高贵",
+    "total_verses": "五",
+    "arabic": "القدر"
+  },
+  {
+    "id": "九十八",
+    "transliteration": "阿尔巴因纳",
+    "slug": "98-al-bayyinah",
+    "translation": "明证",
+    "total_verses": "八",
+    "arabic": "البينة"
+  },
+  {
+    "id": "九十九",
+    "transliteration": "阿兹扎尔扎拉",
+    "slug": "99-az-zalzalah",
+    "translation": "地震",
+    "total_verses": "八",
+    "arabic": "الزلزلة"
+  },
+  {
+    "id": "一百",
+    "transliteration": "阿尔阿迪亚特",
+    "slug": "100-al-adiyat",
+    "translation": "奔驰的马队",
+    "total_verses": "十一",
+    "arabic": "العاديات"
+  },
+  {
+    "id": "一百一",
+    "transliteration": "阿尔卡里亚",
+    "slug": "101-al-qariah",
+    "translation": "大难",
+    "total_verses": "十一",
+    "arabic": "القارعة"
+  },
+  {
+    "id": "一百二",
+    "transliteration": "阿特卡苏尔",
+    "slug": "102-at-takathur",
+    "translation": "竞赛富遮",
+    "total_verses": "八",
+    "arabic": "التكاثر"
+  },
+  {
+    "id": "一百三",
+    "transliteration": "阿尔阿斯尔",
+    "slug": "103-al-asr",
+    "translation": "时光",
+    "total_verses": "三",
+    "arabic": "العصر"
+  },
+  {
+    "id": "一百四",
+    "transliteration": "阿尔胡马扎",
+    "slug": "104-al-humazah",
+    "translation": "诽谤者",
+    "total_verses": "九",
+    "arabic": "الهمزة"
+  },
+  {
+    "id": "一百五",
+    "transliteration": "阿尔菲尔",
+    "slug": "105-al-fil",
+    "translation": "象",
+    "total_verses": "五",
+    "arabic": "الفيل"
+  },
+  {
+    "id": "一百六",
+    "transliteration": "古来氏",
+    "slug": "106-quraysh",
+    "translation": "古来氏",
+    "total_verses": "四",
+    "arabic": "قريش"
+  },
+  {
+    "id": "一百七",
+    "transliteration": "阿尔马乌恩",
+    "slug": "107-al-ma-un",
+    "translation": "什物",
+    "total_verses": "七",
+    "arabic": "الماعون"
+  },
+  {
+    "id": "一百八",
+    "transliteration": "阿尔考萨尔",
+    "slug": "108-al-kawthar",
+    "translation": "多福",
+    "total_verses": "三",
+    "arabic": "الكوثر"
+  },
+  {
+    "id": "一百九",
+    "transliteration": "阿尔卡菲伦",
+    "slug": "109-al-kafirun",
+    "translation": "不信道的人们",
+    "total_verses": "六",
+    "arabic": "الكافرون"
+  },
+  {
+    "id": "一百十",
+    "transliteration": "安纳斯尔",
+    "slug": "110-an-nasr",
+    "translation": "援助",
+    "total_verses": "三",
+    "arabic": "النصر"
+  },
+  {
+    "id": "一百十一",
+    "transliteration": "阿尔马萨德",
+    "slug": "111-al-masad",
+    "translation": "火焰",
+    "total_verses": "五",
+    "arabic": "المسد"
+  },
+  {
+    "id": "一百十二",
+    "transliteration": "阿尔伊赫拉斯",
+    "slug": "112-al-ikhlas",
+    "translation": "忠诚",
+    "total_verses": "四",
+    "arabic": "الإخلاص"
+  },
+  {
+    "id": "一百十三",
+    "transliteration": "阿尔法拉克",
+    "slug": "113-al-falaq",
+    "translation": "曙光",
+    "total_verses": "五",
+    "arabic": "الفلق"
+  },
+  {
+    "id": "一百十四",
+    "transliteration": "安纳斯",
+    "slug": "114-an-nas",
+    "translation": "世人",
+    "total_verses": "六",
+    "arabic": "الناس"
+  }
+]

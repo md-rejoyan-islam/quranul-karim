@@ -1,0 +1,914 @@
+[
+  {
+    "id": "один",
+    "transliteration": "Аль-Фатиха",
+    "slug": "1-al-fatihah",
+    "translation": "Открывающая Коран",
+    "total_verses": "семь",
+    "arabic": "الفاتحة"
+  },
+  {
+    "id": "два",
+    "transliteration": "Аль-Бакара",
+    "slug": "2-al-baqarah",
+    "translation": "Корова",
+    "total_verses": "двести восемьдесят шесть",
+    "arabic": "البقرة"
+  },
+  {
+    "id": "три",
+    "transliteration": "Али 'Имран",
+    "slug": "3-ali-imran",
+    "translation": "Семейство Имрана",
+    "total_verses": "двести",
+    "arabic": "آل عمران"
+  },
+  {
+    "id": "четыре",
+    "transliteration": "Ан-Ниса",
+    "slug": "4-an-nisa",
+    "translation": "Женщины",
+    "total_verses": "сто семьдесят шесть",
+    "arabic": "النساء"
+  },
+  {
+    "id": "пять",
+    "transliteration": "Аль-Майдя",
+    "slug": "5-al-maidah",
+    "translation": "Трапеза",
+    "total_verses": "сто двадцать",
+    "arabic": "المائدة"
+  },
+  {
+    "id": "шесть",
+    "transliteration": "Аль-Ан'ам",
+    "slug": "6-al-anam",
+    "translation": "Скот",
+    "total_verses": "сто шестьдесят пять",
+    "arabic": "الأنعام"
+  },
+  {
+    "id": "семь",
+    "transliteration": "Аль-А'раф",
+    "slug": "7-al-araf",
+    "translation": "Ограды",
+    "total_verses": "двести шесть",
+    "arabic": "الأعراف"
+  },
+  {
+    "id": "восемь",
+    "transliteration": "Аль-Анфаль",
+    "slug": "8-al-anfal",
+    "translation": "Трофеи",
+    "total_verses": "семьдесят пять",
+    "arabic": "الأنفال"
+  },
+  {
+    "id": "девять",
+    "transliteration": "Ат-Тауба",
+    "slug": "9-at-tawbah",
+    "translation": "Покаяние",
+    "total_verses": "сто двадцать девять",
+    "arabic": "التوبة"
+  },
+  {
+    "id": "десять",
+    "transliteration": "Йунус",
+    "slug": "10-yunus",
+    "translation": "Йунус",
+    "total_verses": "сто девять",
+    "arabic": "يونس"
+  },
+  {
+    "id": "одиннадцать",
+    "transliteration": "Худ",
+    "slug": "11-hud",
+    "translation": "Худ",
+    "total_verses": "сто двадцать три",
+    "arabic": "هود"
+  },
+  {
+    "id": "двенадцать",
+    "transliteration": "Йусуф",
+    "slug": "12-yusuf",
+    "translation": "Йусуф",
+    "total_verses": "сто одиннадцать",
+    "arabic": "يوسف"
+  },
+  {
+    "id": "тринадцать",
+    "transliteration": "Ар-Раад",
+    "slug": "13-ar-raad",
+    "translation": "Гром",
+    "total_verses": "сорок три",
+    "arabic": "الرعد"
+  },
+  {
+    "id": "четырнадцать",
+    "transliteration": "Ибрахим",
+    "slug": "14-ibrahim",
+    "translation": "Ибрахим",
+    "total_verses": "пятьдесят два",
+    "arabic": "ابراهيم"
+  },
+  {
+    "id": "пятнадцать",
+    "transliteration": "Аль-Хиджр",
+    "slug": "15-al-hijr",
+    "translation": "Хиджр ",
+    "total_verses": "девяносто девять",
+    "arabic": "الحجر"
+  },
+  {
+    "id": "шестнадцать",
+    "transliteration": "Ан-Нахль",
+    "slug": "16-an-nahl",
+    "translation": "Пчелы",
+    "total_verses": "сто двадцать восемь",
+    "arabic": "النحل"
+  },
+  {
+    "id": "семнадцать",
+    "transliteration": "Аль-Исра",
+    "slug": "17-al-isra",
+    "translation": "Ночной перенос",
+    "total_verses": "сто одиннадцать",
+    "arabic": "الإسراء"
+  },
+  {
+    "id": "восемнадцать",
+    "transliteration": "Аль-Кахф",
+    "slug": "18-al-kahf",
+    "translation": "Пещера",
+    "total_verses": "сто десять",
+    "arabic": "الكهف"
+  },
+  {
+    "id": "девятнадцать",
+    "transliteration": "Марьям",
+    "slug": "19-maryam",
+    "translation": "Марьям",
+    "total_verses": "девяносто восемь",
+    "arabic": "مريم"
+  },
+  {
+    "id": "двадцать",
+    "transliteration": "Та Ха ",
+    "slug": "20-ta-ha",
+    "translation": "Та Ха ",
+    "total_verses": "сто тридцать пять",
+    "arabic": "طه"
+  },
+  {
+    "id": "двадцать один",
+    "transliteration": "Аль-Анбия",
+    "slug": "21-al-anbiya",
+    "translation": "Пророки",
+    "total_verses": "сто двенадцать",
+    "arabic": "الأنبياء"
+  },
+  {
+    "id": "двадцать два",
+    "transliteration": "Аль-Хадж",
+    "slug": "22-al-hajj",
+    "translation": "Паломничество",
+    "total_verses": "семьдесят восемь",
+    "arabic": "الحج"
+  },
+  {
+    "id": "двадцать три",
+    "transliteration": "Аль-Муминун",
+    "slug": "23-al-muminun",
+    "translation": "Верующие",
+    "total_verses": "сто восемнадцать",
+    "arabic": "المؤمنون"
+  },
+  {
+    "id": "двадцать четыре",
+    "transliteration": "Ан-Нур",
+    "slug": "24-an-nur",
+    "translation": "Свет",
+    "total_verses": "шестьдесят четыре",
+    "arabic": "النور"
+  },
+  {
+    "id": "двадцать пять",
+    "transliteration": "Аль-Фуркан",
+    "slug": "25-al-furqan",
+    "translation": "аль-Фуркан",
+    "total_verses": "семьдесят семь",
+    "arabic": "الفرقان"
+  },
+  {
+    "id": "двадцать шесть",
+    "transliteration": "Аш-Шуара",
+    "slug": "26-ash-shuara",
+    "translation": "Поэты",
+    "total_verses": "двести двадцать семь",
+    "arabic": "الشعراء"
+  },
+  {
+    "id": "двадцать семь",
+    "transliteration": "Ан-Намль",
+    "slug": "27-an-naml",
+    "translation": "Муравьи",
+    "total_verses": "девяносто три",
+    "arabic": "النمل"
+  },
+  {
+    "id": "двадцать восемь",
+    "transliteration": "Аль-Касас",
+    "slug": "28-al-qasas",
+    "translation": "Рассказ",
+    "total_verses": "восемьдесят восемь",
+    "arabic": "القصص"
+  },
+  {
+    "id": "двадцать девять",
+    "transliteration": "Аль-Анкабут",
+    "slug": "29-al-ankabut",
+    "translation": "Паук",
+    "total_verses": "шестьдесят девять",
+    "arabic": "العنكبوت"
+  },
+  {
+    "id": "тридцать",
+    "transliteration": "Ар-Рум",
+    "slug": "30-ar-rum",
+    "translation": "Римляне",
+    "total_verses": "шестьдесят",
+    "arabic": "الروم"
+  },
+  {
+    "id": "тридцать один",
+    "transliteration": "Лукман",
+    "slug": "31-luqman",
+    "translation": "Лукман",
+    "total_verses": "тридцать четыре",
+    "arabic": "لقمان"
+  },
+  {
+    "id": "тридцать два",
+    "transliteration": "Ас-Саджда",
+    "slug": "32-as-sajdah",
+    "translation": "Земной поклон",
+    "total_verses": "тридцать",
+    "arabic": "السجدة"
+  },
+  {
+    "id": "тридцать три",
+    "transliteration": "Аль-Ахзаб",
+    "slug": "33-al-ahzab",
+    "translation": "Союзники",
+    "total_verses": "семьдесят три",
+    "arabic": "الأحزاب"
+  },
+  {
+    "id": "тридцать четыре",
+    "transliteration": "Саба",
+    "slug": "34-saba",
+    "translation": "Сава",
+    "total_verses": "пятьдесят четыре",
+    "arabic": "سبإ"
+  },
+  {
+    "id": "тридцать пять",
+    "transliteration": "Фатир",
+    "slug": "35-fatir",
+    "translation": "Творец",
+    "total_verses": "сорок пять",
+    "arabic": "فاطر"
+  },
+  {
+    "id": "тридцать шесть",
+    "transliteration": "Йа Син",
+    "slug": "36-ya-sin",
+    "translation": "Йа Син",
+    "total_verses": "восемьдесят три",
+    "arabic": "يس"
+  },
+  {
+    "id": "тридцать семь",
+    "transliteration": "Ас-Саффат",
+    "slug": "37-as-saffat",
+    "translation": "Выстроившиеся в ряды",
+    "total_verses": "сто восемьдесят два",
+    "arabic": "الصافات"
+  },
+  {
+    "id": "тридцать восемь",
+    "transliteration": "Сод",
+    "slug": "38-sad",
+    "translation": "Сод",
+    "total_verses": "восемьдесят восемь",
+    "arabic": "ص"
+  },
+  {
+    "id": "тридцать девять",
+    "transliteration": "Аз-Зумар",
+    "slug": "39-az-zumar",
+    "translation": "Толпы",
+    "total_verses": "семьдесят пять",
+    "arabic": "الزمر"
+  },
+  {
+    "id": "сорок",
+    "transliteration": "Гафир",
+    "slug": "40-ghafir",
+    "translation": "Прощающий",
+    "total_verses": "восемьдесят пять",
+    "arabic": "غافر"
+  },
+  {
+    "id": "сорок один",
+    "transliteration": "Фуссилат",
+    "slug": "41-fussilat",
+    "translation": "Разъяснены",
+    "total_verses": "пятьдесят четыре",
+    "arabic": "فصلت"
+  },
+  {
+    "id": "сорок два",
+    "transliteration": "Аш-Шура",
+    "slug": "42-ash-shura",
+    "translation": "Совет",
+    "total_verses": "пятьдесят три",
+    "arabic": "الشورى"
+  },
+  {
+    "id": "сорок три",
+    "transliteration": "Аз-Зухруф",
+    "slug": "43-az-zukhruf",
+    "translation": "Украшения",
+    "total_verses": "восемьдесят девять",
+    "arabic": "الزخرف"
+  },
+  {
+    "id": "сорок четыре",
+    "transliteration": "Ад-Духан",
+    "slug": "44-ad-dukhan",
+    "translation": "Дым",
+    "total_verses": "пятьдесят девять",
+    "arabic": "الدخان"
+  },
+  {
+    "id": "сорок пять",
+    "transliteration": "Аль-Джатия",
+    "slug": "45-al-jathiyah",
+    "translation": "Коленопреклоненные",
+    "total_verses": "тридцать семь",
+    "arabic": "الجاثية"
+  },
+  {
+    "id": "сорок шесть",
+    "transliteration": "Аль-Ахкаф",
+    "slug": "46-al-ahqaf",
+    "translation": "Барханы",
+    "total_verses": "тридцать пять",
+    "arabic": "الأحقاف"
+  },
+  {
+    "id": "сорок семь",
+    "transliteration": "Мухаммад",
+    "slug": "47-muhammad",
+    "translation": "Мухаммад",
+    "total_verses": "тридцать восемь",
+    "arabic": "محمد"
+  },
+  {
+    "id": "сорок восемь",
+    "transliteration": "Аль-Фатх",
+    "slug": "48-al-fath",
+    "translation": "Победа",
+    "total_verses": "двадцать девять",
+    "arabic": "الفتح"
+  },
+  {
+    "id": "сорок девять",
+    "transliteration": "Аль-Худжурат",
+    "slug": "49-al-hujurat",
+    "translation": "Комнаты",
+    "total_verses": "восемнадцать",
+    "arabic": "الحجرات"
+  },
+  {
+    "id": "пятьдесят",
+    "transliteration": "Каф",
+    "slug": "50-qaf",
+    "translation": "Каф",
+    "total_verses": "сорок пять",
+    "arabic": "ق"
+  },
+  {
+    "id": "пятьдесят один",
+    "transliteration": "Ад-Дарият",
+    "slug": "51-adh-dhariyat",
+    "translation": "Рассеивающие прах",
+    "total_verses": "шестьдесят",
+    "arabic": "الذاريات"
+  },
+  {
+    "id": "пятьдесят два",
+    "transliteration": "Ат-Тур",
+    "slug": "52-at-tur",
+    "translation": "Гора",
+    "total_verses": "сорок девять",
+    "arabic": "الطور"
+  },
+  {
+    "id": "пятьдесят три",
+    "transliteration": "Ан-Наджм",
+    "slug": "53-an-najm",
+    "translation": "Звезда",
+    "total_verses": "шестьдесят два",
+    "arabic": "النجم"
+  },
+  {
+    "id": "пятьдесят четыре",
+    "transliteration": "Аль-Камар",
+    "slug": "54-al-qamar",
+    "translation": "Месяц",
+    "total_verses": "пятьдесят пять",
+    "arabic": "القمر"
+  },
+  {
+    "id": "пятьдесят пять",
+    "transliteration": "Ар-Рахман",
+    "slug": "55-ar-rahman",
+    "translation": "Милостивый",
+    "total_verses": "семьдесят восемь",
+    "arabic": "الرحمن"
+  },
+  {
+    "id": "пятьдесят шесть",
+    "transliteration": "Аль-Вакиа",
+    "slug": "56-al-waqi-ah",
+    "translation": "Событие",
+    "total_verses": "девяносто шесть",
+    "arabic": "الواقعة"
+  },
+  {
+    "id": "пятьдесят семь",
+    "transliteration": "Аль-Хадид",
+    "slug": "57-al-hadid",
+    "translation": "Железо",
+    "total_verses": "двадцать девять",
+    "arabic": "الحديد"
+  },
+  {
+    "id": "пятьдесят восемь",
+    "transliteration": "Аль-Муджадила",
+    "slug": "58-al-mujadila",
+    "translation": "Препирающаяся",
+    "total_verses": "двадцать два",
+    "arabic": "المجادلة"
+  },
+  {
+    "id": "пятьдесят девять",
+    "transliteration": "Аль-Хашр",
+    "slug": "59-al-hashr",
+    "translation": "Сбор",
+    "total_verses": "двадцать четыре",
+    "arabic": "الحشر"
+  },
+  {
+    "id": "шестьдесят",
+    "transliteration": "Аль-Мумтахана",
+    "slug": "60-al-mumtahanah",
+    "translation": "Испытуемая",
+    "total_verses": "тринадцать",
+    "arabic": "الممتحنة"
+  },
+  {
+    "id": "шестьдесят один",
+    "transliteration": "Ас-Сафф",
+    "slug": "61-as-saff",
+    "translation": "Ряды",
+    "total_verses": "четырнадцать",
+    "arabic": "الصف"
+  },
+  {
+    "id": "шестьдесят два",
+    "transliteration": "Аль-Джумуа",
+    "slug": "62-al-jumu-ah",
+    "translation": "Собрание",
+    "total_verses": "одиннадцать",
+    "arabic": "الجمعة"
+  },
+  {
+    "id": "шестьдесят три",
+    "transliteration": "Аль-Мунафикун",
+    "slug": "63-al-munafiqun",
+    "translation": "Лицемеры",
+    "total_verses": "одиннадцать",
+    "arabic": "المنافقون"
+  },
+  {
+    "id": "шестьдесят четыре",
+    "transliteration": "Ат-Тагабун",
+    "slug": "64-at-taghabun",
+    "translation": "Взаимное обделение",
+    "total_verses": "восемнадцать",
+    "arabic": "التغابن"
+  },
+  {
+    "id": "шестьдесят пять",
+    "transliteration": "Ат-Талак",
+    "slug": "65-at-talaq",
+    "translation": "Развод",
+    "total_verses": "двенадцать",
+    "arabic": "الطلاق"
+  },
+  {
+    "id": "шестьдесят шесть",
+    "transliteration": "Ат-Тахрим",
+    "slug": "66-at-tahrim",
+    "translation": "Запрещение",
+    "total_verses": "двенадцать",
+    "arabic": "التحريم"
+  },
+  {
+    "id": "шестьдесят семь",
+    "transliteration": "Аль-Мульк",
+    "slug": "67-al-mulk",
+    "translation": "Власть",
+    "total_verses": "тридцать",
+    "arabic": "الملك"
+  },
+  {
+    "id": "шестьдесят восемь",
+    "transliteration": "Аль-Калам",
+    "slug": "68-al-qalam",
+    "translation": "Письменная трость",
+    "total_verses": "пятьдесят два",
+    "arabic": "القلم"
+  },
+  {
+    "id": "шестьдесят девять",
+    "transliteration": "Аль-Хакка",
+    "slug": "69-al-haqqah",
+    "translation": "Неминуемое",
+    "total_verses": "пятьдесят два",
+    "arabic": "الحاقة"
+  },
+  {
+    "id": "семьдесят",
+    "transliteration": "Аль-Мааридж",
+    "slug": "70-al-ma-arij",
+    "translation": "Ступени",
+    "total_verses": "сорок четыре",
+    "arabic": "المعارج"
+  },
+  {
+    "id": "семьдесят один",
+    "transliteration": "Нух",
+    "slug": "71-nuh",
+    "translation": "Нух",
+    "total_verses": "двадцать восемь",
+    "arabic": "نوح"
+  },
+  {
+    "id": "семьдесят два",
+    "transliteration": "Аль-Джинн",
+    "slug": "72-al-jinn",
+    "translation": "Джинны",
+    "total_verses": "двадцать восемь",
+    "arabic": "الجن"
+  },
+  {
+    "id": "семьдесят три",
+    "transliteration": "Аль-Муззаммил",
+    "slug": "73-al-muzzammil",
+    "translation": "Закутавшийся",
+    "total_verses": "двадцать",
+    "arabic": "المزمل"
+  },
+  {
+    "id": "семьдесят четыре",
+    "transliteration": "Аль-Муддассир",
+    "slug": "74-al-muddaththir",
+    "translation": "Завернувшийся",
+    "total_verses": "пятьдесят шесть",
+    "arabic": "المدثر"
+  },
+  {
+    "id": "семьдесят пять",
+    "transliteration": "Аль-Кияма",
+    "slug": "75-al-qiyamah",
+    "translation": "Воскресение",
+    "total_verses": "сорок",
+    "arabic": "القيامة"
+  },
+  {
+    "id": "семьдесят шесть",
+    "transliteration": "Аль-Инсан",
+    "slug": "76-al-insan",
+    "translation": "Человек",
+    "total_verses": "тридцать один",
+    "arabic": "الانسان"
+  },
+  {
+    "id": "семьдесят семь",
+    "transliteration": "Аль-Мурсалат",
+    "slug": "77-al-mursalat",
+    "translation": "Посылаемые",
+    "total_verses": "пятьдесят",
+    "arabic": "المرسلات"
+  },
+  {
+    "id": "семьдесят восемь",
+    "transliteration": "Ан-Наба",
+    "slug": "78-an-naba",
+    "translation": "Весть",
+    "total_verses": "сорок",
+    "arabic": "النبإ"
+  },
+  {
+    "id": "семьдесят девять",
+    "transliteration": "Ан-Назиат",
+    "slug": "79-an-naziat",
+    "translation": "Исторгающие",
+    "total_verses": "сорок шесть",
+    "arabic": "النازعات"
+  },
+  {
+    "id": "восемьдесят",
+    "transliteration": "Абаса",
+    "slug": "80-abasa",
+    "translation": "Нахмурился",
+    "total_verses": "сорок два",
+    "arabic": "عبس"
+  },
+  {
+    "id": "восемьдесят один",
+    "transliteration": "Ат-Таквир",
+    "slug": "81-at-takwir",
+    "translation": "Скручивание",
+    "total_verses": "двадцать девять",
+    "arabic": "التكوير"
+  },
+  {
+    "id": "восемьдесят два",
+    "transliteration": "Аль-Инфитар",
+    "slug": "82-al-infitar",
+    "translation": "Раскалывание",
+    "total_verses": "девятнадцать",
+    "arabic": "الإنفطار"
+  },
+  {
+    "id": "восемьдесят три",
+    "transliteration": "Аль-Мутаффифин",
+    "slug": "83-al-mutaffifin",
+    "translation": "Обвешивающие",
+    "total_verses": "тридцать шесть",
+    "arabic": "المطففين"
+  },
+  {
+    "id": "восемьдесят четыре",
+    "transliteration": "Аль-Иншикак",
+    "slug": "84-al-inshiqaq",
+    "translation": "Разверзнется",
+    "total_verses": "двадцать пять",
+    "arabic": "الإنشقاق"
+  },
+  {
+    "id": "восемьдесят пять",
+    "transliteration": "Аль-Бурудж",
+    "slug": "85-al-buruj",
+    "translation": "Созвездия Зодиака",
+    "total_verses": "двадцать два",
+    "arabic": "البروج"
+  },
+  {
+    "id": "восемьдесят шесть",
+    "transliteration": "Ат-Тарик",
+    "slug": "86-at-tariq",
+    "translation": "Ночной путник",
+    "total_verses": "семнадцать",
+    "arabic": "الطارق"
+  },
+  {
+    "id": "восемьдесят семь",
+    "transliteration": "Аль-Аля",
+    "slug": "87-al-a-la",
+    "translation": "Всевышний",
+    "total_verses": "девятнадцать",
+    "arabic": "الأعلى"
+  },
+  {
+    "id": "восемьдесят восемь",
+    "transliteration": "Аль-Гашия",
+    "slug": "88-al-ghashiyah",
+    "translation": "Покрывающее",
+    "total_verses": "двадцать шесть",
+    "arabic": "الغاشية"
+  },
+  {
+    "id": "восемьдесят девять",
+    "transliteration": "Аль-Фаджр",
+    "slug": "89-al-fajr",
+    "translation": "Заря",
+    "total_verses": "тридцать",
+    "arabic": "الفجر"
+  },
+  {
+    "id": "девяносто",
+    "transliteration": "Аль-Балад",
+    "slug": "90-al-balad",
+    "translation": "Город",
+    "total_verses": "двадцать",
+    "arabic": "البلد"
+  },
+  {
+    "id": "девяносто один",
+    "transliteration": "Аш-Шамс",
+    "slug": "91-ash-shams",
+    "translation": "Солнце",
+    "total_verses": "пятнадцать",
+    "arabic": "الشمس"
+  },
+  {
+    "id": "девяносто два",
+    "transliteration": "Аль-Лайл",
+    "slug": "92-al-lail",
+    "translation": "Ночь",
+    "total_verses": "двадцать один",
+    "arabic": "الليل"
+  },
+  {
+    "id": "девяносто три",
+    "transliteration": "Ад-Духа",
+    "slug": "93-ad-duha",
+    "translation": "Утро",
+    "total_verses": "одиннадцать",
+    "arabic": "الضحى"
+  },
+  {
+    "id": "девяносто четыре",
+    "transliteration": "Аш-Шарх",
+    "slug": "94-ash-sharh",
+    "translation": "Раскрытие",
+    "total_verses": "восемь",
+    "arabic": "الشرح"
+  },
+  {
+    "id": "девяносто пять",
+    "transliteration": "Ат-Тин",
+    "slug": "95-at-tin",
+    "translation": "Смоковница",
+    "total_verses": "восемь",
+    "arabic": "التين"
+  },
+  {
+    "id": "девяносто шесть",
+    "transliteration": "Аль-Аляк",
+    "slug": "96-al-alaq",
+    "translation": "Сгусток крови",
+    "total_verses": "девятнадцать",
+    "arabic": "العلق"
+  },
+  {
+    "id": "девяносто семь",
+    "transliteration": "Аль-Кадр",
+    "slug": "97-al-qadr",
+    "translation": "Предопределение",
+    "total_verses": "пять",
+    "arabic": "القدر"
+  },
+  {
+    "id": "девяносто восемь",
+    "transliteration": "Аль-Баййина",
+    "slug": "98-al-bayyinah",
+    "translation": "Ясное знамение",
+    "total_verses": "восемь",
+    "arabic": "البينة"
+  },
+  {
+    "id": "девяносто девять",
+    "transliteration": "Аз-Залзала",
+    "slug": "99-az-zalzalah",
+    "translation": "Сотрясение",
+    "total_verses": "восемь",
+    "arabic": "الزلزلة"
+  },
+  {
+    "id": "сто",
+    "transliteration": "Аль-Адият",
+    "slug": "100-al-adiyat",
+    "translation": "Скачущие",
+    "total_verses": "одиннадцать",
+    "arabic": "العاديات"
+  },
+  {
+    "id": "сто один",
+    "transliteration": "Аль-Кариа",
+    "slug": "101-al-qariah",
+    "translation": "Великое бедствие",
+    "total_verses": "одиннадцать",
+    "arabic": "القارعة"
+  },
+  {
+    "id": "сто два",
+    "transliteration": "Ат-Такасур",
+    "slug": "102-at-takathur",
+    "translation": "Страсть к приумножению",
+    "total_verses": "восемь",
+    "arabic": "التكاثر"
+  },
+  {
+    "id": "сто три",
+    "transliteration": "Аль-Аср",
+    "slug": "103-al-asr",
+    "translation": "Предвечернее время",
+    "total_verses": "три",
+    "arabic": "العصر"
+  },
+  {
+    "id": "сто четыре",
+    "transliteration": "Аль-Хумаза",
+    "slug": "104-al-humazah",
+    "translation": "Хулитель",
+    "total_verses": "девять",
+    "arabic": "الهمزة"
+  },
+  {
+    "id": "сто пять",
+    "transliteration": "Аль-Филь",
+    "slug": "105-al-fil",
+    "translation": "Слон",
+    "total_verses": "пять",
+    "arabic": "الفيل"
+  },
+  {
+    "id": "сто шесть",
+    "transliteration": "Курейш",
+    "slug": "106-quraysh",
+    "translation": "Курейшиты",
+    "total_verses": "четыре",
+    "arabic": "قريش"
+  },
+  {
+    "id": "сто семь",
+    "transliteration": "Аль-Маун",
+    "slug": "107-al-ma-un",
+    "translation": "Мелочь",
+    "total_verses": "семь",
+    "arabic": "الماعون"
+  },
+  {
+    "id": "сто восемь",
+    "transliteration": "Аль-Каусар",
+    "slug": "108-al-kawthar",
+    "translation": "Изобилие",
+    "total_verses": "три",
+    "arabic": "الكوثر"
+  },
+  {
+    "id": "сто девять",
+    "transliteration": "Аль-Кафирун",
+    "slug": "109-al-kafirun",
+    "translation": "Неверующие",
+    "total_verses": "шесть",
+    "arabic": "الكافرون"
+  },
+  {
+    "id": "сто десять",
+    "transliteration": "Ан-Наср",
+    "slug": "110-an-nasr",
+    "translation": "Помощь",
+    "total_verses": "три",
+    "arabic": "النصر"
+  },
+  {
+    "id": "сто одиннадцать",
+    "transliteration": "Аль-Масад",
+    "slug": "111-al-masad",
+    "translation": "Пальмовые волокна",
+    "total_verses": "пять",
+    "arabic": "المسد"
+  },
+  {
+    "id": "сто двенадцать",
+    "transliteration": "Аль-Ихлас",
+    "slug": "112-al-ikhlas",
+    "translation": "Очищение веры",
+    "total_verses": "четыре",
+    "arabic": "الإخلاص"
+  },
+  {
+    "id": "сто тринадцать",
+    "transliteration": "Аль-Фалах",
+    "slug": "113-al-falaq",
+    "translation": "Рассвет",
+    "total_verses": "пять",
+    "arabic": "الفلق"
+  },
+  {
+    "id": "сто четырнадцать",
+    "transliteration": "Ан-Нас",
+    "slug": "114-an-nas",
+    "translation": "Люди",
+    "total_verses": "шесть",
+    "arabic": "الناس"
+  }
+]

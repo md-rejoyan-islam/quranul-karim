@@ -1,0 +1,23 @@
+[
+  {
+    "title": "القرآن الكريم",
+    "sub_title": "أردو الترجمة والتفسير المختصر",
+    "surah": "سورہ",
+    "ayat": "آیت",
+    "t": "ٹی",
+    "revelation": "نیچے اتر گیا",
+    "setting": "ترتیب",
+    "theme_title": "خصوصیت",
+    "light": "روشن",
+    "dark": "اندھیرا",
+    "show_arabic_text": "عربی متن دکھائیں",
+    "yes": "ہاں",
+    "no": "نہیں",
+    "arabic_font_size_title": "عربی فونٹ سائز",
+    "small": "چھوٹا",
+    "big": "بڑا",
+    "show_translation": "انگریزی ترجمہ دکھائیں",
+    "translation_font_size_title": "ترجمہ فونٹ سائز",
+    "translation_demo_text": "رحمان، رحیم"
+  }
+]

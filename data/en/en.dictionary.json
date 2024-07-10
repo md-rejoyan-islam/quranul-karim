@@ -1,0 +1,23 @@
+[
+  {
+    "title": "The Holy Quran",
+    "sub_title": "English Translation and Brief Commentary",
+    "surah": "surah",
+    "ayat": "Ayat",
+    "t": "t",
+    "revelation": "Revelation",
+    "setting": "Settings",
+    "theme_title": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "show_arabic_text": "Show Arabic Text",
+    "yes": "Yes",
+    "no": "No",
+    "arabic_font_size_title": "Arabic Font Size",
+    "small": "Small",
+    "big": "Big",
+    "show_translation": "Show English Translation",
+    "translation_font_size_title": "Translation Font Size",
+    "translation_demo_text": "Merciful, Most Merciful"
+  }
+]

@@ -39,7 +39,6 @@ export default function ModalSetting({ isOpen, setIsOpen }) {
             >
               <div className=" flex flex-col justify-between items-center  w-full  card__bg rounded-md  option__border ">
                 <div className="settings__title__bar flex justify-between items-center w-full mb-5">
-                  <span></span>
                   <h1 className="text-[25px] pl-5">Settings</h1>
                   <span
                     onClick={() => setIsOpen(false)}

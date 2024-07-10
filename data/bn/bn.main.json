@@ -1,0 +1,914 @@
+[
+  {
+    "id": "১",
+    "arabic": "الفاتحة",
+    "transliteration": "আল-ফাতিহা",
+    "slug": "1-al-fatihah",
+    "translation": "সূচনা",
+    "total_verses": "৭"
+  },
+  {
+    "id": "২",
+    "arabic": "البقرة",
+    "transliteration": "আল-বাকারা",
+    "slug": "2-al-baqarah",
+    "translation": "বকনা-বাছুর",
+    "total_verses": "২৮৬"
+  },
+  {
+    "id": "৩",
+    "arabic": "آل عمران",
+    "transliteration": "আল-ইমরান",
+    "slug": "3-ali-imran",
+    "translation": "ইমরানের পরিবার",
+    "total_verses": "২০০"
+  },
+  {
+    "id": "৪",
+    "arabic": "النساء",
+    "transliteration": "আন-নিসা",
+    "slug": "4-an-nisa",
+    "translation": "নারী",
+    "total_verses": "১৭৬"
+  },
+  {
+    "id": "৫",
+    "arabic": "المائدة",
+    "transliteration": "আল-মায়েদা",
+    "slug": "5-al-maidah",
+    "translation": "খাদ্য পরিবেশিত টেবিল",
+    "total_verses": "১২০"
+  },
+  {
+    "id": "৬",
+    "arabic": "الأنعام",
+    "transliteration": "আল-আনআম",
+    "slug": "6-al-anam",
+    "translation": "গৃহপালিত পশু",
+    "total_verses": "১৬৫"
+  },
+  {
+    "id": "৭",
+    "arabic": "الأعراف",
+    "transliteration": "আল-আরাফ",
+    "slug": "7-al-araf",
+    "translation": "উচু স্থান",
+    "total_verses": "২০৬"
+  },
+  {
+    "id": "৮",
+    "arabic": "الأنفال",
+    "transliteration": "আল-আনফাল",
+    "slug": "8-al-anfal",
+    "translation": "যুদ্ধ-লব্ধ ধনসম্পদ",
+    "total_verses": "৭৫"
+  },
+  {
+    "id": "৯",
+    "arabic": "التوبة",
+    "transliteration": "আত-তাওবা",
+    "slug": "9-at-tawbah",
+    "translation": "অনুশোচনা",
+    "total_verses": "১২৯"
+  },
+  {
+    "id": "১০",
+    "arabic": "يونس",
+    "transliteration": "ইউনুস",
+    "slug": "10-yunus",
+    "translation": "নবী ইউনুস",
+    "total_verses": "১০৯"
+  },
+  {
+    "id": "১১",
+    "arabic": "هود",
+    "transliteration": "হুদ",
+    "slug": "11-hud",
+    "translation": "নবী হুদ",
+    "total_verses": "১২৩"
+  },
+  {
+    "id": "১২",
+    "arabic": "يوسف",
+    "transliteration": "ইউসুফ",
+    "slug": "12-yusuf",
+    "translation": "নবী ইউসুফ",
+    "total_verses": "১১১"
+  },
+  {
+    "id": "১৩",
+    "arabic": "الرعد",
+    "transliteration": "আর-রায়্যাদ",
+    "slug": "13-ar-raad",
+    "translation": "বজ্রপাত",
+    "total_verses": "৪৩"
+  },
+  {
+    "id": "১৪",
+    "arabic": "ابراهيم",
+    "transliteration": "ইবরাহীম",
+    "slug": "14-ibrahim",
+    "translation": "নবী ইবরাহীম",
+    "total_verses": "৫২"
+  },
+  {
+    "id": "১৫",
+    "arabic": "الحجر",
+    "transliteration": "আল-হিজর",
+    "slug": "15-al-hijr",
+    "translation": "পাথুরে পাহাড়",
+    "total_verses": "৯৯"
+  },
+  {
+    "id": "১৬",
+    "arabic": "النحل",
+    "transliteration": "আন-নাহল",
+    "slug": "16-an-nahl",
+    "translation": "মৌমাছি",
+    "total_verses": "১২৮"
+  },
+  {
+    "id": "১৭",
+    "arabic": "الإسراء",
+    "transliteration": "আল-ইসরা",
+    "slug": "17-al-isra",
+    "translation": "ইহুদি জাতি",
+    "total_verses": "১১১"
+  },
+  {
+    "id": "১৮",
+    "arabic": "الكهف",
+    "transliteration": "আল-কাহফ",
+    "slug": "18-al-kahf",
+    "translation": "গুহা",
+    "total_verses": "১১০"
+  },
+  {
+    "id": "১৯",
+    "arabic": "مريم",
+    "transliteration": "মারইয়াম",
+    "slug": "19-maryam",
+    "translation": "মারইয়াম (ঈসা নবীর মা)",
+    "total_verses": "৯৮"
+  },
+  {
+    "id": "২০",
+    "arabic": "طه",
+    "transliteration": "ত়া হা",
+    "slug": "20-ta-ha",
+    "translation": "ত়া হা",
+    "total_verses": "১৩৫"
+  },
+  {
+    "id": "২১",
+    "arabic": "الأنبياء",
+    "transliteration": "আল-আনবিয়া",
+    "slug": "21-al-anbiya",
+    "translation": "নবীগণ",
+    "total_verses": "১১২"
+  },
+  {
+    "id": "২২",
+    "arabic": "الحج",
+    "transliteration": "আল-হাজ্জ",
+    "slug": "22-al-hajj",
+    "translation": "হ়াজ্জ",
+    "total_verses": "৭৮"
+  },
+  {
+    "id": "২৩",
+    "arabic": "المؤمنون",
+    "transliteration": "আল-মুমিনুন",
+    "slug": "23-al-muminun",
+    "translation": "বিশ্বাসী",
+    "total_verses": "১১৮"
+  },
+  {
+    "id": "২৪",
+    "arabic": "النور",
+    "transliteration": "আন-নূর",
+    "slug": "24-an-nur",
+    "translation": "আলো",
+    "total_verses": "৬৪"
+  },
+  {
+    "id": "২৫",
+    "arabic": "الفرقان",
+    "transliteration": "আল-ফুরকান",
+    "slug": "25-al-furqan",
+    "translation": "মানদণ্ড",
+    "total_verses": "৭৭"
+  },
+  {
+    "id": "২৬",
+    "arabic": "الشعراء",
+    "transliteration": "আশ-শুয়ারা",
+    "slug": "26-ash-shuara",
+    "translation": "কবি",
+    "total_verses": "২২৭"
+  },
+  {
+    "id": "২৭",
+    "arabic": "النمل",
+    "transliteration": "আন-নামল",
+    "slug": "27-an-naml",
+    "translation": "পিঁপড়া",
+    "total_verses": "৯৩"
+  },
+  {
+    "id": "২৮",
+    "arabic": "القصص",
+    "transliteration": "আল-কাসাস",
+    "slug": "28-al-qasas",
+    "translation": "কাহিনি",
+    "total_verses": "৮৮"
+  },
+  {
+    "id": "২৯",
+    "arabic": "العنكبوت",
+    "transliteration": "আল-আনকাবুত",
+    "slug": "29-al-ankabut",
+    "translation": "মাকড়শা",
+    "total_verses": "৬৯"
+  },
+  {
+    "id": "৩০",
+    "arabic": "الروم",
+    "transliteration": "আর-রুম",
+    "slug": "30-ar-rum",
+    "translation": "রোমান জাতি",
+    "total_verses": "৬০"
+  },
+  {
+    "id": "৩১",
+    "arabic": "لقمان",
+    "transliteration": "লুকমান",
+    "slug": "31-luqman",
+    "translation": "এক জ্ঞানী ব্যাক্তি",
+    "total_verses": "৩৪"
+  },
+  {
+    "id": "৩২",
+    "arabic": "السجدة",
+    "transliteration": "আস-সাজদা",
+    "slug": "32-as-sajdah",
+    "translation": "সিজদা",
+    "total_verses": "৩০"
+  },
+  {
+    "id": "৩৩",
+    "arabic": "الأحزاب",
+    "transliteration": "আল-আহজাব",
+    "slug": "33-al-ahzab",
+    "translation": "জোট",
+    "total_verses": "৭৩"
+  },
+  {
+    "id": "৩৪",
+    "arabic": "سبإ",
+    "transliteration": "সবা",
+    "slug": "34-saba",
+    "translation": "রানী সাবা/শেবা",
+    "total_verses": "৫৪"
+  },
+  {
+    "id": "৩৫",
+    "arabic": "فاطر",
+    "transliteration": "ফাতির",
+    "slug": "35-fatir",
+    "translation": "আদি স্রষ্টা",
+    "total_verses": "৪৫"
+  },
+  {
+    "id": "৩৬",
+    "arabic": "يس",
+    "transliteration": "ইয়াসীন",
+    "slug": "36-ya-sin",
+    "translation": "ইয়াসীন",
+    "total_verses": "৮৩"
+  },
+  {
+    "id": "৩৭",
+    "arabic": "الصافات",
+    "transliteration": "আস-সাফফাত",
+    "slug": "37-as-saffat",
+    "translation": "সারিবদ্ধভাবে দাঁড়ানো",
+    "total_verses": "১৮২"
+  },
+  {
+    "id": "৩৮",
+    "arabic": "ص",
+    "transliteration": "সাদ",
+    "slug": "38-sad",
+    "translation": "আরবি বর্ণ সাদ",
+    "total_verses": "৮৮"
+  },
+  {
+    "id": "৩৯",
+    "arabic": "الزمر",
+    "transliteration": "আজ-জুমার",
+    "slug": "39-az-zumar",
+    "translation": "দলবদ্ধ জনতা",
+    "total_verses": "৭৫"
+  },
+  {
+    "id": "৪০",
+    "arabic": "غافر",
+    "transliteration": "গাফির",
+    "slug": "40-ghafir",
+    "translation": "ক্ষমাকারী",
+    "total_verses": "৮৫"
+  },
+  {
+    "id": "৪১",
+    "arabic": "فصلت",
+    "transliteration": "ফুসসিলাত",
+    "slug": "41-fussilat",
+    "translation": "সুস্পষ্ট বিবরণ",
+    "total_verses": "৫৪"
+  },
+  {
+    "id": "৪২",
+    "arabic": "الشورى",
+    "transliteration": "আশ-শুরা",
+    "slug": "42-ash-shura",
+    "translation": "পরামর্শ",
+    "total_verses": "৫৩"
+  },
+  {
+    "id": "৪৩",
+    "arabic": "الزخرف",
+    "transliteration": "আজ-জুখরুফ",
+    "slug": "43-az-zukhruf",
+    "translation": "সোনাদানা",
+    "total_verses": "৮৯"
+  },
+  {
+    "id": "৪৪",
+    "arabic": "الدخان",
+    "transliteration": "আদ-দুখান",
+    "slug": "44-ad-dukhan",
+    "translation": "ধোঁয়া",
+    "total_verses": "৫৯"
+  },
+  {
+    "id": "৪৫",
+    "arabic": "الجاثية",
+    "transliteration": "আল-জাথিয়াহ",
+    "slug": "45-al-jathiyah",
+    "translation": "নতজানু",
+    "total_verses": "৩৭"
+  },
+  {
+    "id": "৪৬",
+    "arabic": "الأحقاف",
+    "transliteration": "আল-আহকাফ",
+    "slug": "46-al-ahqaf",
+    "translation": "বালুর পাহাড়",
+    "total_verses": "৩৫"
+  },
+  {
+    "id": "৪৭",
+    "arabic": "محمد",
+    "transliteration": "মুহাম্মদ",
+    "slug": "47-muhammad",
+    "translation": "নবী মুহাম্মদ",
+    "total_verses": "৩৮"
+  },
+  {
+    "id": "৪৮",
+    "arabic": "الفتح",
+    "transliteration": "আল-ফাতহ",
+    "slug": "48-al-fath",
+    "translation": "বিজয়",
+    "total_verses": "২৯"
+  },
+  {
+    "id": "৪৯",
+    "arabic": "الحجرات",
+    "transliteration": "আল-হুজুরাত",
+    "slug": "49-al-hujurat",
+    "translation": "আবাস",
+    "total_verses": "১৮"
+  },
+  {
+    "id": "৫০",
+    "arabic": "ق",
+    "transliteration": "কাফ",
+    "slug": "50-qaf",
+    "translation": "কাফ",
+    "total_verses": "৪৫"
+  },
+  {
+    "id": "৫১",
+    "arabic": "الذاريات",
+    "transliteration": "আদ-দারিয়াত",
+    "slug": "51-adh-dhariyat",
+    "translation": "বিক্ষেপকারী বাতাস",
+    "total_verses": "৬০"
+  },
+  {
+    "id": "৫২",
+    "arabic": "الطور",
+    "transliteration": "আত-তূর",
+    "slug": "52-at-tur",
+    "translation": "পাহাড়",
+    "total_verses": "৪৯"
+  },
+  {
+    "id": "৫৩",
+    "arabic": "النجم",
+    "transliteration": "আন-নাজম",
+    "slug": "53-an-najm",
+    "translation": "তারা",
+    "total_verses": "৬২"
+  },
+  {
+    "id": "৫৪",
+    "arabic": "القمر",
+    "transliteration": "আল-কামার",
+    "slug": "54-al-qamar",
+    "translation": "চাঁদ",
+    "total_verses": "৫৫"
+  },
+  {
+    "id": "৫৫",
+    "arabic": "الرحمن",
+    "transliteration": "আর-রহমান",
+    "slug": "55-ar-rahman",
+    "translation": "পরম করুণাময়",
+    "total_verses": "৭৮"
+  },
+  {
+    "id": "৫৬",
+    "arabic": "الواقعة",
+    "transliteration": "আল-ওয়াকিয়াহ",
+    "slug": "56-al-waqi-ah",
+    "translation": "নিশ্চিত ঘটনা",
+    "total_verses": "৯৬"
+  },
+  {
+    "id": "৫৭",
+    "arabic": "الحديد",
+    "transliteration": "আল-হাদীদ",
+    "slug": "57-al-hadid",
+    "translation": "লোহা",
+    "total_verses": "২৯"
+  },
+  {
+    "id": "৫৮",
+    "arabic": "المجادلة",
+    "transliteration": "আল-মুজাদিলা",
+    "slug": "58-al-mujadila",
+    "translation": "অনুযোগকারিণী",
+    "total_verses": "২২"
+  },
+  {
+    "id": "৫৯",
+    "arabic": "الحشر",
+    "transliteration": "আল-হাশর",
+    "slug": "59-al-hashr",
+    "translation": "সমাবেশ",
+    "total_verses": "২৪"
+  },
+  {
+    "id": "৬০",
+    "arabic": "الممتحنة",
+    "transliteration": "আল-মুমতাহানাহ",
+    "slug": "60-al-mumtahanah",
+    "translation": "নারী, যাকে পরীক্ষা করা হবে",
+    "total_verses": "১৩"
+  },
+  {
+    "id": "৬১",
+    "arabic": "الصف",
+    "transliteration": "আস-সাফ",
+    "slug": "61-as-saff",
+    "translation": "সারিবদ্ধ সৈন্যদল",
+    "total_verses": "১৪"
+  },
+  {
+    "id": "৬২",
+    "arabic": "الجمعة",
+    "transliteration": "আল-জুমুআহ",
+    "slug": "62-al-jumu-ah",
+    "translation": "সম্মেলন/শুক্রবার",
+    "total_verses": "১১"
+  },
+  {
+    "id": "৬৩",
+    "arabic": "المنافقون",
+    "transliteration": "আল-মুনাফিকুন",
+    "slug": "63-al-munafiqun",
+    "translation": "ভণ্ড বিশ্বাসী",
+    "total_verses": "১১"
+  },
+  {
+    "id": "৬৪",
+    "arabic": "التغابن",
+    "transliteration": "আত-তাগাবুন",
+    "slug": "64-at-taghabun",
+    "translation": "মোহ অপসারণ",
+    "total_verses": "১৮"
+  },
+  {
+    "id": "৬৫",
+    "arabic": "الطلاق",
+    "transliteration": "আত-তালাক",
+    "slug": "65-at-talaq",
+    "translation": "তালাক",
+    "total_verses": "১২"
+  },
+  {
+    "id": "৬৬",
+    "arabic": "التحريم",
+    "transliteration": "আত-তাহরীম",
+    "slug": "66-at-tahrim",
+    "translation": "নিষিদ্ধকরণ",
+    "total_verses": "১২"
+  },
+  {
+    "id": "৬৭",
+    "arabic": "الملك",
+    "transliteration": "আল-মুলক",
+    "slug": "67-al-mulk",
+    "translation": "সার্বভৌম কর্তৃত্ব",
+    "total_verses": "৩০"
+  },
+  {
+    "id": "৬৮",
+    "arabic": "القلم",
+    "transliteration": "আল-কলম",
+    "slug": "68-al-qalam",
+    "translation": "কলম",
+    "total_verses": "৫২"
+  },
+  {
+    "id": "৬৯",
+    "arabic": "الحاقة",
+    "transliteration": "আল-হাক্কা",
+    "slug": "69-al-haqqah",
+    "translation": "নিশ্চিত সত্য",
+    "total_verses": "৫২"
+  },
+  {
+    "id": "৭০",
+    "arabic": "المعارج",
+    "transliteration": "আল-মা'আরিজ",
+    "slug": "70-al-ma-arij",
+    "translation": "উন্নয়নের সোপান",
+    "total_verses": "৪৪"
+  },
+  {
+    "id": "৭১",
+    "arabic": "نوح",
+    "transliteration": "নূহ",
+    "slug": "71-nuh",
+    "translation": "নবী নূহ",
+    "total_verses": "২৮"
+  },
+  {
+    "id": "৭২",
+    "arabic": "الجن",
+    "transliteration": "আল-জিন",
+    "slug": "72-al-jinn",
+    "translation": "জিন সম্প্রদায়",
+    "total_verses": "২৮"
+  },
+  {
+    "id": "৭৩",
+    "arabic": "المزمل",
+    "transliteration": "আল-মুজাম্মিল",
+    "slug": "73-al-muzzammil",
+    "translation": "বস্ত্রাচ্ছাদনকারী",
+    "total_verses": "২০"
+  },
+  {
+    "id": "৭৪",
+    "arabic": "المدثر",
+    "transliteration": "আল-মুদ্দাসির",
+    "slug": "74-al-muddaththir",
+    "translation": "পোশাক পরিহিত",
+    "total_verses": "৫৬"
+  },
+  {
+    "id": "৭৫",
+    "arabic": "القيامة",
+    "transliteration": "আল-কিয়ামাহ",
+    "slug": "75-al-qiyamah",
+    "translation": "পুনরুত্থান",
+    "total_verses": "৪০"
+  },
+  {
+    "id": "৭৬",
+    "arabic": "الانسان",
+    "transliteration": "আল-ইনসান",
+    "slug": "76-al-insan",
+    "translation": "মানবজাতি",
+    "total_verses": "৩১"
+  },
+  {
+    "id": "৭৭",
+    "arabic": "المرسلات",
+    "transliteration": "আল-মুরসালাত",
+    "slug": "77-al-mursalat",
+    "translation": "প্রেরিত পুরুষ",
+    "total_verses": "৫০"
+  },
+  {
+    "id": "৭৮",
+    "arabic": "النبإ",
+    "transliteration": "আন-নাবা",
+    "slug": "78-an-naba",
+    "translation": "মহাসংবাদ",
+    "total_verses": "৪০"
+  },
+  {
+    "id": "৭৯",
+    "arabic": "النازعات",
+    "transliteration": "আন-নাজিয়াত",
+    "slug": "79-an-naziat",
+    "translation": "প্রচেষ্টাকারী",
+    "total_verses": "৪৬"
+  },
+  {
+    "id": "৮০",
+    "arabic": "عبس",
+    "transliteration": "আবাসা",
+    "slug": "80-abasa",
+    "translation": "সে ভ্রু কুঁচকালো",
+    "total_verses": "৪২"
+  },
+  {
+    "id": "৮১",
+    "arabic": "التكوير",
+    "transliteration": "আত-তাকউয়ীর",
+    "slug": "81-at-takwir",
+    "translation": "অন্ধকারাচ্ছন্ন",
+    "total_verses": "২৯"
+  },
+  {
+    "id": "৮২",
+    "arabic": "الإنفطار",
+    "transliteration": "আল-ইনফিতার",
+    "slug": "82-al-infitar",
+    "translation": "বিদীর্ণ করা",
+    "total_verses": "১৯"
+  },
+  {
+    "id": "৮৩",
+    "arabic": "المطففين",
+    "transliteration": "আল-মুতাফফিফীন",
+    "slug": "83-al-mutaffifin",
+    "translation": "প্রতারণা করা",
+    "total_verses": "৩৬"
+  },
+  {
+    "id": "৮৪",
+    "arabic": "الإنشقاق",
+    "transliteration": "আল-ইনশিকাক",
+    "slug": "84-al-inshiqaq",
+    "translation": "খণ্ড-বিখণ্ডকরণ",
+    "total_verses": "২৫"
+  },
+  {
+    "id": "৮৫",
+    "arabic": "البروج",
+    "transliteration": "আল-বুরুজ",
+    "slug": "85-al-buruj",
+    "translation": "নক্ষত্রপুঞ্জ",
+    "total_verses": "২২"
+  },
+  {
+    "id": "৮৬",
+    "arabic": "الطارق",
+    "transliteration": "আত-তারিক",
+    "slug": "86-at-tariq",
+    "translation": "রাতের আগন্তুক",
+    "total_verses": "১৭"
+  },
+  {
+    "id": "৮৭",
+    "arabic": "الأعلى",
+    "transliteration": "আল-আলা",
+    "slug": "87-al-a-la",
+    "translation": "সর্বোন্নত",
+    "total_verses": "১৯"
+  },
+  {
+    "id": "৮৮",
+    "arabic": "الغاشية",
+    "transliteration": "আল-গাশিয়াহ",
+    "slug": "88-al-ghashiyah",
+    "translation": "বিহ্বলকর ঘটনা",
+    "total_verses": "২৬"
+  },
+  {
+    "id": "৮৯",
+    "arabic": "الفجر",
+    "transliteration": "আল-ফাজর",
+    "slug": "89-al-fajr",
+    "translation": "ভোরবেলা",
+    "total_verses": "৩০"
+  },
+  {
+    "id": "৯০",
+    "arabic": "البلد",
+    "transliteration": "আল-বালাদ",
+    "slug": "90-al-balad",
+    "translation": "নগর",
+    "total_verses": "২০"
+  },
+  {
+    "id": "৯১",
+    "arabic": "الشمس",
+    "transliteration": "আশ-শামস",
+    "slug": "91-ash-shams",
+    "translation": "সূর্য",
+    "total_verses": "১৫"
+  },
+  {
+    "id": "৯২",
+    "arabic": "الليل",
+    "transliteration": "আল-লাইল",
+    "slug": "92-al-lail",
+    "translation": "রাত",
+    "total_verses": "২১"
+  },
+  {
+    "id": "৯৩",
+    "arabic": "الضحى",
+    "transliteration": "আদ-দুহা",
+    "slug": "93-ad-duha",
+    "translation": "পূর্বাহ্নের সুর্যকিরণ",
+    "total_verses": "১১"
+  },
+  {
+    "id": "৯৪",
+    "arabic": "الشرح",
+    "transliteration": "আশ-শারহ",
+    "slug": "94-ash-sharh",
+    "translation": "বক্ষ প্রশস্তকরণ",
+    "total_verses": "৮"
+  },
+  {
+    "id": "৯৫",
+    "arabic": "التين",
+    "transliteration": "আত-তিন",
+    "slug": "95-at-tin",
+    "translation": "ডুমুর",
+    "total_verses": "৮"
+  },
+  {
+    "id": "৯৬",
+    "arabic": "العلق",
+    "transliteration": "আল-আলাক",
+    "slug": "96-al-alaq",
+    "translation": "রক্তপিণ্ড",
+    "total_verses": "১৯"
+  },
+  {
+    "id": "৯৭",
+    "arabic": "القدر",
+    "transliteration": "আল-কাদর",
+    "slug": "97-al-qadr",
+    "translation": "মহিমান্বিত",
+    "total_verses": "৫"
+  },
+  {
+    "id": "৯৮",
+    "arabic": "البينة",
+    "transliteration": "আল-বাযিনা",
+    "slug": "98-al-bayyinah",
+    "translation": "প্রমাণ",
+    "total_verses": "৮"
+  },
+  {
+    "id": "৯৯",
+    "arabic": "الزلزلة",
+    "transliteration": "আজ-জলজালা",
+    "slug": "99-az-zalzalah",
+    "translation": "ভূমিকম্প",
+    "total_verses": "৮"
+  },
+  {
+    "id": "১০০",
+    "arabic": "العاديات",
+    "transliteration": "আল-আদিয়াত",
+    "slug": "100-al-adiyat",
+    "translation": "অভিযানকারী",
+    "total_verses": "১১"
+  },
+  {
+    "id": "১০১",
+    "arabic": "القارعة",
+    "transliteration": "আল-কারিয়া",
+    "slug": "101-al-qariah",
+    "translation": "মহাসংকট",
+    "total_verses": "১১"
+  },
+  {
+    "id": "১০২",
+    "arabic": "التكاثر",
+    "transliteration": "আত-তাকাথুর",
+    "slug": "102-at-takathur",
+    "translation": "প্রাচুর্যের প্রতিযোগিতা",
+    "total_verses": "৮"
+  },
+  {
+    "id": "১০৩",
+    "arabic": "العصر",
+    "transliteration": "আল-আসর",
+    "slug": "103-al-asr",
+    "translation": "সময়",
+    "total_verses": "৩"
+  },
+  {
+    "id": "১০৪",
+    "arabic": "الهمزة",
+    "transliteration": "আল-হুমাজাহ",
+    "slug": "104-al-humazah",
+    "translation": "পরনিন্দাকারী",
+    "total_verses": "৯"
+  },
+  {
+    "id": "১০৫",
+    "arabic": "الفيل",
+    "transliteration": "আল-ফীল",
+    "slug": "105-al-fil",
+    "translation": "হাতি",
+    "total_verses": "৫"
+  },
+  {
+    "id": "১০৬",
+    "arabic": "قريش",
+    "transliteration": "কুরাইশ",
+    "slug": "106-quraysh",
+    "translation": "কুরাইশ গোত্র",
+    "total_verses": "৪"
+  },
+  {
+    "id": "১০৭",
+    "arabic": "الماعون",
+    "transliteration": "আল-মা'উন",
+    "slug": "107-al-ma-un",
+    "translation": "সাহায্য সহায়তা",
+    "total_verses": "৭"
+  },
+  {
+    "id": "১০৮",
+    "arabic": "الكوثر",
+    "transliteration": "আল-কাউসার",
+    "slug": "108-al-kawthar",
+    "translation": "কাউসার/প্রাচুর্য",
+    "total_verses": "৩"
+  },
+  {
+    "id": "১০৯",
+    "arabic": "الكافرون",
+    "transliteration": "আল-কাফিরুন",
+    "slug": "109-al-kafirun",
+    "translation": "অবিশ্বাসী",
+    "total_verses": "৬"
+  },
+  {
+    "id": "১১০",
+    "arabic": "النصر",
+    "transliteration": "আন-নাসর",
+    "slug": "110-an-nasr",
+    "translation": "সাহায্য",
+    "total_verses": "৩"
+  },
+  {
+    "id": "১১১",
+    "arabic": "المسد",
+    "transliteration": "আল-মাসাদ",
+    "slug": "111-al-masad",
+    "translation": "খেজুরের পাকানো (রশি)",
+    "total_verses": "৫"
+  },
+  {
+    "id": "১১২",
+    "arabic": "الإخلاص",
+    "transliteration": "আল-ইখলাস",
+    "slug": "112-al-ikhlas",
+    "translation": "আন্তরিকতা",
+    "total_verses": "৪"
+  },
+  {
+    "id": "১১৩",
+    "arabic": "الفلق",
+    "transliteration": "আল-ফালাক",
+    "slug": "113-al-falaq",
+    "translation": "নিশিভোর",
+    "total_verses": "৫"
+  },
+  {
+    "id": "১১৪",
+    "arabic": "الناس",
+    "transliteration": "আন-নাস",
+    "slug": "114-an-nas",
+    "translation": "মানুষ জাতি",
+    "total_verses": "৬"
+  }
+]

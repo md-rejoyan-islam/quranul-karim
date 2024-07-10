@@ -2,15 +2,17 @@ import { NextResponse } from "next/server";
 import { match } from "@formatjs/intl-localematcher";
 import Negotiator from "negotiator";
 
-let locales = ["bn", "en", "ar"];
+// bangla (bn), english (en), urdu (ur), russian (ru), chinese (zh), french (fr)
+
+const locales = ["bn", "en", "ur", "ru", "zh", "fr"];
 let defaultLocale = "en";
 
 function getLocale(request) {
   const acceptLanguage = request.headers.get("accept-Language") ?? undefined;
 
-  let headers = { "accept-language": acceptLanguage };
+  const headers = { "accept-language": acceptLanguage };
 
-  let lenguages = new Negotiator({ headers }).languages();
+  const lenguages = new Negotiator({ headers }).languages();
 
   return match(lenguages, locales, defaultLocale);
 }

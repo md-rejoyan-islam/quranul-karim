@@ -11,14 +11,17 @@ import { HiCheck } from "react-icons/hi";
 
 import clsx from "clsx";
 import { useState } from "react";
+import { useRouter } from "next/navigation";
 
 export default function LanguageSwitch() {
+  const router = useRouter();
+
   const languages = [
-    { id: 1, name: "English" },
-    { id: 2, name: "Bengali" },
-    { id: 3, name: "Chinese" },
-    { id: 4, name: "Urdu" },
-    { id: 5, name: "Russian" },
+    { id: 1, name: "English", code: "en" },
+    { id: 2, name: "Bengali", code: "bn" },
+    { id: 3, name: "Chinese", code: "zh" },
+    { id: 4, name: "Urdu", code: "ur" },
+    { id: 5, name: "Russian", code: "ru" },
   ];
 
   const [query, setQuery] = useState("");
@@ -35,7 +38,10 @@ export default function LanguageSwitch() {
     <div className="mx-auto  w-32">
       <Combobox
         value={selected}
-        onChange={(value) => setSelected(value)}
+        onChange={(value) => {
+          setSelected(value);
+          router.push(`/${value.code}`);
+        }}
         onClose={() => setQuery("")}
         // __demoMode
       >

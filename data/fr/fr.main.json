@@ -1,0 +1,914 @@
+[
+  {
+    "id": "un",
+    "transliteration": "Al-Fatihah",
+    "slug": "1-al-fatihah",
+    "translation": "L'ouverture",
+    "total_verses": "sept",
+    "arabic": "الفاتحة"
+  },
+  {
+    "id": "deux",
+    "transliteration": "Al-Baqarah",
+    "slug": "2-al-baqarah",
+    "translation": "La vache",
+    "total_verses": "deux cent quatre-vingt-six",
+    "arabic": "البقرة"
+  },
+  {
+    "id": "trois",
+    "transliteration": "Ali 'Imran",
+    "slug": "3-ali-imran",
+    "translation": "La famille de 'imran",
+    "total_verses": "deux cents",
+    "arabic": "آل عمران"
+  },
+  {
+    "id": "quatre",
+    "transliteration": "An-Nisa",
+    "slug": "4-an-nisa",
+    "translation": "Les femmes",
+    "total_verses": "cent soixante-seize",
+    "arabic": "النساء"
+  },
+  {
+    "id": "cinq",
+    "transliteration": "Al-Maidah",
+    "slug": "5-al-maidah",
+    "translation": "La table servie",
+    "total_verses": "cent vingt",
+    "arabic": "المائدة"
+  },
+  {
+    "id": "six",
+    "transliteration": "Al-Anam",
+    "slug": "6-al-anam",
+    "translation": "Les bestiaux",
+    "total_verses": "cent soixante-cinq",
+    "arabic": "الأنعام"
+  },
+  {
+    "id": "sept",
+    "transliteration": "Al-A'raf",
+    "slug": "7-al-araf",
+    "translation": "Al-A'raf",
+    "total_verses": "deux cent six",
+    "arabic": "الأعراف"
+  },
+  {
+    "id": "huit",
+    "transliteration": "Al-Anfal",
+    "slug": "8-al-anfal",
+    "translation": "Le butin",
+    "total_verses": "soixante-quinze",
+    "arabic": "الأنفال"
+  },
+  {
+    "id": "neuf",
+    "transliteration": "At-Tawbah",
+    "slug": "9-at-tawbah",
+    "translation": "Le repentir",
+    "total_verses": "cent vingt-neuf",
+    "arabic": "التوبة"
+  },
+  {
+    "id": "dix",
+    "transliteration": "Jonas",
+    "slug": "10-yunus",
+    "translation": "Jonas",
+    "total_verses": "cent neuf",
+    "arabic": "يونس"
+  },
+  {
+    "id": "onze",
+    "transliteration": "Houd",
+    "slug": "11-hud",
+    "translation": "Houd",
+    "total_verses": "cent vingt-trois",
+    "arabic": "هود"
+  },
+  {
+    "id": "douze",
+    "transliteration": "Joseph",
+    "slug": "12-yusuf",
+    "translation": "Joseph",
+    "total_verses": "cent onze",
+    "arabic": "يوسف"
+  },
+  {
+    "id": "treize",
+    "transliteration": "Ar-Raad",
+    "slug": "13-ar-raad",
+    "translation": "Le tonnerre",
+    "total_verses": "quarante-trois",
+    "arabic": "الرعد"
+  },
+  {
+    "id": "quatorze",
+    "transliteration": "Abraham",
+    "slug": "14-ibrahim",
+    "translation": "Abraham",
+    "total_verses": "cinquante-deux",
+    "arabic": "ابراهيم"
+  },
+  {
+    "id": "quinze",
+    "transliteration": "Al-Hijr",
+    "slug": "15-al-hijr",
+    "translation": "Al-Hijr",
+    "total_verses": "quatre-vingt-dix-neuf",
+    "arabic": "الحجر"
+  },
+  {
+    "id": "seize",
+    "transliteration": "An-Nahl",
+    "slug": "16-an-nahl",
+    "translation": "Les abeilles",
+    "total_verses": "cent vingt-huit",
+    "arabic": "النحل"
+  },
+  {
+    "id": "dix-sept",
+    "transliteration": "Al-Isra",
+    "slug": "17-al-isra",
+    "translation": "Le voyage nocturne",
+    "total_verses": "cent onze",
+    "arabic": "الإسراء"
+  },
+  {
+    "id": "dix-huit",
+    "transliteration": "Al-Kahf",
+    "slug": "18-al-kahf",
+    "translation": "La caverne",
+    "total_verses": "cent dix",
+    "arabic": "الكهف"
+  },
+  {
+    "id": "dix-neuf",
+    "transliteration": "Marie",
+    "slug": "19-maryam",
+    "translation": "Marie",
+    "total_verses": "quatre-vingt-dix-huit",
+    "arabic": "مريم"
+  },
+  {
+    "id": "vingt",
+    "transliteration": "Ta-Ha",
+    "slug": "20-ta-ha",
+    "translation": "Ta-Ha",
+    "total_verses": "cent trente-cinq",
+    "arabic": "طه"
+  },
+  {
+    "id": "vingt et un",
+    "transliteration": "Al-Anbiya",
+    "slug": "21-al-anbiya",
+    "translation": "Les prophètes",
+    "total_verses": "cent douze",
+    "arabic": "الأنبياء"
+  },
+  {
+    "id": "vingt-deux",
+    "transliteration": "Al-Hajj",
+    "slug": "22-al-hajj",
+    "translation": "Le pèlerinage",
+    "total_verses": "soixante-dix-huit",
+    "arabic": "الحج"
+  },
+  {
+    "id": "vingt-trois",
+    "transliteration": "Al-Muminun",
+    "slug": "23-al-muminun",
+    "translation": "Les croyants",
+    "total_verses": "cent dix-huit",
+    "arabic": "المؤمنون"
+  },
+  {
+    "id": "vingt-quatre",
+    "transliteration": "An-Nur",
+    "slug": "24-an-nur",
+    "translation": "La lumière",
+    "total_verses": "soixante-quatre",
+    "arabic": "النور"
+  },
+  {
+    "id": "vingt-cinq",
+    "transliteration": "Al-Furqan",
+    "slug": "25-al-furqan",
+    "translation": "Le discernement",
+    "total_verses": "soixante-dix-sept",
+    "arabic": "الفرقان"
+  },
+  {
+    "id": "vingt-six",
+    "transliteration": "Ash-Shu'ara",
+    "slug": "26-ash-shuara",
+    "translation": "Les poètes",
+    "total_verses": "deux cent vingt-sept",
+    "arabic": "الشعراء"
+  },
+  {
+    "id": "vingt-sept",
+    "transliteration": "An-Naml",
+    "slug": "27-an-naml",
+    "translation": "Les fourmis",
+    "total_verses": "quatre-vingt-treize",
+    "arabic": "النمل"
+  },
+  {
+    "id": "vingt-huit",
+    "transliteration": "Al-Qasas",
+    "slug": "28-al-qasas",
+    "translation": "Le récit",
+    "total_verses": "quatre-vingt-huit",
+    "arabic": "القصص"
+  },
+  {
+    "id": "vingt-neuf",
+    "transliteration": "Al-Ankabut",
+    "slug": "29-al-ankabut",
+    "translation": "L'araignée",
+    "total_verses": "soixante-neuf",
+    "arabic": "العنكبوت"
+  },
+  {
+    "id": "trente",
+    "transliteration": "Ar-Rum",
+    "slug": "30-ar-rum",
+    "translation": "Les romains",
+    "total_verses": "soixante",
+    "arabic": "الروم"
+  },
+  {
+    "id": "trente et un",
+    "transliteration": "Louqman",
+    "slug": "31-luqman",
+    "translation": "Louqman",
+    "total_verses": "trente-quatre",
+    "arabic": "لقمان"
+  },
+  {
+    "id": "trente-deux",
+    "transliteration": "As-Sajdah",
+    "slug": "32-as-sajdah",
+    "translation": "La prosternation",
+    "total_verses": "trente",
+    "arabic": "السجدة"
+  },
+  {
+    "id": "trente-trois",
+    "transliteration": "Al-Ahzab",
+    "slug": "33-al-ahzab",
+    "translation": "Les coalisés",
+    "total_verses": "soixante-treize",
+    "arabic": "الأحزاب"
+  },
+  {
+    "id": "trente-quatre",
+    "transliteration": "Saba",
+    "slug": "34-saba",
+    "translation": "Saba'",
+    "total_verses": "cinquante-quatre",
+    "arabic": "سبإ"
+  },
+  {
+    "id": "trente-cinq",
+    "transliteration": "Fatir",
+    "slug": "35-fatir",
+    "translation": "Le Créateur",
+    "total_verses": "quarante-cinq",
+    "arabic": "فاطر"
+  },
+  {
+    "id": "trente-six",
+    "transliteration": "Ya-Sin",
+    "slug": "36-ya-sin",
+    "translation": "Ya-Sin",
+    "total_verses": "quatre-vingt-trois",
+    "arabic": "يس"
+  },
+  {
+    "id": "trente-sept",
+    "transliteration": "As-Saffat",
+    "slug": "37-as-saffat",
+    "translation": "Les rangés",
+    "total_verses": "cent quatre-vingt-deux",
+    "arabic": "الصافات"
+  },
+  {
+    "id": "trente-huit",
+    "transliteration": "Sad",
+    "slug": "38-sad",
+    "translation": "Sad",
+    "total_verses": "quatre-vingt-huit",
+    "arabic": "ص"
+  },
+  {
+    "id": "trente-neuf",
+    "transliteration": "Az-Zumar",
+    "slug": "39-az-zumar",
+    "translation": "Les groupes",
+    "total_verses": "soixante-quinze",
+    "arabic": "الزمر"
+  },
+  {
+    "id": "quarante",
+    "transliteration": "Ghafir",
+    "slug": "40-ghafir",
+    "translation": "Le Pardonneur",
+    "total_verses": "quatre-vingt-cinq",
+    "arabic": "غافر"
+  },
+  {
+    "id": "quarante et un",
+    "transliteration": "Fussilat",
+    "slug": "41-fussilat",
+    "translation": "Les versets explicites",
+    "total_verses": "cinquante-quatre",
+    "arabic": "فصلت"
+  },
+  {
+    "id": "quarante-deux",
+    "transliteration": "Ash-Shura",
+    "slug": "42-ash-shura",
+    "translation": "La concertation",
+    "total_verses": "cinquante-trois",
+    "arabic": "الشورى"
+  },
+  {
+    "id": "quarante-trois",
+    "transliteration": "Az-Zukhruf",
+    "slug": "43-az-zukhruf",
+    "translation": "L'ornement",
+    "total_verses": "quatre-vingt-neuf",
+    "arabic": "الزخرف"
+  },
+  {
+    "id": "quarante-quatre",
+    "transliteration": "Ad-Dukhan",
+    "slug": "44-ad-dukhan",
+    "translation": "La fumée",
+    "total_verses": "cinquante-neuf",
+    "arabic": "الدخان"
+  },
+  {
+    "id": "quarante-cinq",
+    "transliteration": "Al-Jathiyah",
+    "slug": "45-al-jathiyah",
+    "translation": "L'agenouillée",
+    "total_verses": "trente-sept",
+    "arabic": "الجاثية"
+  },
+  {
+    "id": "quarante-six",
+    "transliteration": "Al-Ahqaf",
+    "slug": "46-al-ahqaf",
+    "translation": "Al-Ahqaf",
+    "total_verses": "trente-cinq",
+    "arabic": "الأحقاف"
+  },
+  {
+    "id": "quarante-sept",
+    "transliteration": "Mouhammad",
+    "slug": "47-muhammad",
+    "translation": "Mouhammad",
+    "total_verses": "trente-huit",
+    "arabic": "محمد"
+  },
+  {
+    "id": "quarante-huit",
+    "transliteration": "Al-Fath",
+    "slug": "48-al-fath",
+    "translation": "La victoire éclatante",
+    "total_verses": "vingt-neuf",
+    "arabic": "الفتح"
+  },
+  {
+    "id": "quarante-neuf",
+    "transliteration": "Al-Hujurat",
+    "slug": "49-al-hujurat",
+    "translation": "Les appartements",
+    "total_verses": "dix-huit",
+    "arabic": "الحجرات"
+  },
+  {
+    "id": "cinquante",
+    "transliteration": "Qaf",
+    "slug": "50-qaf",
+    "translation": "Qaf",
+    "total_verses": "quarante-cinq",
+    "arabic": "ق"
+  },
+  {
+    "id": "cinquante et un",
+    "transliteration": "Adh-Dhariyat",
+    "slug": "51-adh-dhariyat",
+    "translation": "Qui éparpillent",
+    "total_verses": "soixante",
+    "arabic": "الذاريات"
+  },
+  {
+    "id": "cinquante-deux",
+    "transliteration": "At-Tur",
+    "slug": "52-at-tur",
+    "translation": "Le mont At-Tour",
+    "total_verses": "quarante-neuf",
+    "arabic": "الطور"
+  },
+  {
+    "id": "cinquante-trois",
+    "transliteration": "An-Najm",
+    "slug": "53-an-najm",
+    "translation": "L'étoile",
+    "total_verses": "soixante-deux",
+    "arabic": "النجم"
+  },
+  {
+    "id": "cinquante-quatre",
+    "transliteration": "Al-Qamar",
+    "slug": "54-al-qamar",
+    "translation": "La lune",
+    "total_verses": "cinquante-cinq",
+    "arabic": "القمر"
+  },
+  {
+    "id": "cinquante-cinq",
+    "transliteration": "Ar-Rahman",
+    "slug": "55-ar-rahman",
+    "translation": "Le Tout Miséricordieux",
+    "total_verses": "soixante-dix-huit",
+    "arabic": "الرحمن"
+  },
+  {
+    "id": "cinquante-six",
+    "transliteration": "Al-Waqi'ah",
+    "slug": "56-al-waqi-ah",
+    "translation": "L'inévitable",
+    "total_verses": "quatre-vingt-seize",
+    "arabic": "الواقعة"
+  },
+  {
+    "id": "cinquante-sept",
+    "transliteration": "Al-Hadid",
+    "slug": "57-al-hadid",
+    "translation": "Le fer",
+    "total_verses": "vingt-neuf",
+    "arabic": "الحديد"
+  },
+  {
+    "id": "cinquante-huit",
+    "transliteration": "Al-Mujadila",
+    "slug": "58-al-mujadila",
+    "translation": "La discussion",
+    "total_verses": "vingt-deux",
+    "arabic": "المجادلة"
+  },
+  {
+    "id": "cinquante-neuf",
+    "transliteration": "Al-Hashr",
+    "slug": "59-al-hashr",
+    "translation": "L'exode",
+    "total_verses": "vingt-quatre",
+    "arabic": "الحشر"
+  },
+  {
+    "id": "soixante",
+    "transliteration": "Al-Mumtahanah",
+    "slug": "60-al-mumtahanah",
+    "translation": "L'éprouvée",
+    "total_verses": "treize",
+    "arabic": "الممتحنة"
+  },
+  {
+    "id": "soixante et un",
+    "transliteration": "As-Saff",
+    "slug": "61-as-saff",
+    "translation": "Le rang",
+    "total_verses": "quatorze",
+    "arabic": "الصف"
+  },
+  {
+    "id": "soixante-deux",
+    "transliteration": "Al-Jumu'ah",
+    "slug": "62-al-jumu-ah",
+    "translation": "Le vendredi",
+    "total_verses": "onze",
+    "arabic": "الجمعة"
+  },
+  {
+    "id": "soixante-trois",
+    "transliteration": "Al-Munafiqun",
+    "slug": "63-al-munafiqun",
+    "translation": "Les hypocrites",
+    "total_verses": "onze",
+    "arabic": "المنافقون"
+  },
+  {
+    "id": "soixante-quatre",
+    "transliteration": "At-Taghabun",
+    "slug": "64-at-taghabun",
+    "translation": "La grande perte",
+    "total_verses": "dix-huit",
+    "arabic": "التغابن"
+  },
+  {
+    "id": "soixante-cinq",
+    "transliteration": "At-Talaq",
+    "slug": "65-at-talaq",
+    "translation": "Le divorce",
+    "total_verses": "douze",
+    "arabic": "الطلاق"
+  },
+  {
+    "id": "soixante-six",
+    "transliteration": "At-Tahrim",
+    "slug": "66-at-tahrim",
+    "translation": "L'interdiction",
+    "total_verses": "douze",
+    "arabic": "التحريم"
+  },
+  {
+    "id": "soixante-sept",
+    "transliteration": "Al-Mulk",
+    "slug": "67-al-mulk",
+    "translation": "La royauté",
+    "total_verses": "trente",
+    "arabic": "الملك"
+  },
+  {
+    "id": "soixante-huit",
+    "transliteration": "Al-Qalam",
+    "slug": "68-al-qalam",
+    "translation": "La plume",
+    "total_verses": "cinquante-deux",
+    "arabic": "القلم"
+  },
+  {
+    "id": "soixante-neuf",
+    "transliteration": "Al-Haqqah",
+    "slug": "69-al-haqqah",
+    "translation": "L'inéluctable",
+    "total_verses": "cinquante-deux",
+    "arabic": "الحاقة"
+  },
+  {
+    "id": "soixante-dix",
+    "transliteration": "Al-Ma'arij",
+    "slug": "70-al-ma-arij",
+    "translation": "Les voies d'ascension",
+    "total_verses": "quarante-quatre",
+    "arabic": "المعارج"
+  },
+  {
+    "id": "soixante et onze",
+    "transliteration": "Noé",
+    "slug": "71-nuh",
+    "translation": "Noé",
+    "total_verses": "vingt-huit",
+    "arabic": "نوح"
+  },
+  {
+    "id": "soixante-douze",
+    "transliteration": "Les djinns",
+    "slug": "72-al-jinn",
+    "translation": "Les djinns",
+    "total_verses": "vingt-huit",
+    "arabic": "الجن"
+  },
+  {
+    "id": "soixante-treize",
+    "transliteration": "Al-Muzzammil",
+    "slug": "73-al-muzzammil",
+    "translation": "L'enveloppé",
+    "total_verses": "vingt",
+    "arabic": "المزمل"
+  },
+  {
+    "id": "soixante-quatorze",
+    "transliteration": "Al-Muddaththir",
+    "slug": "74-al-muddaththir",
+    "translation": "Celui qui se couvre",
+    "total_verses": "cinquante-six",
+    "arabic": "المدثر"
+  },
+  {
+    "id": "soixante-quinze",
+    "transliteration": "Al-Qiyamah",
+    "slug": "75-al-qiyamah",
+    "translation": "La résurrection",
+    "total_verses": "quarante",
+    "arabic": "القيامة"
+  },
+  {
+    "id": "soixante-seize",
+    "transliteration": "Al-Insan",
+    "slug": "76-al-insan",
+    "translation": "L'homme",
+    "total_verses": "trente et un",
+    "arabic": "الانسان"
+  },
+  {
+    "id": "soixante-dix-sept",
+    "transliteration": "Al-Mursalat",
+    "slug": "77-al-mursalat",
+    "translation": "Les envoyés",
+    "total_verses": "cinquante",
+    "arabic": "المرسلات"
+  },
+  {
+    "id": "soixante-dix-huit",
+    "transliteration": "An-Naba",
+    "slug": "78-an-naba",
+    "translation": "La nouvelle",
+    "total_verses": "quarante",
+    "arabic": "النبإ"
+  },
+  {
+    "id": "soixante-dix-neuf",
+    "transliteration": "An-Naziat",
+    "slug": "79-an-naziat",
+    "translation": "Ceux qui arrachent",
+    "total_verses": "quarante-six",
+    "arabic": "النازعات"
+  },
+  {
+    "id": "quatre-vingts",
+    "transliteration": "Abasa",
+    "slug": "80-abasa",
+    "translation": "Il s'est renfrogné",
+    "total_verses": "quarante-deux",
+    "arabic": "عبس"
+  },
+  {
+    "id": "quatre-vingt-un",
+    "transliteration": "At-Takwir",
+    "slug": "81-at-takwir",
+    "translation": "L'obscurcissement",
+    "total_verses": "vingt-neuf",
+    "arabic": "التكوير"
+  },
+  {
+    "id": "quatre-vingt-deux",
+    "transliteration": "Al-Infitar",
+    "slug": "82-al-infitar",
+    "translation": "La rupture",
+    "total_verses": "dix-neuf",
+    "arabic": "الإنفطار"
+  },
+  {
+    "id": "quatre-vingt-trois",
+    "transliteration": "Al-Mutaffifin",
+    "slug": "83-al-mutaffifin",
+    "translation": "Les fraudeurs",
+    "total_verses": "trente-six",
+    "arabic": "المطففين"
+  },
+  {
+    "id": "quatre-vingt-quatre",
+    "transliteration": "Al-Inshiqaq",
+    "slug": "84-al-inshiqaq",
+    "translation": "La déchirure",
+    "total_verses": "vingt-cinq",
+    "arabic": "الإنشقاق"
+  },
+  {
+    "id": "quatre-vingt-cinq",
+    "transliteration": "Al-Buruj",
+    "slug": "85-al-buruj",
+    "translation": "Les constellations",
+    "total_verses": "vingt-deux",
+    "arabic": "البروج"
+  },
+  {
+    "id": "quatre-vingt-six",
+    "transliteration": "At-Tariq",
+    "slug": "86-at-tariq",
+    "translation": "L'astre nocturne",
+    "total_verses": "dix-sept",
+    "arabic": "الطارق"
+  },
+  {
+    "id": "quatre-vingt-sept",
+    "transliteration": "Al-A'la",
+    "slug": "87-al-a-la",
+    "translation": "Le Très-Haut",
+    "total_verses": "dix-neuf",
+    "arabic": "الأعلى"
+  },
+  {
+    "id": "quatre-vingt-huit",
+    "transliteration": "Al-Ghashiyah",
+    "slug": "88-al-ghashiyah",
+    "translation": "L'enveloppante",
+    "total_verses": "vingt-six",
+    "arabic": "الغاشية"
+  },
+  {
+    "id": "quatre-vingt-neuf",
+    "transliteration": "Al-Fajr",
+    "slug": "89-al-fajr",
+    "translation": "L'aube",
+    "total_verses": "trente",
+    "arabic": "الفجر"
+  },
+  {
+    "id": "quatre-vingt-dix",
+    "transliteration": "Al-Balad",
+    "slug": "90-al-balad",
+    "translation": "La cité",
+    "total_verses": "vingt",
+    "arabic": "البلد"
+  },
+  {
+    "id": "quatre-vingt-onze",
+    "transliteration": "Ash-Shams",
+    "slug": "91-ash-shams",
+    "translation": "Le soleil",
+    "total_verses": "quinze",
+    "arabic": "الشمس"
+  },
+  {
+    "id": "quatre-vingt-douze",
+    "transliteration": "Al-Lail",
+    "slug": "92-al-lail",
+    "translation": "La nuit",
+    "total_verses": "vingt et un",
+    "arabic": "الليل"
+  },
+  {
+    "id": "quatre-vingt-treize",
+    "transliteration": "Ad-Duha",
+    "slug": "93-ad-duha",
+    "translation": "Le jour montant",
+    "total_verses": "onze",
+    "arabic": "الضحى"
+  },
+  {
+    "id": "quatre-vingt-quatorze",
+    "transliteration": "Ash-Sharh",
+    "slug": "94-ash-sharh",
+    "translation": "L'ouverture",
+    "total_verses": "huit",
+    "arabic": "الشرح"
+  },
+  {
+    "id": "quatre-vingt-quinze",
+    "transliteration": "At-Tin",
+    "slug": "95-at-tin",
+    "translation": "Les figues",
+    "total_verses": "huit",
+    "arabic": "التين"
+  },
+  {
+    "id": "quatre-vingt-seize",
+    "transliteration": "Al-Alaq",
+    "slug": "96-al-alaq",
+    "translation": "L'adhérence",
+    "total_verses": "dix-neuf",
+    "arabic": "العلق"
+  },
+  {
+    "id": "quatre-vingt-dix-sept",
+    "transliteration": "Al-Qadr",
+    "slug": "97-al-qadr",
+    "translation": "La destinée",
+    "total_verses": "cinq",
+    "arabic": "القدر"
+  },
+  {
+    "id": "quatre-vingt-dix-huit",
+    "transliteration": "Al-Bayyinah",
+    "slug": "98-al-bayyinah",
+    "translation": "La preuve",
+    "total_verses": "huit",
+    "arabic": "البينة"
+  },
+  {
+    "id": "quatre-vingt-dix-neuf",
+    "transliteration": "Az-Zalzalah",
+    "slug": "99-az-zalzalah",
+    "translation": "Le séisme",
+    "total_verses": "huit",
+    "arabic": "الزلزلة"
+  },
+  {
+    "id": "cent",
+    "transliteration": "Al-Adiyat",
+    "slug": "100-al-adiyat",
+    "translation": "Les coursiers",
+    "total_verses": "onze",
+    "arabic": "العاديات"
+  },
+  {
+    "id": "cent un",
+    "transliteration": "Al-Qariah",
+    "slug": "101-al-qariah",
+    "translation": "Le fracas",
+    "total_verses": "onze",
+    "arabic": "القارعة"
+  },
+  {
+    "id": "cent deux",
+    "transliteration": "At-Takathur",
+    "slug": "102-at-takathur",
+    "translation": "La course aux richesses",
+    "total_verses": "huit",
+    "arabic": "التكاثر"
+  },
+  {
+    "id": "cent trois",
+    "transliteration": "Al-Asr",
+    "slug": "103-al-asr",
+    "translation": "Le temps",
+    "total_verses": "trois",
+    "arabic": "العصر"
+  },
+  {
+    "id": "cent quatre",
+    "transliteration": "Al-Humazah",
+    "slug": "104-al-humazah",
+    "translation": "Les calomniateurs",
+    "total_verses": "neuf",
+    "arabic": "الهمزة"
+  },
+  {
+    "id": "cent cinq",
+    "transliteration": "Al-Fil",
+    "slug": "105-al-fil",
+    "translation": "L'éléphant",
+    "total_verses": "cinq",
+    "arabic": "الفيل"
+  },
+  {
+    "id": "cent six",
+    "transliteration": "Quraysh",
+    "slug": "106-quraysh",
+    "translation": "Les Quraysh",
+    "total_verses": "quatre",
+    "arabic": "قريش"
+  },
+  {
+    "id": "cent sept",
+    "transliteration": "Al-Ma'un",
+    "slug": "107-al-ma-un",
+    "translation": "L'entraide",
+    "total_verses": "sept",
+    "arabic": "الماعون"
+  },
+  {
+    "id": "cent huit",
+    "transliteration": "Al-Kawthar",
+    "slug": "108-al-kawthar",
+    "translation": "L'abondance",
+    "total_verses": "trois",
+    "arabic": "الكوثر"
+  },
+  {
+    "id": "cent neuf",
+    "transliteration": "Al-Kafirun",
+    "slug": "109-al-kafirun",
+    "translation": "Les mécréants",
+    "total_verses": "six",
+    "arabic": "الكافرون"
+  },
+  {
+    "id": "cent dix",
+    "transliteration": "An-Nasr",
+    "slug": "110-an-nasr",
+    "translation": "Le secours",
+    "total_verses": "trois",
+    "arabic": "النصر"
+  },
+  {
+    "id": "cent onze",
+    "transliteration": "Al-Masad",
+    "slug": "111-al-masad",
+    "translation": "Les fibres",
+    "total_verses": "cinq",
+    "arabic": "المسد"
+  },
+  {
+    "id": "cent douze",
+    "transliteration": "Al-Ikhlas",
+    "slug": "112-al-ikhlas",
+    "translation": "La sincérité",
+    "total_verses": "quatre",
+    "arabic": "الإخلاص"
+  },
+  {
+    "id": "cent treize",
+    "transliteration": "Al-Falaq",
+    "slug": "113-al-falaq",
+    "translation": "L'aube naissante",
+    "total_verses": "cinq",
+    "arabic": "الفلق"
+  },
+  {
+    "id": "cent quatorze",
+    "transliteration": "An-Nas",
+    "slug": "114-an-nas",
+    "translation": "Les humains",
+    "total_verses": "six",
+    "arabic": "الناس"
+  }
+]

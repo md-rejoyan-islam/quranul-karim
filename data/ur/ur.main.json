@@ -1,0 +1,914 @@
+[
+  {
+    "id": "ایک",
+    "transliteration": "الفاتحہ",
+    "slug": "1-al-fatihah",
+    "translation": "کھولنے والی",
+    "total_verses": "سات",
+    "arabic": "الفاتحة"
+  },
+  {
+    "id": "دو",
+    "transliteration": "البقرہ",
+    "slug": "2-al-baqarah",
+    "translation": "گائے",
+    "total_verses": "دو سو چھپپانوہ",
+    "arabic": "البقرة"
+  },
+  {
+    "id": "تین",
+    "transliteration": "آل عمران",
+    "slug": "3-ali-imran",
+    "translation": "عمران کا خاندان",
+    "total_verses": "دو سو",
+    "arabic": "آل عمران"
+  },
+  {
+    "id": "چار",
+    "transliteration": "النساء",
+    "slug": "4-an-nisa",
+    "translation": "عورت",
+    "total_verses": "سو چھپپہ",
+    "arabic": "النساء"
+  },
+  {
+    "id": "پانچ",
+    "transliteration": "المائدہ",
+    "slug": "5-al-maidah",
+    "translation": "دسترخوان",
+    "total_verses": "سو بیس",
+    "arabic": "المائدة"
+  },
+  {
+    "id": "چھ",
+    "transliteration": "الانعام",
+    "slug": "6-al-anam",
+    "translation": "مویشی",
+    "total_verses": "سو پینسٹھ",
+    "arabic": "الأنعام"
+  },
+  {
+    "id": "سات",
+    "transliteration": "الاعراف",
+    "slug": "7-al-araf",
+    "translation": "اونچی جگہ",
+    "total_verses": "دو سو چھہ",
+    "arabic": "الأعراف"
+  },
+  {
+    "id": "آٹھ",
+    "transliteration": "الانفال",
+    "slug": "8-al-anfal",
+    "translation": "مال غنیمت",
+    "total_verses": "پچیس",
+    "arabic": "الأنفال"
+  },
+  {
+    "id": "نو",
+    "transliteration": "التوبہ",
+    "slug": "9-at-tawbah",
+    "translation": "توبہ",
+    "total_verses": "سو انیس",
+    "arabic": "التوبة"
+  },
+  {
+    "id": "دس",
+    "transliteration": "یونس",
+    "slug": "10-yunus",
+    "translation": "یونس",
+    "total_verses": "سو نو",
+    "arabic": "يونس"
+  },
+  {
+    "id": "گیارہ",
+    "transliteration": "حود",
+    "slug": "11-hud",
+    "translation": "حود",
+    "total_verses": "سو تیس",
+    "arabic": "هود"
+  },
+  {
+    "id": "بارہ",
+    "transliteration": "یوسف",
+    "slug": "12-yusuf",
+    "translation": "یوسف",
+    "total_verses": "سو گیارہ",
+    "arabic": "يوسف"
+  },
+  {
+    "id": "تیرہ",
+    "transliteration": "الرعد",
+    "slug": "13-ar-raad",
+    "translation": "گرج",
+    "total_verses": "تینتالیس",
+    "arabic": "الرعد"
+  },
+  {
+    "id": "چودہ",
+    "transliteration": "ابراہیم",
+    "slug": "14-ibrahim",
+    "translation": "ابراہیم",
+    "total_verses": "باون",
+    "arabic": "ابراهيم"
+  },
+  {
+    "id": "پندرہ",
+    "transliteration": "الحجر",
+    "slug": "15-al-hijr",
+    "translation": "پتھر",
+    "total_verses": "ننانوہ",
+    "arabic": "الحجر"
+  },
+  {
+    "id": "سولہ",
+    "transliteration": "النحل",
+    "slug": "16-an-nahl",
+    "translation": "شہد کی مکھی",
+    "total_verses": "سو اٹھارہ",
+    "arabic": "النحل"
+  },
+  {
+    "id": "سترہ",
+    "transliteration": "الاسراء",
+    "slug": "17-al-isra",
+    "translation": "رات کا صفر",
+    "total_verses": "سو گیارہ",
+    "arabic": "الإسراء"
+  },
+  {
+    "id": "اؠٹھارہ",
+    "transliteration": "الکہف",
+    "slug": "18-al-kahf",
+    "translation": "غار",
+    "total_verses": "سو دس",
+    "arabic": "الكهف"
+  },
+  {
+    "id": "انیس",
+    "transliteration": "مریم",
+    "slug": "19-maryam",
+    "translation": "مریم",
+    "total_verses": "اٹھانوہ",
+    "arabic": "مريم"
+  },
+  {
+    "id": "بیس",
+    "transliteration": "طٰہٰ",
+    "slug": "20-ta-ha",
+    "translation": "طٰہٰ",
+    "total_verses": "سو پینتالیس",
+    "arabic": "طه"
+  },
+  {
+    "id": "اکیس",
+    "transliteration": "الانبیاء",
+    "slug": "21-al-anbiya",
+    "translation": "پیغمبر",
+    "total_verses": "سو بارہ",
+    "arabic": "الأنبياء"
+  },
+  {
+    "id": "بائیس",
+    "transliteration": "الحج",
+    "slug": "22-al-hajj",
+    "translation": "حج",
+    "total_verses": "آٹھ",
+    "arabic": "الحج"
+  },
+  {
+    "id": "تیس",
+    "transliteration": "المومنون",
+    "slug": "23-al-muminun",
+    "translation": "مومنین",
+    "total_verses": "سو اٹھارہ",
+    "arabic": "المؤمنون"
+  },
+  {
+    "id": "چوبیس",
+    "transliteration": "النور",
+    "slug": "24-an-nur",
+    "translation": "نور",
+    "total_verses": "چونسٹھ",
+    "arabic": "النور"
+  },
+  {
+    "id": "پچیس",
+    "transliteration": "الفرقان",
+    "slug": "25-al-furqan",
+    "translation": "صحیح اور غلط میں فرق کرنے والی کتاب",
+    "total_verses": "سات",
+    "arabic": "الفرقان"
+  },
+  {
+    "id": "چھببیس",
+    "transliteration": "الشعراء",
+    "slug": "26-ash-shuara",
+    "translation": "شعراٗ",
+    "total_verses": "دو سو سترہ",
+    "arabic": "الشعراء"
+  },
+  {
+    "id": "ستائیس",
+    "transliteration": "النمل",
+    "slug": "27-an-naml",
+    "translation": "چیونٹی",
+    "total_verses": "ترانوہ",
+    "arabic": "النمل"
+  },
+  {
+    "id": "اٹھائیس",
+    "transliteration": "القصص",
+    "slug": "28-al-qasas",
+    "translation": "قصے",
+    "total_verses": "اٹھاسٹھ",
+    "arabic": "القصص"
+  },
+  {
+    "id": "انتیس",
+    "transliteration": "العنکبوت",
+    "slug": "29-al-ankabut",
+    "translation": "مکڑی",
+    "total_verses": "نوہ",
+    "arabic": "العنكبوت"
+  },
+  {
+    "id": "تیس",
+    "transliteration": "الروم",
+    "slug": "30-ar-rum",
+    "translation": "روم",
+    "total_verses": "ساٹھ",
+    "arabic": "الروم"
+  },
+  {
+    "id": "اکتیس",
+    "transliteration": "لقمان",
+    "slug": "31-luqman",
+    "translation": "لقمان",
+    "total_verses": "چوتیس",
+    "arabic": "لقمان"
+  },
+  {
+    "id": "بتیس",
+    "transliteration": "السجدہ",
+    "slug": "32-as-sajdah",
+    "translation": "سجدہ",
+    "total_verses": "تیس",
+    "arabic": "السجدة"
+  },
+  {
+    "id": "تیتیس",
+    "transliteration": "الاحزاب",
+    "slug": "33-al-ahzab",
+    "translation": "متحد گروہ",
+    "total_verses": "تیس",
+    "arabic": "الأحزاب"
+  },
+  {
+    "id": "چوتیس",
+    "transliteration": "سبا",
+    "slug": "34-saba",
+    "translation": "سبا",
+    "total_verses": "چونون",
+    "arabic": "سبإ"
+  },
+  {
+    "id": "پینتیس",
+    "transliteration": "فاطر",
+    "slug": "35-fatir",
+    "translation": "پیدا کرنے والا",
+    "total_verses": "پینتالیس",
+    "arabic": "فاطر"
+  },
+  {
+    "id": "چھتیس",
+    "transliteration": "یٰسٓ",
+    "slug": "36-ya-sin",
+    "translation": "یٰسٓ",
+    "total_verses": "تیسٹھ",
+    "arabic": "يس"
+  },
+  {
+    "id": "ستیس",
+    "transliteration": "الصافات",
+    "slug": "37-as-saffat",
+    "translation": "صف باندھنے والے",
+    "total_verses": "سو بیاس",
+    "arabic": "الصافات"
+  },
+  {
+    "id": "اٹھتیس",
+    "transliteration": "صٓ",
+    "slug": "38-sad",
+    "translation": "صٓ",
+    "total_verses": "اٹھاسٹھ",
+    "arabic": "ص"
+  },
+  {
+    "id": "انتالیس",
+    "transliteration": "الزمر",
+    "slug": "39-az-zumar",
+    "translation": "گروہ",
+    "total_verses": "پچیس",
+    "arabic": "الزمر"
+  },
+  {
+    "id": "چالیس",
+    "transliteration": "غافر",
+    "slug": "40-ghafir",
+    "translation": "بخشنے والا",
+    "total_verses": "پچپن",
+    "arabic": "غافر"
+  },
+  {
+    "id": "اکتالیس",
+    "transliteration": "فصلت",
+    "slug": "41-fussilat",
+    "translation": "مفصل",
+    "total_verses": "چونون",
+    "arabic": "فصلت"
+  },
+  {
+    "id": "بیالیس",
+    "transliteration": "الشوری",
+    "slug": "42-ash-shura",
+    "translation": "شورٰی",
+    "total_verses": "ترپن",
+    "arabic": "الشورى"
+  },
+  {
+    "id": "تینتالیس",
+    "transliteration": "الزخرف",
+    "slug": "43-az-zukhruf",
+    "translation": "سونے کی چمک",
+    "total_verses": "نوہ",
+    "arabic": "الزخرف"
+  },
+  {
+    "id": "چوالیس",
+    "transliteration": "الدخان",
+    "slug": "44-ad-dukhan",
+    "translation": "دھواں",
+    "total_verses": "نوہ",
+    "arabic": "الدخان"
+  },
+  {
+    "id": "پینتالیس",
+    "transliteration": "الجاثیہ",
+    "slug": "45-al-jathiyah",
+    "translation": "زانوٗوں کے بل گری ہوئی",
+    "total_verses": "ستیس",
+    "arabic": "الجاثية"
+  },
+  {
+    "id": "چھیالیس",
+    "transliteration": "الاحقاف",
+    "slug": "46-al-ahqaf",
+    "translation": "ریگستان",
+    "total_verses": "پینتیس",
+    "arabic": "الأحقاف"
+  },
+  {
+    "id": "ستالیس",
+    "transliteration": "محمدﷺ",
+    "slug": "47-muhammad",
+    "translation": "محمدﷺ",
+    "total_verses": "اٹھتیس",
+    "arabic": "محمد"
+  },
+  {
+    "id": "اٹھالیس",
+    "transliteration": "الفتح",
+    "slug": "48-al-fath",
+    "translation": "فتح",
+    "total_verses": "انتیس",
+    "arabic": "الفتح"
+  },
+  {
+    "id": "انچاس",
+    "transliteration": "الحجرات",
+    "slug": "49-al-hujurat",
+    "translation": "حجرے",
+    "total_verses": "اؠٹھارہ",
+    "arabic": "الحجرات"
+  },
+  {
+    "id": "پچاس",
+    "transliteration": "قٓ",
+    "slug": "50-qaf",
+    "translation": "قٓ",
+    "total_verses": "پینتالیس",
+    "arabic": "ق"
+  },
+  {
+    "id": "اکاون",
+    "transliteration": "الذاریات",
+    "slug": "51-adh-dhariyat",
+    "translation": "بکھیرنے والیاں",
+    "total_verses": "ساٹھ",
+    "arabic": "الذاريات"
+  },
+  {
+    "id": "باون",
+    "transliteration": "الطور",
+    "slug": "52-at-tur",
+    "translation": "طور پہاڑ",
+    "total_verses": "انچاس",
+    "arabic": "الطور"
+  },
+  {
+    "id": "ترپن",
+    "transliteration": "النجم",
+    "slug": "53-an-najm",
+    "translation": "ستارہ",
+    "total_verses": "بیسٹھ",
+    "arabic": "النجم"
+  },
+  {
+    "id": "چونون",
+    "transliteration": "القمر",
+    "slug": "54-al-qamar",
+    "translation": "چاند",
+    "total_verses": "پچپن",
+    "arabic": "القمر"
+  },
+  {
+    "id": "پچپن",
+    "transliteration": "الرحمٰن",
+    "slug": "55-ar-rahman",
+    "translation": "مہربان",
+    "total_verses": "آٹھ",
+    "arabic": "الرحمن"
+  },
+  {
+    "id": "چھپن",
+    "transliteration": "الواقعہ",
+    "slug": "56-al-waqi-ah",
+    "translation": "واقعہ ہونے والی قیامت",
+    "total_verses": "چھیانوہ",
+    "arabic": "الواقعة"
+  },
+  {
+    "id": "ستپن",
+    "transliteration": "الحدید",
+    "slug": "57-al-hadid",
+    "translation": "فولاد",
+    "total_verses": "انتیس",
+    "arabic": "الحديد"
+  },
+  {
+    "id": "اٹھپن",
+    "transliteration": "المجادلہ",
+    "slug": "58-al-mujadila",
+    "translation": "جھگڑنے والی",
+    "total_verses": "بائیس",
+    "arabic": "المجادلة"
+  },
+  {
+    "id": "نوہ",
+    "transliteration": "الحشر",
+    "slug": "59-al-hashr",
+    "translation": "حشر",
+    "total_verses": "چوبیس",
+    "arabic": "الحشر"
+  },
+  {
+    "id": "ساٹھ",
+    "transliteration": "الممتحنہ",
+    "slug": "60-al-mumtahanah",
+    "translation": "امتحان لی جانے والی",
+    "total_verses": "تیرہ",
+    "arabic": "الممتحنة"
+  },
+  {
+    "id": "اکسٹھ",
+    "transliteration": "الصف",
+    "slug": "61-as-saff",
+    "translation": "صف",
+    "total_verses": "چودہ",
+    "arabic": "الصف"
+  },
+  {
+    "id": "بیسٹھ",
+    "transliteration": "الجمعہ",
+    "slug": "62-al-jumu-ah",
+    "translation": "جمعہ",
+    "total_verses": "گیارہ",
+    "arabic": "الجمعة"
+  },
+  {
+    "id": "تیسٹھ",
+    "transliteration": "المنافقون",
+    "slug": "63-al-munafiqun",
+    "translation": "منافقین",
+    "total_verses": "گیارہ",
+    "arabic": "المنافقون"
+  },
+  {
+    "id": "چونسٹھ",
+    "transliteration": "التغابن",
+    "slug": "64-at-taghabun",
+    "translation": "ہار جیت",
+    "total_verses": "اؠٹھارہ",
+    "arabic": "التغابن"
+  },
+  {
+    "id": "پینسٹھ",
+    "transliteration": "الطلاق",
+    "slug": "65-at-talaq",
+    "translation": "طلاق",
+    "total_verses": "بارہ",
+    "arabic": "الطلاق"
+  },
+  {
+    "id": "چھیاسٹھ",
+    "transliteration": "التحریم",
+    "slug": "66-at-tahrim",
+    "translation": "حرمت",
+    "total_verses": "بارہ",
+    "arabic": "التحريم"
+  },
+  {
+    "id": "ستاسٹھ",
+    "transliteration": "الملک",
+    "slug": "67-al-mulk",
+    "translation": "ملک",
+    "total_verses": "تیس",
+    "arabic": "الملك"
+  },
+  {
+    "id": "اٹھاسٹھ",
+    "transliteration": "القلم",
+    "slug": "68-al-qalam",
+    "translation": "قلم",
+    "total_verses": "باون",
+    "arabic": "القلم"
+  },
+  {
+    "id": "نوہ",
+    "transliteration": "الحاقہ",
+    "slug": "69-al-haqqah",
+    "translation": "حق ہونے والی",
+    "total_verses": "باون",
+    "arabic": "الحاقة"
+  },
+  {
+    "id": "سترہ",
+    "transliteration": "المعارج",
+    "slug": "70-al-ma-arij",
+    "translation": "عروج",
+    "total_verses": "چوالیس",
+    "arabic": "المعارج"
+  },
+  {
+    "id": "اکیس",
+    "transliteration": "نوح",
+    "slug": "71-nuh",
+    "translation": "نوح",
+    "total_verses": "اٹھائیس",
+    "arabic": "نوح"
+  },
+  {
+    "id": "بائیس",
+    "transliteration": "الجن",
+    "slug": "72-al-jinn",
+    "translation": "جن",
+    "total_verses": "اٹھائیس",
+    "arabic": "الجن"
+  },
+  {
+    "id": "تیس",
+    "transliteration": "المزمل",
+    "slug": "73-al-muzzammil",
+    "translation": "کپڑا لپیٹنے والا",
+    "total_verses": "بیس",
+    "arabic": "المزمل"
+  },
+  {
+    "id": "چوبیس",
+    "transliteration": "المدثر",
+    "slug": "74-al-muddaththir",
+    "translation": "کپڑا اوڑھنے والا",
+    "total_verses": "چھپن",
+    "arabic": "المدثر"
+  },
+  {
+    "id": "پچیس",
+    "transliteration": "القیامہ",
+    "slug": "75-al-qiyamah",
+    "translation": "قیامۃ",
+    "total_verses": "چالیس",
+    "arabic": "القيامة"
+  },
+  {
+    "id": "چھ",
+    "transliteration": "الانسان",
+    "slug": "76-al-insan",
+    "translation": "انسان",
+    "total_verses": "اکتیس",
+    "arabic": "الانسان"
+  },
+  {
+    "id": "سات",
+    "transliteration": "المرسلات",
+    "slug": "77-al-mursalat",
+    "translation": "بھیجی جانے والی ہوائیں",
+    "total_verses": "پچاس",
+    "arabic": "المرسلات"
+  },
+  {
+    "id": "آٹھ",
+    "transliteration": "النبا",
+    "slug": "78-an-naba",
+    "translation": "خبر",
+    "total_verses": "چالیس",
+    "arabic": "النبإ"
+  },
+  {
+    "id": "نو",
+    "transliteration": "النازعات",
+    "slug": "79-an-naziat",
+    "translation": "زور سے کھینچنے والے",
+    "total_verses": "چھیالیس",
+    "arabic": "النازعات"
+  },
+  {
+    "id": "اسٹھ",
+    "transliteration": "عبس",
+    "slug": "80-abasa",
+    "translation": "تیوری چڑہائی",
+    "total_verses": "بیالیس",
+    "arabic": "عبس"
+  },
+  {
+    "id": "اکاون",
+    "transliteration": "التکویر",
+    "slug": "81-at-takwir",
+    "translation": "لپیٹنا",
+    "total_verses": "انتیس",
+    "arabic": "التكوير"
+  },
+  {
+    "id": "بیسٹھ",
+    "transliteration": "الانفطار",
+    "slug": "82-al-infitar",
+    "translation": "ٹکڑے ہونا",
+    "total_verses": "انیس",
+    "arabic": "الإنفطار"
+  },
+  {
+    "id": "تیسٹھ",
+    "transliteration": "المتففین",
+    "slug": "83-al-mutaffifin",
+    "translation": "ناپ تول میں کمی کرنے والے",
+    "total_verses": "چھتیس",
+    "arabic": "المطففين"
+  },
+  {
+    "id": "چونسٹھ",
+    "transliteration": "الانشقاق",
+    "slug": "84-al-inshiqaq",
+    "translation": "پھٹنا",
+    "total_verses": "پچیس",
+    "arabic": "الإنشقاق"
+  },
+  {
+    "id": "پچپن",
+    "transliteration": "البروج",
+    "slug": "85-al-buruj",
+    "translation": "برج",
+    "total_verses": "بائیس",
+    "arabic": "البروج"
+  },
+  {
+    "id": "چھپن",
+    "transliteration": "الطارق",
+    "slug": "86-at-tariq",
+    "translation": "رات کو آنے والا",
+    "total_verses": "سترہ",
+    "arabic": "الطارق"
+  },
+  {
+    "id": "ستاسٹھ",
+    "transliteration": "الاعلی",
+    "slug": "87-al-a-la",
+    "translation": "اعلی",
+    "total_verses": "انیس",
+    "arabic": "الأعلى"
+  },
+  {
+    "id": "اٹھاسٹھ",
+    "transliteration": "الغاشیہ",
+    "slug": "88-al-ghashiyah",
+    "translation": "چھا جانے والی",
+    "total_verses": "چھببیس",
+    "arabic": "الغاشية"
+  },
+  {
+    "id": "نوہ",
+    "transliteration": "الفجر",
+    "slug": "89-al-fajr",
+    "translation": "فجر",
+    "total_verses": "تیس",
+    "arabic": "الفجر"
+  },
+  {
+    "id": "نوہ",
+    "transliteration": "البلد",
+    "slug": "90-al-balad",
+    "translation": "شہر",
+    "total_verses": "بیس",
+    "arabic": "البلد"
+  },
+  {
+    "id": "اکانوہ",
+    "transliteration": "الشمس",
+    "slug": "91-ash-shams",
+    "translation": "آفتاب",
+    "total_verses": "پندرہ",
+    "arabic": "الشمس"
+  },
+  {
+    "id": "بانوہ",
+    "transliteration": "اللیل",
+    "slug": "92-al-lail",
+    "translation": "رات",
+    "total_verses": "اکیس",
+    "arabic": "الليل"
+  },
+  {
+    "id": "ترانوہ",
+    "transliteration": "الضحی",
+    "slug": "93-ad-duha",
+    "translation": "دن کا چڑھنا",
+    "total_verses": "گیارہ",
+    "arabic": "الضحى"
+  },
+  {
+    "id": "چورانوہ",
+    "transliteration": "الشرح",
+    "slug": "94-ash-sharh",
+    "translation": "تسکین",
+    "total_verses": "آٹھ",
+    "arabic": "الشرح"
+  },
+  {
+    "id": "پچانوہ",
+    "transliteration": "التین",
+    "slug": "95-at-tin",
+    "translation": "انجیر",
+    "total_verses": "آٹھ",
+    "arabic": "التين"
+  },
+  {
+    "id": "چھیانوہ",
+    "transliteration": "العلق",
+    "slug": "96-al-alaq",
+    "translation": "جما ہوا خون",
+    "total_verses": "انیس",
+    "arabic": "العلق"
+  },
+  {
+    "id": "ستانوہ",
+    "transliteration": "القدر",
+    "slug": "97-al-qadr",
+    "translation": "شب قدر",
+    "total_verses": "پانچ",
+    "arabic": "القدر"
+  },
+  {
+    "id": "اٹھانوہ",
+    "transliteration": "البینہ",
+    "slug": "98-al-bayyinah",
+    "translation": "ثبوت",
+    "total_verses": "آٹھ",
+    "arabic": "البينة"
+  },
+  {
+    "id": "ننانوہ",
+    "transliteration": "الزلزلہ",
+    "slug": "99-az-zalzalah",
+    "translation": "زلزلہ",
+    "total_verses": "آٹھ",
+    "arabic": "الزلزلة"
+  },
+  {
+    "id": "سو",
+    "transliteration": "العادیات",
+    "slug": "100-al-adiyat",
+    "translation": "دوڑنے والے گھوڑے",
+    "total_verses": "گیارہ",
+    "arabic": "العاديات"
+  },
+  {
+    "id": "سو ایک",
+    "transliteration": "القارعہ",
+    "slug": "101-al-qariah",
+    "translation": "کھڑکھڑاہٹ",
+    "total_verses": "گیارہ",
+    "arabic": "القارعة"
+  },
+  {
+    "id": "سو دو",
+    "transliteration": "التکاثر",
+    "slug": "102-at-takathur",
+    "translation": "کثرت",
+    "total_verses": "آٹھ",
+    "arabic": "التكاثر"
+  },
+  {
+    "id": "سو تین",
+    "transliteration": "العصر",
+    "slug": "103-al-asr",
+    "translation": "زمانہ",
+    "total_verses": "تین",
+    "arabic": "العصر"
+  },
+  {
+    "id": "سو چار",
+    "transliteration": "الہمزہ",
+    "slug": "104-al-humazah",
+    "translation": "عیب لگانے والا",
+    "total_verses": "نو",
+    "arabic": "الهمزة"
+  },
+  {
+    "id": "سو پانچ",
+    "transliteration": "الفیل",
+    "slug": "105-al-fil",
+    "translation": "ہاتھی",
+    "total_verses": "پانچ",
+    "arabic": "الفيل"
+  },
+  {
+    "id": "سو چھ",
+    "transliteration": "قریش",
+    "slug": "106-quraysh",
+    "translation": "قریش",
+    "total_verses": "چار",
+    "arabic": "قريش"
+  },
+  {
+    "id": "سو سات",
+    "transliteration": "الماعون",
+    "slug": "107-al-ma-un",
+    "translation": "تھوڑی سی چیز",
+    "total_verses": "سات",
+    "arabic": "الماعون"
+  },
+  {
+    "id": "سو آٹھ",
+    "transliteration": "الکوثر",
+    "slug": "108-al-kawthar",
+    "translation": "جنت کی نہر",
+    "total_verses": "تین",
+    "arabic": "الكوثر"
+  },
+  {
+    "id": "سو نو",
+    "transliteration": "الکافرون",
+    "slug": "109-al-kafirun",
+    "translation": "کافرین",
+    "total_verses": "چھ",
+    "arabic": "الكافرون"
+  },
+  {
+    "id": "سو دس",
+    "transliteration": "النصر",
+    "slug": "110-an-nasr",
+    "translation": "نصرت",
+    "total_verses": "تین",
+    "arabic": "النصر"
+  },
+  {
+    "id": "سو گیارہ",
+    "transliteration": "المسد",
+    "slug": "111-al-masad",
+    "translation": "خوب بٹی ہوئی",
+    "total_verses": "پانچ",
+    "arabic": "المسد"
+  },
+  {
+    "id": "سو بارہ",
+    "transliteration": "الاخلاص",
+    "slug": "112-al-ikhlas",
+    "translation": "اخلاص",
+    "total_verses": "چار",
+    "arabic": "الإخلاص"
+  },
+  {
+    "id": "سو تیرہ",
+    "transliteration": "الفلق",
+    "slug": "113-al-falaq",
+    "translation": "صبح",
+    "total_verses": "پانچ",
+    "arabic": "الفلق"
+  },
+  {
+    "id": "سو چودہ",
+    "transliteration": "الناس",
+    "slug": "114-an-nas",
+    "translation": "انسان",
+    "total_verses": "چھ",
+    "arabic": "الناس"
+  }
+]
