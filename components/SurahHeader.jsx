@@ -25,7 +25,7 @@ export default function SurahHeader({
   return (
     <>
       <nav className=" border-border_color dark:border-dark_border_color sticky top-0 w-full top- z-50 border-b backdrop-blur-md ">
-        <div className=" flex justify-between items-center  h-[50px] lg:h-[66px] m-auto ">
+        <div className=" flex justify-between items-center  h-[50px] lg:h-[66px] max-w-[1276px] mx-auto">
           <span
             onClick={close}
             className="toggle-view-mode p-3 m-2 hover:bg-slate-500/10 rounded-full cursor-pointer"
