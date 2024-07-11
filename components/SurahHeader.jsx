@@ -1,11 +1,8 @@
 "use client";
-
-import Link from "next/link";
 import { useState } from "react";
 import { GiSettingsKnobs } from "react-icons/gi";
 import { SlArrowLeft } from "react-icons/sl";
 import ModalSetting from "./ModalSetting";
-import { RxCross2 } from "react-icons/rx";
 import { useRouter } from "next/navigation";
 
 export default function SurahHeader({
@@ -14,10 +11,11 @@ export default function SurahHeader({
   number,
   verses,
   revelation,
-  showCross = false,
+  dictionary,
 }) {
   let [isOpen, setIsOpen] = useState(false);
   const router = useRouter();
+
   const close = () => {
     router.back();
   };
@@ -37,21 +35,31 @@ export default function SurahHeader({
               <span className="mt-[3px]  text-[10px]">( {meaning} )</span>
             </div>
             <div className=" text-[13px] flex flex-row justify-center  items-baseline ">
-              <span className="mr-[2px] ">
-                {/* {await revelationLang("surah", lang)}&#2435; */}
-              </span>
-              <li className="mr-[6px] text-[12px] flex">{number}</li>
-              <span className="mr-[2px] ml-[2px] mt-[3px]">•</span>
-              <span className="mr-[2px] ml-[6px]">
-                {/* {await revelationLang("surah", lang)}&#2435; */}
-              </span>
-              <li className="mr-[2px] text-[12px] flex">{verses}</li>
-              {/* <span className="mr-[6px]">{await revelationLang("t", lang)}</span> */}
-              <span className="mr-[2px] ml-[2px] mt-[3px]">•</span>
-              <span className="mr-[2px] ml-[6px]">
-                {/* {await revelationLang("Revelation", lang)}&#2435; */}
-              </span>
-              <span className="mr-[2px]">{revelation}</span>
+              <ul className="flex items-center">
+                <li className="flex">
+                  <span className="mr-[2px]  ">{dictionary?.surah}</span>
+                  <span className="font-bold px-[2px]">&#58;</span>
+                  <span className="mr-[6px] text-[12px] flex">{number}</span>
+                </li>
+                <li>
+                  <span className="mr-[2px] ml-[2px] mt-[3px] text-xl">•</span>
+                </li>
+                <li className="flex">
+                  <span className="mr-[2px] ml-[6px]">{dictionary?.ayat}</span>
+                  <span className="font-bold px-[2px]">&#58;</span>
+                  <span className="mr-[2px] text-[12px] flex">{verses}</span>
+                </li>
+                <li>
+                  <span className="mr-[2px] ml-[2px] mt-[3px] text-xl">•</span>
+                </li>
+                <li className="flex">
+                  <span className="mr-[2px] ml-[6px]">
+                    {dictionary?.revelation}
+                  </span>
+                  <span className="font-bold px-[2px]">&#58;</span>
+                  <span className="mr-[2px]">{revelation}</span>
+                </li>
+              </ul>
             </div>
           </div>
 

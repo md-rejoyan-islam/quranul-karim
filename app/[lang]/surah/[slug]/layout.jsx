@@ -1,10 +1,13 @@
 import SurahHeader from "@/components/SurahHeader";
+import { getDictionary } from "../../(home)/dictionaries";
 
 export default async function Layout({ children, params: { lang, slug } }) {
   const response = await fetch(
     `${process.env.SERVER_URL}/${lang}/surah/${slug}`
   );
   const { data } = await response.json();
+
+  const dictionary = await getDictionary(lang);
 
   return (
     <main className="bg-bg_secondary dark:bg-dark_bg_primary">
@@ -14,6 +17,8 @@ export default async function Layout({ children, params: { lang, slug } }) {
         meaning={data?.translation}
         verses={data?.total_verses}
         revelation={data?.revelation}
+        lang={lang}
+        dictionary={dictionary}
       />
       {children}
     </main>

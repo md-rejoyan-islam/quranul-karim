@@ -1,5 +1,3 @@
-import { detailsData, indexOfLang, mainData } from "./api";
-
 export default async function Surah({ params: { slug, lang } }) {
   const response = await fetch(
     `${process.env.SERVER_URL}/${lang}/surah/${slug}`

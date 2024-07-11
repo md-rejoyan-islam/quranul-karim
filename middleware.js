@@ -4,7 +4,8 @@ import Negotiator from "negotiator";
 
 // bangla (bn), english (en), urdu (ur), russian (ru), chinese (zh), french (fr)
 
-const locales = ["bn", "en", "ur", "ru", "zh", "fr"];
+const locales = process.env.LOCALES.split(",");
+
 let defaultLocale = "en";
 
 function getLocale(request) {

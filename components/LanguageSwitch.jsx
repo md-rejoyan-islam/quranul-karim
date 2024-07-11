@@ -5,7 +5,6 @@ import {
   ComboboxOption,
   ComboboxOptions,
 } from "@headlessui/react";
-// import { CheckIcon, ChevronDownIcon } from "@heroicons/react/20/solid";
 import { HiChevronDown } from "react-icons/hi";
 import { HiCheck } from "react-icons/hi";
 
@@ -13,7 +12,7 @@ import clsx from "clsx";
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 
-export default function LanguageSwitch() {
+export default function LanguageSwitch({ lang }) {
   const router = useRouter();
 
   const languages = [
@@ -22,10 +21,13 @@ export default function LanguageSwitch() {
     { id: 3, name: "Chinese", code: "zh" },
     { id: 4, name: "Urdu", code: "ur" },
     { id: 5, name: "Russian", code: "ru" },
+    { id: 6, name: "French", code: "fr" },
   ];
 
   const [query, setQuery] = useState("");
-  const [selected, setSelected] = useState(languages[1]);
+  const [selected, setSelected] = useState(
+    languages.find((language) => language.code === lang)
+  );
 
   const filteredLanguage =
     query === ""
