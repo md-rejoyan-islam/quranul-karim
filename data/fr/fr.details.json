@@ -1,6 +1,8 @@
 [
   {
     "id": "un",
+    "title": "L'Ouverture",
+    "description": "La première sourate du Coran, Al-Fatihah est un prélude et une conclusion à toutes les sourates. Elle est communément récitée comme la première partie de chaque prière.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -42,6 +44,8 @@
   },
   {
     "id": "deux",
+    "title": "La Vache",
+    "description": "La sourate Al-Baqarah est la deuxième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Medinan",
     "verses": [
       { "id": "un", "text": "الٓمٓ", "translation": "Alif, Lâm, Mim" },
@@ -1474,6 +1478,8 @@
   },
   {
     "id": "trois",
+    "title": "La Famille d'Imran",
+    "description": "La sourate Al-Imran est la troisième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Medinan",
     "verses": [
       { "id": "un", "text": "الٓمٓ", "translation": "Alif, Lâm, Mîm" },
@@ -2476,6 +2482,8 @@
   },
   {
     "id": "quatre",
+    "title": "An-Nisa",
+    "description": "La sourate An-Nisa est la quatrième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -3362,6 +3370,8 @@
   },
   {
     "id": "cinq",
+    "title": "La Table Servie",
+    "description": "La sourate Al-Maidah est la cinquième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -3968,6 +3978,8 @@
   },
   {
     "id": "six",
+    "title": "Le Bétail",
+    "description": "La sourate Al-An'am est la sixième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -4799,6 +4811,8 @@
   },
   {
     "id": "sept",
+    "title": "Les Hauteurs",
+    "description": "La sourate Al-A'raf est la septième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       { "id": "un", "text": "الٓمٓصٓ", "translation": "Alif, Lâm, Mîm, Sâd" },
@@ -5831,6 +5845,8 @@
   },
   {
     "id": "huit",
+    "title": "Le Butin de Guerre",
+    "description": "La sourate Al-Anfal est la huitième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -6212,6 +6228,8 @@
   },
   {
     "id": "neuf",
+    "title": "Le Repentir",
+    "description": "La sourate At-Tawbah est la neuvième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -6863,6 +6881,8 @@
   },
   {
     "id": "dix",
+    "title": "Jonas",
+    "description": "La sourate Jonas est la dixième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -7414,6 +7434,8 @@
   },
   {
     "id": "onze",
+    "title": "Hud",
+    "description": "La sourate Hud est la onzième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -8035,6 +8057,8 @@
   },
   {
     "id": "douze",
+    "title": "Joseph",
+    "description": "La sourate Joseph est la douzième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -8596,6 +8620,8 @@
   },
   {
     "id": "treize",
+    "title": "Le Tonnerre",
+    "description": "La sourate Ar-Ra'd est la treizième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -8817,6 +8843,8 @@
   },
   {
     "id": "quatorze",
+    "title": "Abraham",
+    "description": "La sourate Ibrahim est la quatorzième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -9083,6 +9111,8 @@
   },
   {
     "id": "quinze",
+    "title": "Le Rocher",
+    "description": "La sourate Al-Hijr est la quinzième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -9584,6 +9614,8 @@
   },
   {
     "id": "seize",
+    "title": "L'Abeille",
+    "description": "La sourate An-Nahl est la seizième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -10230,6 +10262,8 @@
   },
   {
     "id": "dix-sept",
+    "title": "Le Voyage Nocturne",
+    "description": "La sourate Al-Isra est la dix-septième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -10791,6 +10825,8 @@
   },
   {
     "id": "dix-huit",
+    "title": "La Caverne",
+    "description": "La sourate Al-Kahf est la dix-huitième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -11347,6 +11383,8 @@
   },
   {
     "id": "dix-neuf",
+    "title": "Marie",
+    "description": "La sourate Marie est la dix-neuvième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -11843,6 +11881,8 @@
   },
   {
     "id": "vingt",
+    "title": "Ta-Ha",
+    "description": "La sourate Ta-Ha est la vingtième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       { "id": "un", "text": "طه", "translation": "Tâ-Hâ" },
@@ -12520,6 +12560,8 @@
   },
   {
     "id": "vingt et un",
+    "title": "Les Prophètes",
+    "description": "La sourate Les Prophètes est la vingt-et-unième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -13086,6 +13128,8 @@
   },
   {
     "id": "vingt-deux",
+    "title": "Le Pèlerinage",
+    "description": "La sourate Al-Hajj est la vingt-deuxième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -13482,6 +13526,8 @@
   },
   {
     "id": "vingt-trois",
+    "title": "Les Croyants",
+    "description": "La sourate Les Croyants est la vingt-troisième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -14078,6 +14124,8 @@
   },
   {
     "id": "vingt-quatre",
+    "title": "La Lumière",
+    "description": "La sourate La Lumière est la vingt-quatrième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -14404,6 +14452,8 @@
   },
   {
     "id": "vingt-cinq",
+    "title": "Le Critère",
+    "description": "La sourate Le Critère est la vingt-cinquième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -14795,6 +14845,8 @@
   },
   {
     "id": "vingt-six",
+    "title": "Les Poètes",
+    "description": "La sourate Les Poètes est la vingt-sixième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       { "id": "un", "text": "طسٓمٓ", "translation": "T'â, Sîn, Mim" },
@@ -15932,6 +15984,8 @@
   },
   {
     "id": "vingt-sept",
+    "title": "La Fourmi",
+    "description": "La sourate La Fourmi est la vingt-septième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -16403,6 +16457,8 @@
   },
   {
     "id": "vingt-huit",
+    "title": "Les Récits",
+    "description": "La sourate Les Récits est la vingt-huitième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       { "id": "un", "text": "طسٓمٓ", "translation": "T'â, Sîn, Mîm" },
@@ -16845,6 +16901,8 @@
   },
   {
     "id": "vingt-neuf",
+    "title": "L'Araignée",
+    "description": "La sourate L'Araignée est la vingt-neuvième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       { "id": "un", "text": "الٓمٓ", "translation": "Alif, Lâm, Mîm" },
@@ -17192,6 +17250,8 @@
   },
   {
     "id": "trente",
+    "title": "Les Romains",
+    "description": "La sourate Les Romains est la trentième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       { "id": "un", "text": "الٓمٓ", "translation": "Alif, Lâm, Mîm" },
@@ -17494,6 +17554,8 @@
   },
   {
     "id": "trente et un",
+    "title": "Luqman",
+    "description": "La sourate Luqman est la trente et unième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       { "id": "un", "text": "الٓمٓ", "translation": "Alif, Lâm, Mîm" },
@@ -17666,6 +17728,8 @@
   },
   {
     "id": "trente-deux",
+    "title": "La Prosternation",
+    "description": "La sourate La Prosternation est la trente-deuxième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       { "id": "un", "text": "الٓمٓ", "translation": "Alif, Lâm, Mîm" },
@@ -17818,6 +17882,8 @@
   },
   {
     "id": "trente-trois",
+    "title": "Les Coalisés",
+    "description": "La sourate Les Coalisés est la trente-troisième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -18189,6 +18255,8 @@
   },
   {
     "id": "trente-quatre",
+    "title": "Saba",
+    "description": "La sourate Saba est la trente-quatrième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -18465,6 +18533,8 @@
   },
   {
     "id": "trente-cinq",
+    "title": "Le Créateur",
+    "description": "La sourate Le Créateur est la trente-cinquième sourate du Coran et elle fournit une discussion détaillée sur les principes et les directives primaires de la vie d'un musulman.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -18696,6 +18766,8 @@
   },
   {
     "id": "trente-six",
+    "title": "Ya-Sin",
+    "description": "Cette sourate met en avant le message du Prophète Muhammad (SAW) et encourage le monothéisme et la foi.",
     "revelation": "Meccan",
     "verses": [
       { "id": "un", "text": "يسٓ", "translation": "Yâ Sîn" },
@@ -19113,6 +19185,8 @@
   },
   {
     "id": "trente-sept",
+    "title": "Les Rangées",
+    "description": "Cette sourate raconte les histoires de certains prophètes et encourage le monothéisme et la piété.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -20029,6 +20103,8 @@
   },
   {
     "id": "trente-huit",
+    "title": "Sad",
+    "description": "Cette sourate discute des histoires de David, Salomon et Job (paix sur eux) et encourage la patience.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -20475,6 +20551,8 @@
   },
   {
     "id": "trente-neuf",
+    "title": "Les Groupes",
+    "description": "Cette sourate rappelle le sort des croyants et des mécréants et encourage le repentir.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -20856,6 +20934,8 @@
   },
   {
     "id": "quarante",
+    "title": "Le Pardonneur",
+    "description": "Cette sourate souligne la miséricorde et le pardon d'Allah et met en garde contre la mécréance.",
     "revelation": "Meccan",
     "verses": [
       { "id": "un", "text": "حمٓ", "translation": "H'â, Mîm" },
@@ -21283,6 +21363,8 @@
   },
   {
     "id": "quarante et un",
+    "title": "Expliqué en Détail",
+    "description": "Cette sourate souligne la clarté des signes d'Allah et encourage la réflexion.",
     "revelation": "Meccan",
     "verses": [
       { "id": "un", "text": "حمٓ", "translation": "H'â, Mîm" },
@@ -21555,6 +21637,8 @@
   },
   {
     "id": "quarante-deux",
+    "title": "La Consultation",
+    "description": "Cette sourate souligne l'importance de la consultation en Islam et la coopération entre les croyants.",
     "revelation": "Meccan",
     "verses": [
       { "id": "un", "text": "حمٓ", "translation": "H'â, Mîm" },
@@ -21818,6 +21902,8 @@
   },
   {
     "id": "quarante-trois",
+    "title": "Les Ornements",
+    "description": "Cette sourate discute des ornements de la vie terrestre et met en garde contre l'illusion qu'elle peut créer.",
     "revelation": "Meccan",
     "verses": [
       { "id": "un", "text": "حمٓ", "translation": "H'â, Mîm" },
@@ -22265,6 +22351,8 @@
   },
   {
     "id": "quarante-quatre",
+    "title": "La Fumée",
+    "description": "Cette sourate met en garde contre le châtiment d'Allah et encourage le repentir.",
     "revelation": "Meccan",
     "verses": [
       { "id": "un", "text": "حمٓ", "translation": "H'â, Mîm" },
@@ -22562,6 +22650,8 @@
   },
   {
     "id": "quarante-cinq",
+    "title": "Agenouillé",
+    "description": "Cette sourate encourage la réflexion sur les signes d'Allah et la foi.",
     "revelation": "Meccan",
     "verses": [
       { "id": "un", "text": "حمٓ", "translation": "H'â, Mîm" },
@@ -22749,6 +22839,8 @@
   },
   {
     "id": "quarante-six",
+    "title": "Les Dunes de Sable",
+    "description": "Cette sourate nous conseille de considérer notre relation avec Allah dans chaque action.",
     "revelation": "Meccan",
     "verses": [
       { "id": "un", "text": "حمٓ", "translation": "H'â, Mîm" },
@@ -22926,6 +23018,8 @@
   },
   {
     "id": "quarante-sept",
+    "title": "Muhammad",
+    "description": "Cette sourate encourage la foi et la patience parmi les musulmans.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -23122,6 +23216,8 @@
   },
   {
     "id": "quarante-huit",
+    "title": "La Victoire",
+    "description": "Cette sourate encourage l'avancement et l'honneur de l'humanité.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -23273,6 +23369,8 @@
   },
   {
     "id": "quarante-neuf",
+    "title": "Les Chambres",
+    "description": "Cette sourate encourage les bonnes manières et le respect du Prophète (SAW).",
     "revelation": "Medinan",
     "verses": [
       {
@@ -23369,6 +23467,8 @@
   },
   {
     "id": "cinquante",
+    "title": "Qaf",
+    "description": "Cette sourate encourage la foi en Allah et le repentir.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -23600,6 +23700,8 @@
   },
   {
     "id": "cinquante et un",
+    "title": "Les Vents qui Dispersent",
+    "description": "Cette sourate nous conseille de réfléchir sur la mort et l'au-delà.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -23906,6 +24008,8 @@
   },
   {
     "id": "cinquante-deux",
+    "title": "La Montagne",
+    "description": "Cette sourate encourage la foi en Allah et la patience.",
     "revelation": "Meccan",
     "verses": [
       { "id": "un", "text": "وَٱلطُّورِ", "translation": "Par At-Tûr" },
@@ -24153,6 +24257,8 @@
   },
   {
     "id": "cinquante-trois",
+    "title": "L'Étoile",
+    "description": "Cette sourate encourage la foi en Allah et la prière.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -24469,6 +24575,8 @@
   },
   {
     "id": "cinquante-quatre",
+    "title": "La Lune",
+    "description": "Cette sourate encourage la foi en Allah et la patience.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -24750,6 +24858,8 @@
   },
   {
     "id": "cinquante-cinq",
+    "title": "Le Tout Miséricordieux",
+    "description": "Cette sourate encourage la foi en Allah et la gratitude.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -25146,6 +25256,8 @@
   },
   {
     "id": "cinquante-six",
+    "title": "L'Inévitable",
+    "description": "Cette sourate encourage la foi en Allah et l'honnêteté.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -25632,6 +25744,8 @@
   },
   {
     "id": "cinquante-sept",
+    "title": "Le Fer",
+    "description": "Cette sourate encourage la foi en Allah et la patience.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -25783,6 +25897,8 @@
   },
   {
     "id": "cinquante-huit",
+    "title": "La Discussion",
+    "description": "Cette sourate encourage la réconciliation et la justice.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -25899,6 +26015,8 @@
   },
   {
     "id": "cinquante-neuf",
+    "title": "L'Exil",
+    "description": "Cette sourate encourage la foi en Allah et la patience.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -26025,6 +26143,8 @@
   },
   {
     "id": "soixante",
+    "title": "L'Éprouvée",
+    "description": "Cette sourate encourage la foi en Allah et la patience.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -26096,6 +26216,8 @@
   },
   {
     "id": "soixante et un",
+    "title": "Les Rangs",
+    "description": "Cette sourate encourage la foi en Allah et l'effort.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -26172,6 +26294,8 @@
   },
   {
     "id": "soixante-deux",
+    "title": "Le Vendredi",
+    "description": "Cette sourate encourage la prière et la foi.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -26233,6 +26357,8 @@
   },
   {
     "id": "soixante-trois",
+    "title": "Les Hypocrites",
+    "description": "Cette sourate encourage la foi en Allah et l'honnêteté.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -26294,6 +26420,8 @@
   },
   {
     "id": "soixante-quatre",
+    "title": "La Duperie Réciproque",
+    "description": "Cette sourate encourage la foi en Allah et la patience.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -26390,6 +26518,8 @@
   },
   {
     "id": "soixante-cinq",
+    "title": "Le Divorce",
+    "description": "Cette sourate encourage la patience et la foi.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -26456,6 +26586,8 @@
   },
   {
     "id": "soixante-six",
+    "title": "L'Interdiction",
+    "description": "Cette sourate encourage l'obéissance et la foi.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -26522,6 +26654,8 @@
   },
   {
     "id": "soixante-sept",
+    "title": "Le Royaume",
+    "description": "Cette sourate encourage la foi en Allah et la patience.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -26678,6 +26812,8 @@
   },
   {
     "id": "soixante-huit",
+    "title": "Le Stylo",
+    "description": "Cette sourate encourage la foi en Allah et la patience.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -26944,6 +27080,8 @@
   },
   {
     "id": "soixante-neuf",
+    "title": "L'Inévitable",
+    "description": "Cette sourate encourage la foi en Allah et la patience.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -27210,6 +27348,8 @@
   },
   {
     "id": "soixante-dix",
+    "title": "Les Voies d'Ascension",
+    "description": "Cette sourate encourage la foi en Allah et la patience.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -27436,6 +27576,8 @@
   },
   {
     "id": "soixante et onze",
+    "title": "Noé",
+    "description": "Cette sourate encourage la foi en Allah et la patience.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -27582,6 +27724,8 @@
   },
   {
     "id": "soixante-douze",
+    "title": "Les Djinns",
+    "description": "Cette sourate encourage la foi en Allah et la patience.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -27728,6 +27872,8 @@
   },
   {
     "id": "soixante-treize",
+    "title": "L'Enveloppé",
+    "description": "Cette sourate encourage la prière et la foi.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -27834,6 +27980,8 @@
   },
   {
     "id": "soixante-quatorze",
+    "title": "L'Enveloppé",
+    "description": "Cette sourate encourage la prière et la foi.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -28120,6 +28268,8 @@
   },
   {
     "id": "soixante-quinze",
+    "title": "La Résurrection",
+    "description": "Cette sourate encourage la foi en Allah et la patience.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -28326,6 +28476,8 @@
   },
   {
     "id": "soixante-seize",
+    "title": "L'Homme",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -28487,6 +28639,8 @@
   },
   {
     "id": "soixante-dix-sept",
+    "title": "Les Envoyés",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -28743,6 +28897,8 @@
   },
   {
     "id": "soixante-dix-huit",
+    "title": "La Nouvelle",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -28949,6 +29105,8 @@
   },
   {
     "id": "soixante-dix-neuf",
+    "title": "Les Arracheurs",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -29185,6 +29343,8 @@
   },
   {
     "id": "quatre-vingts",
+    "title": "Il a Froncé les Sourcils",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -29401,6 +29561,8 @@
   },
   {
     "id": "quatre-vingt-un",
+    "title": "Le Renversement",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -29552,6 +29714,8 @@
   },
   {
     "id": "quatre-vingt-deux",
+    "title": "La Fissuration",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -29653,6 +29817,8 @@
   },
   {
     "id": "quatre-vingt-trois",
+    "title": "Les Fraudeurs",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -29839,6 +30005,8 @@
   },
   {
     "id": "quatre-vingt-quatre",
+    "title": "La Fente",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -29970,6 +30138,8 @@
   },
   {
     "id": "quatre-vingt-cinq",
+    "title": "Les Constellations",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -30086,6 +30256,8 @@
   },
   {
     "id": "quatre-vingt-six",
+    "title": "L'Étoile du Matin",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -30177,6 +30349,8 @@
   },
   {
     "id": "quatre-vingt-sept",
+    "title": "Le Très-Haut",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -30278,6 +30452,8 @@
   },
   {
     "id": "quatre-vingt-huit",
+    "title": "L'Accablante",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -30414,6 +30590,8 @@
   },
   {
     "id": "quatre-vingt-neuf",
+    "title": "L'Aube",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       { "id": "un", "text": "وَٱلۡفَجۡرِ", "translation": "Par l'Aube" },
@@ -30566,6 +30744,8 @@
   },
   {
     "id": "quatre-vingt-dix",
+    "title": "La Cité",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -30672,6 +30852,8 @@
   },
   {
     "id": "quatre-vingt-onze",
+    "title": "Le Soleil",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -30753,6 +30935,8 @@
   },
   {
     "id": "quatre-vingt-douze",
+    "title": "La Nuit",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -30864,6 +31048,8 @@
   },
   {
     "id": "quatre-vingt-treize",
+    "title": "Les Heures du Matin",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -30925,6 +31111,8 @@
   },
   {
     "id": "quatre-vingt-quatorze",
+    "title": "Le Soulagement",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -30971,6 +31159,8 @@
   },
   {
     "id": "quatre-vingt-quinze",
+    "title": "Le Figuier",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31017,6 +31207,8 @@
   },
   {
     "id": "quatre-vingt-seize",
+    "title": "Le Caillot",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31118,6 +31310,8 @@
   },
   {
     "id": "quatre-vingt-dix-sept",
+    "title": "Le Pouvoir",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31149,6 +31343,8 @@
   },
   {
     "id": "quatre-vingt-dix-huit",
+    "title": "La Preuve",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -31195,6 +31391,8 @@
   },
   {
     "id": "quatre-vingt-dix-neuf",
+    "title": "Le Tremblement de Terre",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -31241,6 +31439,8 @@
   },
   {
     "id": "cent",
+    "title": "Les Coursiers",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31302,6 +31502,8 @@
   },
   {
     "id": "cent un",
+    "title": "La Calamité",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       { "id": "un", "text": "ٱلۡقَارِعَةُ", "translation": "Le fracas" },
@@ -31359,6 +31561,8 @@
   },
   {
     "id": "cent deux",
+    "title": "La Rivalité",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31405,6 +31609,8 @@
   },
   {
     "id": "cent trois",
+    "title": "Le Déclin du Jour",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       { "id": "un", "text": "وَٱلۡعَصۡرِ", "translation": "Par le Temps" },
@@ -31422,6 +31628,8 @@
   },
   {
     "id": "cent quatre",
+    "title": "Le Calomniateur",
+    "description": "Cette sourate encourage l'honnêteté et la justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31473,6 +31681,8 @@
   },
   {
     "id": "cent cinq",
+    "title": "L'Éléphant",
+    "description": "C'est la 105e sourate du Coran. Il est situé à La Mecque. C'est une sourate également connue sous le nom de Sourate Sultan Al Fil. C'est une sourate basée sur un événement donné dans le Coran. C'est une sourate basée sur un événement décrit dans le Coran.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31504,6 +31714,8 @@
   },
   {
     "id": "cent six",
+    "title": "Les Quraish",
+    "description": "C'est la 106e sourate du Coran. Il est situé à La Mecque. C'est une sourate basée sur un événement décrit dans le Coran. C'est une sourate basée sur un événement décrit dans le Coran.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31530,6 +31742,8 @@
   },
   {
     "id": "cent sept",
+    "title": "Les Petites Gentillesses",
+    "description": "C'est la 107e sourate du Coran. Il est situé à La Mecque. C'est une sourate basée sur un événement décrit dans le Coran. C'est une sourate basée sur un événement décrit dans le Coran.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31571,6 +31785,8 @@
   },
   {
     "id": "cent huit",
+    "title": "L'Abondance",
+    "description": "C'est la 108e sourate du Coran. Il est situé à La Mecque. C'est une sourate basée sur un événement décrit dans le Coran. C'est une sourate basée sur un événement décrit dans le Coran.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31592,6 +31808,8 @@
   },
   {
     "id": "cent neuf",
+    "title": "Les Infidèles",
+    "description": "C'est la 109e sourate du Coran. Il est situé à La Mecque. C'est une sourate basée sur un événement décrit dans le Coran. C'est une sourate basée sur un événement décrit dans le Coran.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31628,6 +31846,8 @@
   },
   {
     "id": "cent dix",
+    "title": "Le Soutien Divin",
+    "description": "C'est la 110e sourate du Coran. Il est situé à La Mecque. C'est une sourate basée sur un événement décrit dans le Coran. C'est une sourate basée sur un événement décrit dans le Coran.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -31649,6 +31869,8 @@
   },
   {
     "id": "cent onze",
+    "title": "La Fibre de Palmier",
+    "description": "C'est la 111e sourate du Coran. Il est situé à La Mecque. C'est une sourate basée sur un événement décrit dans le Coran. C'est une sourate basée sur un événement décrit dans le Coran.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31680,6 +31902,8 @@
   },
   {
     "id": "cent douze",
+    "title": "La Sincérité",
+    "description": "C'est la 112e sourate du Coran. Il est situé à La Mecque. C'est une sourate basée sur un événement décrit dans le Coran. C'est une sourate basée sur un événement décrit dans le Coran.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31706,6 +31930,8 @@
   },
   {
     "id": "cent treize",
+    "title": "L'Aube",
+    "description": "C'est la 113e sourate du Coran. Il est situé à La Mecque. C'est une sourate basée sur un événement décrit dans le Coran. C'est une sourate basée sur un événement décrit dans le Coran.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31737,6 +31963,8 @@
   },
   {
     "id": "cent quatorze",
+    "title": "L'Humanité",
+    "description": "C'est la 114e sourate du Coran. Il est situé à La Mecque. C'est une sourate basée sur un événement décrit dans le Coran. C'est une sourate basée sur un événement décrit dans le Coran.",
     "revelation": "Meccan",
     "verses": [
       {

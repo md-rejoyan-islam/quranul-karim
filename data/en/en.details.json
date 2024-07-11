@@ -1,6 +1,8 @@
 [
   {
     "id": "1",
+    "title": "The Opening",
+    "description": "The first surah of the Quran, Al-Fatihah is a prelude and conclusion to all the surahs. It is commonly recited as the first part of every prayer.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -42,6 +44,8 @@
   },
   {
     "id": "2",
+    "title": "The Cow",
+    "description": "Surah Al-Baqarah is the second surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Medinan",
     "verses": [
       { "id": "1", "text": "الٓمٓ", "translation": "Alif, Lam, Meem" },
@@ -1474,6 +1478,8 @@
   },
   {
     "id": "3",
+    "title": "The Family of Imran",
+    "description": "Surah Al-Imran is the third surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Medinan",
     "verses": [
       { "id": "1", "text": "الٓمٓ", "translation": "Alif, Lam, Meem" },
@@ -2476,6 +2482,8 @@
   },
   {
     "id": "4",
+    "title": "An-Nisa",
+    "description": "Surah An-Nisa is the fourth surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -3362,6 +3370,8 @@
   },
   {
     "id": "5",
+    "title": "The Table Spread",
+    "description": "Surah Al-Maidah is the fifth surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -3968,6 +3978,8 @@
   },
   {
     "id": "6",
+    "title": "The Cattle",
+    "description": "Surah Al-An'am is the sixth surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -4799,6 +4811,8 @@
   },
   {
     "id": "7",
+    "title": "The Heights",
+    "description": "Surah Al-A'raf is the seventh surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       { "id": "1", "text": "الٓمٓصٓ", "translation": "Alif, Lam, Meem, Sad" },
@@ -5831,6 +5845,8 @@
   },
   {
     "id": "8",
+    "title": "The Spoils of War",
+    "description": "Surah Al-Anfal is the eighth surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -6212,6 +6228,8 @@
   },
   {
     "id": "9",
+    "title": "The Repentance",
+    "description": "Surah At-Tawbah is the ninth surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -6863,6 +6881,8 @@
   },
   {
     "id": "10",
+    "title": "Jonah",
+    "description": "Surah Yunus is the tenth surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -7414,6 +7434,8 @@
   },
   {
     "id": "11",
+    "title": "Hud",
+    "description": "Surah Hud is the eleventh surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -8035,6 +8057,8 @@
   },
   {
     "id": "12",
+    "title": "Joseph",
+    "description": "Surah Yusuf is the twelfth surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -8596,6 +8620,8 @@
   },
   {
     "id": "13",
+    "title": "The Thunder",
+    "description": "Surah Ar-Ra'd is the thirteenth surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -8817,6 +8843,8 @@
   },
   {
     "id": "14",
+    "title": "Abraham",
+    "description": "Surah Ibrahim is the fourteenth surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -9083,6 +9111,8 @@
   },
   {
     "id": "15",
+    "title": "The Rocky Tract",
+    "description": "Surah Al-Hijr is the fifteenth surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -9584,6 +9614,8 @@
   },
   {
     "id": "16",
+    "title": "The Bee",
+    "description": "Surah An-Nahl is the sixteenth surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -10230,6 +10262,8 @@
   },
   {
     "id": "17",
+    "title": "The Night Journey",
+    "description": "Surah Al-Isra is the seventeenth surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -10791,6 +10825,8 @@
   },
   {
     "id": "18",
+    "title": "The Cave",
+    "description": "Surah Al-Kahf is the eighteenth surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -11347,6 +11383,8 @@
   },
   {
     "id": "19",
+    "title": "Mary",
+    "description": "Surah Maryam is the nineteenth surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -11843,6 +11881,8 @@
   },
   {
     "id": "20",
+    "title": "Ta-Ha",
+    "description": "Surah Ta-Ha is the twentieth surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       { "id": "1", "text": "طه", "translation": "Ta, Ha" },
@@ -12520,6 +12560,8 @@
   },
   {
     "id": "21",
+    "title": "The Prophets",
+    "description": "Surah Al-Anbiya is the twenty-first surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -13086,6 +13128,8 @@
   },
   {
     "id": "22",
+    "title": "The Pilgrimage",
+    "description": "Surah Al-Hajj is the twenty-second surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -13482,6 +13526,8 @@
   },
   {
     "id": "23",
+    "title": "The Believers",
+    "description": "Surah Al-Muminun is the twenty-third surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -14078,6 +14124,8 @@
   },
   {
     "id": "24",
+    "title": "The Light",
+    "description": "Surah An-Nur is the twenty-fourth surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -14404,6 +14452,8 @@
   },
   {
     "id": "25",
+    "title": "The Criterion",
+    "description": "Surah Al-Furqan is the twenty-fifth surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -14795,6 +14845,8 @@
   },
   {
     "id": "26",
+    "title": "The Poets",
+    "description": "Surah Ash-Shuara is the twenty-sixth surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       { "id": "1", "text": "طسٓمٓ", "translation": "Ta, Seen, Meem" },
@@ -15932,6 +15984,8 @@
   },
   {
     "id": "27",
+    "title": "The Ant",
+    "description": "Surah An-Naml is the twenty-seventh surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -16403,6 +16457,8 @@
   },
   {
     "id": "28",
+    "title": "The Stories",
+    "description": "Surah Al-Kasas is the twenty-eighth surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       { "id": "1", "text": "طسٓمٓ", "translation": "Ta, Seen, Meem" },
@@ -16845,6 +16901,8 @@
   },
   {
     "id": "29",
+    "title": "The Spider",
+    "description": "Surah Al-Ankabut is the twenty-ninth surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       { "id": "1", "text": "الٓمٓ", "translation": "Alif, Lam, Meem" },
@@ -17192,6 +17250,8 @@
   },
   {
     "id": "30",
+    "title": "The Romans",
+    "description": "Surah Ar-Rum is the thirtieth surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       { "id": "1", "text": "الٓمٓ", "translation": "Alif, Lam, Meem" },
@@ -17494,6 +17554,8 @@
   },
   {
     "id": "31",
+    "title": "Luqman",
+    "description": "Surah Luqman is the thirty-first surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       { "id": "1", "text": "الٓمٓ", "translation": "Alif, Lam, Meem" },
@@ -17666,6 +17728,8 @@
   },
   {
     "id": "32",
+    "title": "The Prostration",
+    "description": "Surah As-Sajda is the thirty-second surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       { "id": "1", "text": "الٓمٓ", "translation": "Alif, Lam, Meem" },
@@ -17818,6 +17882,8 @@
   },
   {
     "id": "33",
+    "title": "The Confederates",
+    "description": "Surah Al-Ahzab is the thirty-third surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -18189,6 +18255,8 @@
   },
   {
     "id": "34",
+    "title": "Sheba",
+    "description": "Surah Saba is the thirty-fourth surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -18465,6 +18533,8 @@
   },
   {
     "id": "35",
+    "title": "The Originator",
+    "description": "Surah Fatir is the thirty-fifth surah of the Quran and it provides detailed discussion on the primary principles and guidelines of a Muslim's life.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -18696,6 +18766,8 @@
   },
   {
     "id": "36",
+    "title": "Ya-Sin",
+    "description": "This surah emphasizes the message of Prophet Muhammad (SAW) and encourages monotheism and faith.",
     "revelation": "Meccan",
     "verses": [
       { "id": "1", "text": "يسٓ", "translation": "Ya, Seen" },
@@ -19113,6 +19185,8 @@
   },
   {
     "id": "37",
+    "title": "Those who set the Ranks",
+    "description": "This surah recounts the stories of certain prophets and encourages monotheism and piety.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -20029,6 +20103,8 @@
   },
   {
     "id": "38",
+    "title": "Sad",
+    "description": "This surah discusses the stories of David, Solomon, and Job (peace be upon them) and encourages patience.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -20475,6 +20551,8 @@
   },
   {
     "id": "39",
+    "title": "The Groups",
+    "description": "This surah reminds of the fate of believers and disbelievers and encourages repentance.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -20856,6 +20934,8 @@
   },
   {
     "id": "40",
+    "title": "The Forgiver",
+    "description": "This surah emphasizes Allah's mercy and forgiveness and warns against disbelief.",
     "revelation": "Meccan",
     "verses": [
       { "id": "1", "text": "حمٓ", "translation": "Ha, Meem" },
@@ -21283,6 +21363,8 @@
   },
   {
     "id": "41",
+    "title": "Explained in Detail",
+    "description": "This surah emphasizes the clarity of Allah's signs and encourages contemplation.",
     "revelation": "Meccan",
     "verses": [
       { "id": "1", "text": "حمٓ", "translation": "Ha, Meem" },
@@ -21555,6 +21637,8 @@
   },
   {
     "id": "42",
+    "title": "Consultation",
+    "description": "This surah emphasizes the importance of consultation in Islam and cooperation among believers.",
     "revelation": "Meccan",
     "verses": [
       { "id": "1", "text": "حمٓ", "translation": "Ha, Meem" },
@@ -21818,6 +21902,8 @@
   },
   {
     "id": "43",
+    "title": "Ornaments of Gold",
+    "description": "This surah discusses the adornment of worldly life and warns against being deceived by it.",
     "revelation": "Meccan",
     "verses": [
       { "id": "1", "text": "حمٓ", "translation": "Ha, Meem" },
@@ -22265,6 +22351,8 @@
   },
   {
     "id": "44",
+    "title": "The Smoke",
+    "description": "This surah warns of Allah's punishment and encourages repentance.",
     "revelation": "Meccan",
     "verses": [
       { "id": "1", "text": "حمٓ", "translation": "Ha, Meem" },
@@ -22562,6 +22650,8 @@
   },
   {
     "id": "45",
+    "title": "Kneeling",
+    "description": "This surah encourages reflection on Allah's signs and faith.",
     "revelation": "Meccan",
     "verses": [
       { "id": "1", "text": "حمٓ", "translation": "Ha, Meem" },
@@ -22749,6 +22839,8 @@
   },
   {
     "id": "46",
+    "title": "The Sand Dunes",
+    "description": "This surah advises us to consider our relationship with Allah in every action.",
     "revelation": "Meccan",
     "verses": [
       { "id": "1", "text": "حمٓ", "translation": "Ha, Meem" },
@@ -22926,6 +23018,8 @@
   },
   {
     "id": "47",
+    "title": "Muhammad",
+    "description": "This surah encourages faith and patience among Muslims.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -23122,6 +23216,8 @@
   },
   {
     "id": "48",
+    "title": "The Victory",
+    "description": "This surah encourages the advancement and honor of humanity.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -23273,6 +23369,8 @@
   },
   {
     "id": "49",
+    "title": "The Rooms",
+    "description": "This surah encourages good manners and respect for the Prophet (SAW).",
     "revelation": "Medinan",
     "verses": [
       {
@@ -23369,6 +23467,8 @@
   },
   {
     "id": "50",
+    "title": "Qaf",
+    "description": "This surah encourages faith in Allah and repentance.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -23600,6 +23700,8 @@
   },
   {
     "id": "51",
+    "title": "The Winnowing Winds",
+    "description": "This surah advises us to reflect on death and the afterlife.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -23906,6 +24008,8 @@
   },
   {
     "id": "52",
+    "title": "The Mount",
+    "description": "This surah encourages faith in Allah and patience.",
     "revelation": "Meccan",
     "verses": [
       { "id": "1", "text": "وَٱلطُّورِ", "translation": "By the mount" },
@@ -24153,6 +24257,8 @@
   },
   {
     "id": "53",
+    "title": "The Star",
+    "description": "This surah encourages faith in Allah and prayer.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -24469,6 +24575,8 @@
   },
   {
     "id": "54",
+    "title": "The Moon",
+    "description": "This surah encourages faith in Allah and patience.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -24750,6 +24858,8 @@
   },
   {
     "id": "55",
+    "title": "The Most Merciful",
+    "description": "This surah encourages faith in Allah and gratitude.",
     "revelation": "Medinan",
     "verses": [
       { "id": "1", "text": "ٱلرَّحۡمَٰنُ", "translation": "The Most Merciful" },
@@ -25138,6 +25248,8 @@
   },
   {
     "id": "56",
+    "title": "The Inevitable",
+    "description": "This surah encourages faith in Allah and honesty.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -25624,6 +25736,8 @@
   },
   {
     "id": "57",
+    "title": "The Iron",
+    "description": "This surah encourages faith in Allah and patience.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -25775,6 +25889,8 @@
   },
   {
     "id": "58",
+    "title": "The Pleading",
+    "description": "This surah encourages reconciliation and justice.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -25891,6 +26007,8 @@
   },
   {
     "id": "59",
+    "title": "The Exile",
+    "description": "This surah encourages faith in Allah and patience.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -26017,6 +26135,8 @@
   },
   {
     "id": "60",
+    "title": "The Examined One",
+    "description": "This surah encourages faith in Allah and patience.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -26088,6 +26208,8 @@
   },
   {
     "id": "61",
+    "title": "The Ranks",
+    "description": "This surah encourages faith in Allah and striving.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -26164,6 +26286,8 @@
   },
   {
     "id": "62",
+    "title": "Friday",
+    "description": "This surah encourages prayer and faith.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -26225,6 +26349,8 @@
   },
   {
     "id": "63",
+    "title": "The Hypocrites",
+    "description": "This surah encourages faith in Allah and honesty.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -26286,6 +26412,8 @@
   },
   {
     "id": "64",
+    "title": "The Mutual Disillusion",
+    "description": "This surah encourages faith in Allah and patience.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -26382,6 +26510,8 @@
   },
   {
     "id": "65",
+    "title": "Divorce",
+    "description": "This surah encourages patience and faith.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -26448,6 +26578,8 @@
   },
   {
     "id": "66",
+    "title": "The Prohibition",
+    "description": "This surah encourages obedience and faith.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -26514,6 +26646,8 @@
   },
   {
     "id": "67",
+    "title": "The Kingdom",
+    "description": "This surah encourages faith in Allah and patience.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -26670,6 +26804,8 @@
   },
   {
     "id": "68",
+    "title": "The Pen",
+    "description": "This surah encourages faith in Allah and patience.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -26936,6 +27072,8 @@
   },
   {
     "id": "69",
+    "title": "The Inevitable",
+    "description": "This surah encourages faith in Allah and patience.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -27202,6 +27340,8 @@
   },
   {
     "id": "70",
+    "title": "The Ascending Stairways",
+    "description": "This surah encourages faith in Allah and patience.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -27428,6 +27568,8 @@
   },
   {
     "id": "71",
+    "title": "Noah",
+    "description": "This surah encourages faith in Allah and patience.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -27574,6 +27716,8 @@
   },
   {
     "id": "72",
+    "title": "The Jinn",
+    "description": "This surah encourages faith in Allah and patience.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -27720,6 +27864,8 @@
   },
   {
     "id": "73",
+    "title": "The Enshrouded One",
+    "description": "This surah encourages prayer and faith.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -27826,6 +27972,8 @@
   },
   {
     "id": "74",
+    "title": "The Cloaked One",
+    "description": "This surah encourages prayer and faith.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -28108,6 +28256,8 @@
   },
   {
     "id": "75",
+    "title": "The Resurrection",
+    "description": "This surah encourages faith in Allah and patience.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -28314,6 +28464,8 @@
   },
   {
     "id": "76",
+    "title": "The Human",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -28475,6 +28627,8 @@
   },
   {
     "id": "77",
+    "title": "The Emissaries",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -28731,6 +28885,8 @@
   },
   {
     "id": "78",
+    "title": "The Tidings",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -28937,6 +29093,8 @@
   },
   {
     "id": "79",
+    "title": "Those Who Drag Forth",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -29173,6 +29331,8 @@
   },
   {
     "id": "80",
+    "title": "He Frowned",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -29389,6 +29549,8 @@
   },
   {
     "id": "81",
+    "title": "The Overthrowing",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -29540,6 +29702,8 @@
   },
   {
     "id": "82",
+    "title": "The Cleaving",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -29641,6 +29805,8 @@
   },
   {
     "id": "83",
+    "title": "The Defrauding",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -29827,6 +29993,8 @@
   },
   {
     "id": "84",
+    "title": "The Splitting Open",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -29958,6 +30126,8 @@
   },
   {
     "id": "85",
+    "title": "The Constellations",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -30074,6 +30244,8 @@
   },
   {
     "id": "86",
+    "title": "The Morning Star",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -30165,6 +30337,8 @@
   },
   {
     "id": "87",
+    "title": "The Most High",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -30266,6 +30440,8 @@
   },
   {
     "id": "88",
+    "title": "The Overwhelming",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -30402,6 +30578,8 @@
   },
   {
     "id": "89",
+    "title": "The Dawn",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       { "id": "1", "text": "وَٱلۡفَجۡرِ", "translation": "By the dawn" },
@@ -30554,6 +30732,8 @@
   },
   {
     "id": "90",
+    "title": "The City",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -30660,6 +30840,8 @@
   },
   {
     "id": "91",
+    "title": "The Sun",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -30741,6 +30923,8 @@
   },
   {
     "id": "92",
+    "title": "The Night",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -30852,6 +31036,8 @@
   },
   {
     "id": "93",
+    "title": "The Morning Hours",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -30913,6 +31099,8 @@
   },
   {
     "id": "94",
+    "title": "The Relief",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -30959,6 +31147,8 @@
   },
   {
     "id": "95",
+    "title": "The Fig",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31005,6 +31195,8 @@
   },
   {
     "id": "96",
+    "title": "The Clot",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31106,6 +31298,8 @@
   },
   {
     "id": "97",
+    "title": "The Power",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31137,6 +31331,8 @@
   },
   {
     "id": "98",
+    "title": "The Evidence",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -31183,6 +31379,8 @@
   },
   {
     "id": "99",
+    "title": "The Earthquake",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -31229,6 +31427,8 @@
   },
   {
     "id": "100",
+    "title": "The Chargers",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31290,6 +31490,8 @@
   },
   {
     "id": "101",
+    "title": "The Calamity",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31351,6 +31553,8 @@
   },
   {
     "id": "102",
+    "title": "The Rivalry",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31397,6 +31601,8 @@
   },
   {
     "id": "103",
+    "title": "The Declining Day",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       { "id": "1", "text": "وَٱلۡعَصۡرِ", "translation": "By time" },
@@ -31414,6 +31620,8 @@
   },
   {
     "id": "104",
+    "title": "The Slanderer",
+    "description": "This surah encourages honesty and justice.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31465,6 +31673,8 @@
   },
   {
     "id": "105",
+    "title": "The Elephant",
+    "description": "This is the 105th surah of the Quran. It is located in Mecca. It is a surah also known as Surah Sultan Al Fil. It is a surah based on an event given in the Quran. This is a surah based on an event described in the Quran.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31496,6 +31706,8 @@
   },
   {
     "id": "106",
+    "title": "The Quraish",
+    "description": "This is the 106th surah of the Quran. It is located in Mecca. It is a surah based on an event described in the Quran. This is a surah based on an event described in the Quran.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31522,6 +31734,8 @@
   },
   {
     "id": "107",
+    "title": "The Small Kindnesses",
+    "description": "This is the 107th surah of the Quran. It is located in Mecca. It is a surah based on an event described in the Quran. This is a surah based on an event described in the Quran.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31563,6 +31777,8 @@
   },
   {
     "id": "108",
+    "title": "The Abundance",
+    "description": "This is the 108th surah of the Quran. It is located in Mecca. It is a surah based on an event described in the Quran. This is a surah based on an event described in the Quran.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31584,6 +31800,8 @@
   },
   {
     "id": "109",
+    "title": "The Disbelievers",
+    "description": "This is the 109th surah of the Quran. It is located in Mecca. It is a surah based on an event described in the Quran. This is a surah based on an event described in the Quran.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31620,6 +31838,8 @@
   },
   {
     "id": "110",
+    "title": "The Divine Support",
+    "description": "This is the 110th surah of the Quran. It is located in Mecca. It is a surah based on an event described in the Quran. This is a surah based on an event described in the Quran.",
     "revelation": "Medinan",
     "verses": [
       {
@@ -31641,6 +31861,8 @@
   },
   {
     "id": "111",
+    "title": "The Palm Fiber",
+    "description": "This is the 111th surah of the Quran. It is located in Mecca. It is a surah based on an event described in the Quran. This is a surah based on an event described in the Quran.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31672,6 +31894,8 @@
   },
   {
     "id": "112",
+    "title": "The Sincerity",
+    "description": "This is the 112th surah of the Quran. It is located in Mecca. It is a surah based on an event described in the Quran. This is a surah based on an event described in the Quran.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31698,6 +31922,8 @@
   },
   {
     "id": "113",
+    "title": "The Daybreak",
+    "description": "This is the 113th surah of the Quran. It is located in Mecca. It is a surah based on an event described in the Quran. This is a surah based on an event described in the Quran.",
     "revelation": "Meccan",
     "verses": [
       {
@@ -31729,6 +31955,8 @@
   },
   {
     "id": "114",
+    "title": "The Mankind",
+    "description": "This is the 114th surah of the Quran. It is located in Mecca. It is a surah based on an event described in the Quran. This is a surah based on an event described in the Quran.",
     "revelation": "Meccan",
     "verses": [
       {

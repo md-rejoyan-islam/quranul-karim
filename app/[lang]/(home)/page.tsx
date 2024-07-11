@@ -4,6 +4,25 @@ import Header from "@/components/Header";
 import { getDictionary } from "./dictionaries";
 import { numberConverter } from "@/helper/helper";
 
+import type { Metadata, ResolvingMetadata } from "next";
+
+type Props = {
+  params: { lang: string };
+};
+
+export async function generateMetadata(
+  { params }: Props,
+  parent: ResolvingMetadata
+): Promise<Metadata> {
+  const dictionary = await getDictionary(params.lang);
+
+  return {
+    title: dictionary?.title,
+    description: "Surah",
+    url: `/${params.id}`,
+  };
+}
+
 export default async function Home({
   params: { lang = "en" },
 }: {
