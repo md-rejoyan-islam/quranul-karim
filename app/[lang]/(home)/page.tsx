@@ -18,8 +18,13 @@ export async function generateMetadata(
 
   return {
     title: dictionary?.title,
-    description: "Surah",
-    url: `/${params.id}`,
+    description: dictionary?.description,
+    openGraph: {
+      images: "/quran.webp",
+      title: dictionary?.title,
+      description: dictionary?.description,
+      url: new URL(`${process.env.CLIENT_URL}/${params.lang}`),
+    },
   };
 }
 

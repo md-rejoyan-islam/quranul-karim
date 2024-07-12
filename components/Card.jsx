@@ -1,15 +1,32 @@
+"use client";
 import Link from "next/link";
+import { motion } from "framer-motion";
 
-export default async function Card({
-  number,
-  name,
-  meaning,
-  arabic,
-  url,
-  lang,
-}) {
+export default function Card({ number, name, meaning, arabic, url, lang }) {
+  const cardVariants = {
+    offscreen: {
+      y: 300,
+    },
+    onscreen: {
+      y: 50,
+      rotate: -10,
+      transition: {
+        type: "spring",
+        bounce: 0.4,
+        duration: 0.8,
+      },
+    },
+  };
+
   return (
-    <div className="relative bg-bg_surah_card border-border_color  border dark:border-none dark:bg-dark_bg_surah_card dark:hover:bg-[#2b303a93] flex justify-between items-center p-3 mx-2 mt-2 h-[80px] rounded-md cursor-pointer hover:shadow-[0_0px_40px_0px_rgba(1,0,0,0.2)] dark:text-[#bcccdf] ease-out duration-300 active:scale-95">
+    <motion.div
+      initial={{ opacity: 0, y: 50 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      viewport={{ once: true }}
+      whileHover={{ scale: 1.015 }}
+      transition={{ type: "spring", stiffness: 400, damping: 10 }}
+      className="relative bg-bg_surah_card border-border_color  border dark:border-none dark:bg-dark_bg_surah_card dark:hover:bg-[#2b303a93] flex justify-between items-center p-3 mx-2 mt-2 h-[80px] rounded-md cursor-pointer hover:shadow-[0_0px_40px_0px_rgba(1,0,0,0.2)] dark:text-[#bcccdf] ease-out duration-300 active:scale-95"
+    >
       <div className="left-part flex justify-between items-center">
         <ul className="flex shadow-inner w-[2.7rem] h-[2.7rem] rounded-full items-center justify-center   mr-4">
           <li className="text-[17px] bg-bg_surah_number dark:bg-dark_bg_surah_number w-full h-full grid place-content-center  rounded-full">
@@ -28,6 +45,6 @@ export default async function Card({
           href={`/${lang}/surah/${url}`}
         ></Link>
       </div>
-    </div>
+    </motion.div>
   );
 }

@@ -23,7 +23,12 @@ export async function generateMetadata(
   return {
     title: data?.name,
     description: data?.description,
-    url: `/${params.id}`,
+    openGraph: {
+      images: "/quran.webp",
+      title: data?.name,
+      description: data?.description,
+      url: new URL(`${process.env.CLIENT_URL}/${params.lang}/surah/${slug}`),
+    },
   };
 }
 
