@@ -8,7 +8,7 @@ const locales = process.env.LOCALES.split(",");
 
 let defaultLocale = "en";
 
-function getLocale(request) {
+function getLocale(request: Request) {
   const acceptLanguage = request.headers.get("accept-Language") ?? undefined;
 
   const headers = { "accept-language": acceptLanguage };
@@ -18,7 +18,7 @@ function getLocale(request) {
   return match(lenguages, locales, defaultLocale);
 }
 
-export function middleware(request) {
+export function middleware(request: Request) {
   // Check if there is any supported locale in the pathname
   const { pathname } = request.nextUrl;
   const pathnameHasLocale = locales.some(
@@ -36,10 +36,5 @@ export function middleware(request) {
 }
 
 export const config = {
-  matcher: [
-    // Skip all internal paths (_next,assets,api)
-    "/((?!api|static|.*\\..*|_next).*)",
-    // Optional: only run on root (/) URL
-    // '/'
-  ],
+  matcher: ["/((?!api|static|.*\\..*|_next).*)"],
 };
