@@ -15,15 +15,3 @@
   --bg_surah_number: #f8ebd5;
   --dark_bg_surah_number: #0f172a;
 }
-
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
-}
-
-@layer components {
-  .border-color {
-    @apply border-[#46546852];
-  }
-}

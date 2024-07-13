@@ -43,9 +43,7 @@ export default async function Layout({
         revelation={data?.revelation}
         dictionary={dictionary}
       />
-      <main className="bg-bg_secondary dark:bg-dark_bg_primary">
-        {children}
-      </main>
+      <main className="bg-bg_primary dark:bg-dark_bg_primary">{children}</main>
       <Footer />
     </>
   );
