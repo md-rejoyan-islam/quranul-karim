@@ -6,7 +6,7 @@ import Image from "next/image";
 
 export default function Header({ lang }: { lang: string }) {
   return (
-    <nav className="  border-b dark:border-dark_border_color border-border_color   z-50 backdrop-blur-md">
+    <nav className="  border-b dark:border-dark_border_color border-border_color   z-50 backdrop-blur-md sticky top-0">
       <div className="flex justify-between items-center  h-[50px] lg:h-[66px] m-auto  max-w-[1276px] mx-auto">
         <div className="logo-div">
           <Link href="/">

@@ -1,11 +1,16 @@
 import React from "react";
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Inter, Poppins } from "next/font/google";
 import "./globals.css";
 
 import ThemeWrapperProvider from "@/components/themeProvider/ThemeProvider";
 
-const inter = Inter({ subsets: ["latin"] });
+const poppins = Poppins({
+  subsets: ["latin"],
+  weight: "400",
+  weights: [400, 500, 600, 700],
+  style: ["normal", "italic"],
+});
 
 export default function RootLayout({
   children,
@@ -15,7 +20,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={inter.className + " dark:bg-dark_bg_primary bg-bg_primary  "}
+        className={
+          poppins.className + " dark:bg-dark_bg_primary bg-bg_primary  "
+        }
       >
         <ThemeWrapperProvider>{children}</ThemeWrapperProvider>
       </body>
