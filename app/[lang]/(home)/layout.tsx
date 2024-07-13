@@ -20,7 +20,7 @@ export async function generateMetadata(
     title: dictionary?.title,
     description: dictionary?.description,
     openGraph: {
-      images: "/quran.webp",
+      images: `${process.env.CLIENT_URL}/quran.webp`,
       title: dictionary?.title,
       description: dictionary?.description,
       url: `/${lang}`,
