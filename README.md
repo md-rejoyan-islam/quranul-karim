@@ -1,13 +1,11 @@
 # Quranul Karim Multi-Languages
 
-Quranul Karim Multi-Languages is a simple and easy-to-use application that helps you to read the Holy Quran in multiple languages. It supports multiple languages such as Arabic, English, French, German, Spanish, Turkish, Indonesian, Urdu, Malay, and many more. You can easily switch between languages and read the Quran in your preferred language.
-
-The application provides a clean and user-friendly interface that makes it easy to navigate and read the Quran. You can easily search for specific verses or chapters, bookmark your favorite verses, and share them with your friends and family. The app also provides audio recitations of the Quran in multiple languages, so you can listen to the beautiful recitations while reading the text.
+Quranul Karim Multi-Languages is a simple and easy-to-use application that helps you to read the Holy Quran in multiple languages. It supports multiple languages such as Arabic, English, French, Russian, Chinese and Urdu. You can easily switch between languages and read the Quran in your preferred language.The application provides a clean and user-friendly interface that makes it easy to navigate and read the Quran.
 
 ## Features:
 
 - Read the Holy Quran in multiple languages
-- Support for multiple languages( Arabic, English, French, German, Bengali,Chinese, Russian)
+- Support for multiple languages( Urdu, English, French, German, Bengali,Chinese, Russian)
 - Switch between languages with ease
 - Clean and user-friendly interface
 - Dark and light mode
