@@ -1,4 +1,4 @@
-export const numberConverter = (lang, number) => {
+export const numberConverter = (lang: string, number: string) => {
   const numberTrans = require("@/data/number.json");
 
   const changeLangs = ["fr", "zh", "ur", "ru"];

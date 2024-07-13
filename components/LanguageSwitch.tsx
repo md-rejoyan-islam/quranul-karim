@@ -45,7 +45,6 @@ export default function LanguageSwitch({ lang }: { lang: string }) {
           router.push(`/${value.code}`);
         }}
         onClose={() => setQuery("")}
-        // __demoMode
       >
         <div className="relative">
           <ComboboxInput

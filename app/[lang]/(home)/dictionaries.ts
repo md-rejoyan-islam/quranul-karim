@@ -27,7 +27,6 @@ const dictionaries = {
     ),
 };
 
-// Step 1: Define a type for the keys of `dictionaries`.
 type LocaleKey = keyof typeof dictionaries;
 
 export const getDictionary = async (
@@ -61,9 +60,7 @@ export const getDictionary = async (
     ? process.env.LOCALES.split(",")
     : undefined;
 
-  // Step 2: Check if `locale` is one of the keys before accessing it.
   if (locales?.includes(locale) && locale in dictionaries) {
-    // Here we assert that `locale` is a key of `dictionaries`.
     const key = locale as LocaleKey;
     return dictionaries[key]();
   } else return undefined;

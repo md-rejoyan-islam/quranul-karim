@@ -21,7 +21,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={
-          poppins.className + " dark:bg-dark_bg_primary bg-bg_primary  "
+          poppins.className + " dark:bg-dark_bg_primary bg-bg_secondary  "
         }
       >
         <ThemeWrapperProvider>{children}</ThemeWrapperProvider>

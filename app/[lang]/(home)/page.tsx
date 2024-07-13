@@ -1,32 +1,13 @@
-import Footer from "@/components/Footer";
 import SurahCard from "@/components/SurahCard";
-
 import { getDictionary } from "./dictionaries";
-import { numberConverter } from "@/helper/helper";
+import { numberConverter } from "@/lib/helper";
+import { ParamProps, Surah } from "@/lib/definitions";
+import { getAllSurahs } from "@/lib/fetch";
 
-type Props = {
-  params: { lang: string };
-};
-
-interface Surah {
-  id: string;
-  name: string;
-  transliteration: string;
-  translation: string;
-  arabic: string;
-  slug: string;
-}
-
-const getSurahs = async (lang: string): Promise<Surah[]> => {
-  const response = await fetch(`${process.env.SERVER_URL}/${lang}/surah`);
-  const data = await response.json();
-  return data.data;
-};
-
-export default async function Home({ params: { lang = "en" } }: Props) {
+export default async function Home({ params: { lang = "en" } }: ParamProps) {
   const dictionary = await getDictionary(lang);
 
-  const data = await getSurahs(lang);
+  const data = await getAllSurahs(lang);
 
   return (
     <main className="max-w-[1276px] mx-auto  dark:text-[#bcccdf] pb-10 progress-bar">
@@ -41,11 +22,11 @@ export default async function Home({ params: { lang = "en" } }: Props) {
           return (
             <SurahCard
               key={index}
-              meaning={data.translation}
-              number={numberConverter(lang, data.id)}
+              meaning={data?.translation}
+              number={numberConverter(lang, data?.id)}
               arabic={data?.arabic}
-              url={data.slug}
-              name={data.transliteration}
+              url={data?.slug}
+              name={data?.transliteration}
               lang={lang}
             />
           );

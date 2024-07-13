@@ -1,16 +1,12 @@
+import { SurahTitleProps } from "@/lib/definitions";
+
 export default function SurahTitle({
   name,
   meaning,
   number,
   verses,
   revelation,
-}: {
-  name: string;
-  meaning: string;
-  number: number;
-  verses: number;
-  revelation: string;
-}) {
+}: SurahTitleProps) {
   return (
     <div className="middle flex flex-col justify-end items-center relative">
       <div className=" flex justify-center gap-1 items-center">

@@ -1,53 +1,8 @@
-import type { Metadata, ResolvingMetadata } from "next";
+import { ParamProps } from "@/lib/definitions";
+import { getSurahBySlug } from "@/lib/fetch";
 
-type Props = {
-  params: { lang: string; slug: string };
-};
-interface Surah {
-  id: string;
-  name: string;
-  number: number;
-  description: string;
-  verses: Verse[];
-}
-
-interface Verse {
-  id: string;
-  text: string;
-  translation: string;
-}
-
-const getSurah = async (lang: string, slug: string): Promise<Surah> => {
-  const response = await fetch(
-    `${process.env.SERVER_URL}/${lang}/surah/${slug}`
-  );
-  const { data } = await response.json();
-
-  return data;
-};
-
-export async function generateMetadata(
-  { params: { lang, slug } }: Props,
-  parent: ResolvingMetadata
-): Promise<Metadata> {
-  const data = await getSurah(lang, slug);
-
-  return {
-    metadataBase: new URL(`${process.env.CLIENT_URL}/${lang}/surah/${slug}`),
-    title: data?.name,
-    description: data?.description,
-
-    openGraph: {
-      images: "/quran.webp",
-      title: data?.name,
-      description: data?.description,
-      url: new URL(`${process.env.CLIENT_URL}/${lang}/surah/${slug}`),
-    },
-  };
-}
-
-export default async function Surah({ params: { slug, lang } }: Props) {
-  const data = await getSurah(lang, slug);
+export default async function Surah({ params: { slug, lang } }: ParamProps) {
+  const data = await getSurahBySlug(lang, slug);
 
   return (
     <section className="px-4 max-w-[1276px] mx-auto dark:text-[#beccdf]">

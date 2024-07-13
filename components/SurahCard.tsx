@@ -1,6 +1,7 @@
 "use client";
 import Link from "next/link";
 import { motion } from "framer-motion";
+import { SurahCardProps } from "@/lib/definitions";
 
 export default function SurahCard({
   number,
@@ -9,14 +10,7 @@ export default function SurahCard({
   arabic,
   url,
   lang,
-}: {
-  number: number;
-  name: string;
-  meaning: string;
-  arabic: string;
-  url: string;
-  lang: string;
-}) {
+}: SurahCardProps) {
   return (
     <motion.div
       initial={{ opacity: 0, y: 50 }}

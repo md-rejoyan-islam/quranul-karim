@@ -19,9 +19,8 @@ export default function Modal({ children }: { children: React.ReactNode }) {
     <Dialog
       open={isOpen}
       as="div"
-      className="relative z-10 focus:outline-none "
+      className="relative z-[100] focus:outline-none "
       onClose={close}
-      // __demoMode
     >
       <DialogBackdrop className="fixed inset-0 bg-sky-400/20 " />
       <div className="fixed inset-0 z-10 max-w-[1276px] min-h-screen overflow-y-scroll    mx-auto ">

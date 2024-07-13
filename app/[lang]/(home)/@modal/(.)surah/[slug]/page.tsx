@@ -1,46 +1,16 @@
+import type { Metadata, ResolvingMetadata } from "next";
 import SurahHeader from "@/components/SurahHeader";
 import Modal from "./Modal";
 import { getDictionary } from "../../../dictionaries";
-
-import type { Metadata, ResolvingMetadata } from "next";
-
-type Props = {
-  params: { lang: string; slug: string };
-};
-
-interface Surah {
-  id: string;
-  title: string;
-  description: string;
-  name: string;
-  revelation: string;
-  number: string;
-  total_verses: string;
-  translation: string;
-  verses: Verse[];
-}
-
-interface Verse {
-  id: string;
-  text: string;
-  translation: string;
-}
-
-const getSurah = async (lang: string, slug: string): Promise<Surah> => {
-  const response = await fetch(
-    `${process.env.SERVER_URL}/${lang}/surah/${slug}`
-  );
-  const { data } = await response.json();
-
-  return data; // Assuming data is of type Surah
-};
+import { ParamProps, SurahDetails } from "@/lib/definitions";
+import { getSurahBySlug } from "@/lib/fetch";
 
 export async function generateMetadata(
-  { params }: Props,
+  { params }: ParamProps,
   parent: ResolvingMetadata
 ): Promise<Metadata> {
   const { lang, slug } = params;
-  const data = await getSurah(lang, slug);
+  const data = await getSurahBySlug(lang, slug);
 
   return {
     metadataBase: new URL(`${process.env.CLIENT_URL}/${lang}/surah/${slug}`),
@@ -55,9 +25,8 @@ export async function generateMetadata(
   };
 }
 
-export default async function Surah({ params: { lang, slug } }: Props) {
-  const data = await getSurah(lang, slug);
-
+export default async function Surah({ params: { lang, slug } }: ParamProps) {
+  const data = await getSurahBySlug(lang, slug);
   const dictionary = await getDictionary(lang);
 
   return (

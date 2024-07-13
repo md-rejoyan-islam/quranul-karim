@@ -1,23 +1,12 @@
 import React from "react";
+import type { Metadata, ResolvingMetadata } from "next";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
-
-import type { Metadata, ResolvingMetadata } from "next";
 import { getDictionary } from "./dictionaries";
-
-type Props = {
-  params: { lang: string };
-  modal: React.ReactNode;
-};
-
-type LayoutProps = {
-  children: React.ReactNode;
-  params: { lang: string };
-  modal: React.ReactNode;
-};
+import { LayoutProps, MetaDataProps } from "@/lib/definitions";
 
 export async function generateMetadata(
-  { params, modal }: Props,
+  { params, modal }: MetaDataProps,
   parent: ResolvingMetadata
 ): Promise<Metadata> {
   const dictionary = await getDictionary(params.lang);

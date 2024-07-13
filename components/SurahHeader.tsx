@@ -4,6 +4,7 @@ import { GiSettingsKnobs } from "react-icons/gi";
 import { SlArrowLeft } from "react-icons/sl";
 import ModalSetting from "./ModalSetting";
 import { useRouter } from "next/navigation";
+import { SurahHeaderProps } from "@/lib/definitions";
 
 export default function SurahHeader({
   name,
@@ -12,26 +13,14 @@ export default function SurahHeader({
   verses,
   revelation,
   dictionary,
-}: {
-  name: string;
-  meaning: string;
-  number: string;
-  verses: string;
-  revelation: string;
-  dictionary:
-    | {
-        surah: string;
-        ayat: string;
-        revelation: string;
-      }
-    | undefined;
-}) {
+}: SurahHeaderProps) {
   let [isOpen, setIsOpen] = useState(false);
   const router = useRouter();
 
   const close = () => {
     router.back();
   };
+
   return (
     <>
       <nav className=" border-border_color dark:border-dark_border_color sticky top-0 w-full top- z-50 border-b backdrop-blur-md ">
