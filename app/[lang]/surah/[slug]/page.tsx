@@ -1,5 +1,6 @@
 import { ParamProps } from "@/lib/definitions";
 import { getSurahBySlug } from "@/lib/fetch";
+import { redirect } from "next/navigation";
 
 export default async function Surah({ params: { slug, lang } }: ParamProps) {
   const data = await getSurahBySlug(lang, slug);
