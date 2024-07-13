@@ -61,7 +61,7 @@ export default function ModalSetting({
                       setIsDark(!isDark);
                       themeChange();
                     }}
-                    className="flex justify-center items-center rounded-full p-2 w-[195px]  relative cursor-pointer bg-[#f8eede] dark:bg-[#1e212b] tab__bg transision__1s"
+                    className="flex justify-center items-center rounded-full p-2 w-[195px]  relative cursor-pointer bg-[#f1fccf] dark:bg-[#1e212b] tab__bg transision__1s"
                   >
                     <h2 className="z-20 pr-[12px] text-[14px]  flex gap-1 justify-center items-center">
                       <Image
@@ -98,7 +98,7 @@ export default function ModalSetting({
                         para.classList.toggle("hidden");
                       });
                     }}
-                    className="dark:bg-[#1e212b] bg-[#f8eede] flex justify-center items-center rounded-full p-2 w-[100px] relative cursor-pointer  tab__bg"
+                    className="dark:bg-[#1e212b] bg-[#f1fccf] flex justify-center items-center rounded-full p-2 w-[100px] relative cursor-pointer  tab__bg"
                   >
                     <h2 className="z-20 pr-[32px] text-[14px]">না</h2>
                     <h2 className="z-20 pr-[5px] text-[14px]">হ্যা</h2>
@@ -120,7 +120,7 @@ export default function ModalSetting({
                             para.classList.toggle("text-[30px]");
                           });
                         }}
-                        className="flex bg-[#f8eede] dark:bg-[#1e212b] justify-center items-center rounded-full p-2 w-[100px] relative cursor-pointer tab__bg"
+                        className="flex bg-[#f1fccf] dark:bg-[#1e212b] justify-center items-center rounded-full p-2 w-[100px] relative cursor-pointer tab__bg"
                       >
                         <h2 className="z-20 pr-[25px] text-[14px]">ছোট</h2>
                         <h2 className="z-20 pr-[5px] text-[14px]">বড়</h2>
@@ -151,7 +151,7 @@ export default function ModalSetting({
                         para.classList.toggle("hidden");
                       });
                     }}
-                    className="flex bg-[#f8eede] dark:bg-[#1e212b] justify-center items-center rounded-full p-2 w-[100px] relative cursor-pointer tab__bg"
+                    className="flex bg-[#f1fccf] dark:bg-[#1e212b] justify-center items-center rounded-full p-2 w-[100px] relative cursor-pointer tab__bg"
                   >
                     <h2 className="z-20 pr-[32px] text-[14px]">না</h2>
                     <h2 className="z-20 pr-[5px] text-[14px]">হ্যা</h2>
@@ -164,7 +164,7 @@ export default function ModalSetting({
                       <h2 className="pl-4 text-[14px]">অক্ষর সাইজ কেমন হবে?</h2>
 
                       <div
-                        className="flex  bg-[#f8eede] dark:bg-[#1e212b] justify-center items-center rounded-full p-2 w-[100px] relative cursor-pointer tab__bg"
+                        className="flex  bg-[#f1fccf] dark:bg-[#1e212b] justify-center items-center rounded-full p-2 w-[100px] relative cursor-pointer tab__bg"
                         onClick={() => {
                           setIsSmallletter(!isSmallletter);
                           const transitionParas =
