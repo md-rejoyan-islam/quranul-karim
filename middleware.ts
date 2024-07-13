@@ -2,9 +2,9 @@ import { NextResponse } from "next/server";
 import { match } from "@formatjs/intl-localematcher";
 import Negotiator from "negotiator";
 
-// bangla (bn), english (en), urdu (ur), russian (ru), chinese (zh), french (fr)
-
-const locales = process.env.LOCALES.split(",");
+const locales = process.env.LOCALES
+  ? process.env.LOCALES.split(",")
+  : undefined;
 
 let defaultLocale = "en";
 
