@@ -21,8 +21,12 @@ export async function generateMetadata(
   const data = await getSurah(lang, slug);
 
   return {
+    metadataBase: new URL(
+      `${process.env.CLIENT_URL}/${params.lang}/surah/${slug}`
+    ),
     title: data?.name,
     description: data?.description,
+
     openGraph: {
       images: "/quran.webp",
       title: data?.name,

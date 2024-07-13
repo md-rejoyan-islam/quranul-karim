@@ -2,22 +2,14 @@
 import Link from "next/link";
 import { motion } from "framer-motion";
 
-export default function Card({ number, name, meaning, arabic, url, lang }) {
-  const cardVariants = {
-    offscreen: {
-      y: 300,
-    },
-    onscreen: {
-      y: 50,
-      rotate: -10,
-      transition: {
-        type: "spring",
-        bounce: 0.4,
-        duration: 0.8,
-      },
-    },
-  };
-
+export default function SurahCard({
+  number,
+  name,
+  meaning,
+  arabic,
+  url,
+  lang,
+}) {
   return (
     <motion.div
       initial={{ opacity: 0, y: 50 }}
@@ -43,7 +35,7 @@ export default function Card({ number, name, meaning, arabic, url, lang }) {
         <Link
           className="absolute top-0 left-0 right-0 bottom-0 z-10"
           href={`/${lang}/surah/${url}`}
-        ></Link>
+        />
       </div>
     </motion.div>
   );
