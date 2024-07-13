@@ -12,6 +12,19 @@ export default function SurahHeader({
   verses,
   revelation,
   dictionary,
+}: {
+  name: string;
+  meaning: string;
+  number: string;
+  verses: string;
+  revelation: string;
+  dictionary:
+    | {
+        surah: string;
+        ayat: string;
+        revelation: string;
+      }
+    | undefined;
 }) {
   let [isOpen, setIsOpen] = useState(false);
   const router = useRouter();

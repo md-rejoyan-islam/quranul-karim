@@ -9,6 +9,13 @@ export default function SurahCard({
   arabic,
   url,
   lang,
+}: {
+  number: number;
+  name: string;
+  meaning: string;
+  arabic: string;
+  url: string;
+  lang: string;
 }) {
   return (
     <motion.div

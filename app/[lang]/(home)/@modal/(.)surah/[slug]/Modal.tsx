@@ -3,7 +3,7 @@ import { Dialog, DialogBackdrop, DialogPanel } from "@headlessui/react";
 import { useRouter } from "next/navigation";
 import React, { useEffect, useState } from "react";
 
-export default function Modal({ children }) {
+export default function Modal({ children }: { children: React.ReactNode }) {
   const [isOpen, setIsOpen] = useState(false);
   const router = useRouter();
 
@@ -21,7 +21,6 @@ export default function Modal({ children }) {
       as="div"
       className="relative z-10 focus:outline-none "
       onClose={close}
-
       // __demoMode
     >
       <DialogBackdrop className="fixed inset-0 bg-sky-400/20 " />

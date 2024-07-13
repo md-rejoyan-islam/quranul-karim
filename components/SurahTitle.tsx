@@ -4,6 +4,12 @@ export default function SurahTitle({
   number,
   verses,
   revelation,
+}: {
+  name: string;
+  meaning: string;
+  number: number;
+  verses: number;
+  revelation: string;
 }) {
   return (
     <div className="middle flex flex-col justify-end items-center relative">

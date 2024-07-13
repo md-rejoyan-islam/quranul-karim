@@ -8,13 +8,31 @@ type Props = {
   params: { lang: string; slug: string };
 };
 
-const getSurah = async (lang, slug) => {
+interface Surah {
+  id: string;
+  title: string;
+  description: string;
+  name: string;
+  revelation: string;
+  number: string;
+  total_verses: string;
+  translation: string;
+  verses: Verse[];
+}
+
+interface Verse {
+  id: string;
+  text: string;
+  translation: string;
+}
+
+const getSurah = async (lang: string, slug: string): Promise<Surah> => {
   const response = await fetch(
     `${process.env.SERVER_URL}/${lang}/surah/${slug}`
   );
   const { data } = await response.json();
 
-  return data;
+  return data; // Assuming data is of type Surah
 };
 
 export async function generateMetadata(
@@ -25,13 +43,19 @@ export async function generateMetadata(
   const data = await getSurah(lang, slug);
 
   return {
+    metadataBase: new URL(`${process.env.CLIENT_URL}/${lang}/surah/${slug}`),
     title: data?.name,
     description: data?.description,
-    url: `/${params.id}`,
+    openGraph: {
+      images: "/quran.webp",
+      title: data?.name,
+      description: data?.description,
+      url: new URL(`${process.env.CLIENT_URL}/${lang}/surah/${slug}`),
+    },
   };
 }
 
-export default async function Surah({ params: { lang, slug } }) {
+export default async function Surah({ params: { lang, slug } }: Props) {
   const data = await getSurah(lang, slug);
 
   const dictionary = await getDictionary(lang);

@@ -12,7 +12,7 @@ import clsx from "clsx";
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 
-export default function LanguageSwitch({ lang }) {
+export default function LanguageSwitch({ lang }: { lang: string }) {
   const router = useRouter();
 
   const languages = [
@@ -40,7 +40,7 @@ export default function LanguageSwitch({ lang }) {
     <div className="mx-auto  w-32">
       <Combobox
         value={selected}
-        onChange={(value) => {
+        onChange={(value: any) => {
           setSelected(value);
           router.push(`/${value.code}`);
         }}
@@ -53,7 +53,11 @@ export default function LanguageSwitch({ lang }) {
               "w-full rounded-lg bg-bg_primary border border-border_color dark:border-dark_border_color dark:bg-dark_bg_primary py-1 pr-8 pl-3 text-sm/6 dark:text-white",
               "focus:outline-none data-[focus]:outline-2 data-[focus]:-outline-offset-2 dark:data-[focus]:outline-white/25"
             )}
-            displayValue={(language) => language?.name}
+            displayValue={(language: {
+              id: number;
+              name: string;
+              code: string;
+            }) => language?.name}
             onChange={(event) => setQuery(event.target.value)}
           />
           <ComboboxButton className="group absolute inset-y-0 right-0 px-2.5">

@@ -7,6 +7,13 @@ export default async function TitleCard({
   verses,
   revelation,
   lang,
+}: {
+  name: string;
+  meaning: string;
+  number: number;
+  verses: number;
+  revelation: string;
+  lang: string;
 }) {
   return (
     <div className="middle flex flex-col justify-end items-center relative pt-4 pb-1 border-b dark:border-slate-800 w-fit mx-auto">

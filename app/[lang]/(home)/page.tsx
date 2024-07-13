@@ -4,15 +4,29 @@ import SurahCard from "@/components/SurahCard";
 import { getDictionary } from "./dictionaries";
 import { numberConverter } from "@/helper/helper";
 
-export default async function Home({
-  params: { lang = "en" },
-}: {
+type Props = {
   params: { lang: string };
-}) {
-  const dictionary = await getDictionary(lang);
+};
 
+interface Surah {
+  id: string;
+  name: string;
+  transliteration: string;
+  translation: string;
+  arabic: string;
+  slug: string;
+}
+
+const getSurahs = async (lang: string): Promise<Surah[]> => {
   const response = await fetch(`${process.env.SERVER_URL}/${lang}/surah`);
   const data = await response.json();
+  return data.data;
+};
+
+export default async function Home({ params: { lang = "en" } }: Props) {
+  const dictionary = await getDictionary(lang);
+
+  const data = await getSurahs(lang);
 
   return (
     <main className="max-w-[1276px] mx-auto  dark:text-[#bcccdf] pb-10 progress-bar">
@@ -23,7 +37,7 @@ export default async function Home({
         <h4 className="text-[20px]"> {dictionary?.sub_title} </h4>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3  m-auto">
-        {data?.data?.map((data, index) => {
+        {data?.map((data, index) => {
           return (
             <SurahCard
               key={index}

@@ -7,10 +7,17 @@ import { getDictionary } from "./dictionaries";
 
 type Props = {
   params: { lang: string };
+  modal: React.ReactNode;
+};
+
+type LayoutProps = {
+  children: React.ReactNode;
+  params: { lang: string };
+  modal: React.ReactNode;
 };
 
 export async function generateMetadata(
-  { params }: Props,
+  { params, modal }: Props,
   parent: ResolvingMetadata
 ): Promise<Metadata> {
   const dictionary = await getDictionary(params.lang);
@@ -28,14 +35,11 @@ export async function generateMetadata(
   };
 }
 
-export default function RootLayout({
+export default function layout({
   children,
   params: { lang = "en" },
   modal,
-}: Readonly<{
-  children: React.ReactNode;
-  params: { lang: string };
-}>) {
+}: LayoutProps) {
   return (
     <>
       <Header lang={lang} />

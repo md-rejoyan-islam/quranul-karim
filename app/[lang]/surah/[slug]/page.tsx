@@ -3,8 +3,21 @@ import type { Metadata, ResolvingMetadata } from "next";
 type Props = {
   params: { lang: string; slug: string };
 };
+interface Surah {
+  id: string;
+  name: string;
+  number: number;
+  description: string;
+  verses: Verse[];
+}
 
-const getSurah = async (lang, slug) => {
+interface Verse {
+  id: string;
+  text: string;
+  translation: string;
+}
+
+const getSurah = async (lang: string, slug: string): Promise<Surah> => {
   const response = await fetch(
     `${process.env.SERVER_URL}/${lang}/surah/${slug}`
   );
@@ -14,16 +27,13 @@ const getSurah = async (lang, slug) => {
 };
 
 export async function generateMetadata(
-  { params }: Props,
+  { params: { lang, slug } }: Props,
   parent: ResolvingMetadata
 ): Promise<Metadata> {
-  const { lang, slug } = params;
   const data = await getSurah(lang, slug);
 
   return {
-    metadataBase: new URL(
-      `${process.env.CLIENT_URL}/${params.lang}/surah/${slug}`
-    ),
+    metadataBase: new URL(`${process.env.CLIENT_URL}/${lang}/surah/${slug}`),
     title: data?.name,
     description: data?.description,
 
@@ -31,12 +41,12 @@ export async function generateMetadata(
       images: "/quran.webp",
       title: data?.name,
       description: data?.description,
-      url: new URL(`${process.env.CLIENT_URL}/${params.lang}/surah/${slug}`),
+      url: new URL(`${process.env.CLIENT_URL}/${lang}/surah/${slug}`),
     },
   };
 }
 
-export default async function Surah({ params: { slug, lang } }) {
+export default async function Surah({ params: { slug, lang } }: Props) {
   const data = await getSurah(lang, slug);
 
   return (

@@ -5,7 +5,13 @@ import { IoClose } from "react-icons/io5";
 import MovingBorder from "./MovingBorder";
 import { useTheme } from "next-themes";
 
-export default function ModalSetting({ isOpen, setIsOpen }) {
+export default function ModalSetting({
+  isOpen,
+  setIsOpen,
+}: {
+  isOpen: boolean;
+  setIsOpen: (value: boolean) => void;
+}) {
   const { setTheme, theme } = useTheme();
 
   const themeChange = () => {
