@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Quranul Karim Multi-Languages
 
-## Getting Started
+Quranul Karim Multi-Languages is a simple and easy-to-use application that helps you to read the Holy Quran in multiple languages. It supports multiple languages such as Arabic, English, French, German, Spanish, Turkish, Indonesian, Urdu, Malay, and many more. You can easily switch between languages and read the Quran in your preferred language.
 
-First, run the development server:
+The application provides a clean and user-friendly interface that makes it easy to navigate and read the Quran. You can easily search for specific verses or chapters, bookmark your favorite verses, and share them with your friends and family. The app also provides audio recitations of the Quran in multiple languages, so you can listen to the beautiful recitations while reading the text.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Read the Holy Quran in multiple languages
+- Support for multiple languages( Arabic, English, French, German, Bengali,Chinese, Russian)
+- Switch between languages with ease
+- Clean and user-friendly interface
+- Dark and light mode
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Technologies Used:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Next.js
+- Tailwind CSS
+- TypeScript
+- Frame Motion
 
-## Learn More
+## Languages Api:
 
-To learn more about Next.js, take a look at the following resources:
+- Bengali: https://quranul-karim-multi-languages.vercel.app/api/v1/bn/surah
+- Chinese: https://quranul-karim-multi-languages.vercel.app/api/v1/zh/surah
+- Russian: https://quranul-karim-multi-languages.vercel.app/api/v1/ru/surah
+- English: https://quranul-karim-multi-languages.vercel.app/api/v1/en/surah
+- French: https://quranul-karim-multi-languages.vercel.app/api/v1/fr/surah
+- Urdu: https://quranul-karim-multi-languages.vercel.app/api/v1/ur/surah
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Details Languages Api:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Bengali: https://quranul-karim-multi-languages.vercel.app/api/v1/bn/surah/[slug]
+- Chinese: https://quranul-karim-multi-languages.vercel.app/api/v1/zh/surah/[slug]
+- Russian: https://quranul-karim-multi-languages.vercel.app/api/v1/ru/surah/[slug]
+- English: https://quranul-karim-multi-languages.vercel.app/api/v1/en/surah/[slug]
+- French: https://quranul-karim-multi-languages.vercel.app/api/v1/fr/surah/[slug]
+- Urdu: https://quranul-karim-multi-languages.vercel.app/api/v1/ur/surah/[slug]
 
-## Deploy on Vercel
+## Preview:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[Quranul Karim Multi-Languages](https://quranul-karim-multi-languages.vercel.app)
