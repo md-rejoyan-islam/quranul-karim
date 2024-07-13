@@ -6,10 +6,9 @@ import { ParamProps, SurahDetails } from "@/lib/definitions";
 import { getSurahBySlug } from "@/lib/fetch";
 
 export async function generateMetadata(
-  { params }: ParamProps,
+  { params: { lang, slug } }: ParamProps,
   parent: ResolvingMetadata
 ): Promise<Metadata> {
-  const { lang, slug } = params;
   const data = await getSurahBySlug(lang, slug);
 
   return {

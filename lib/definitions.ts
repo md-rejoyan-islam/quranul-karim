@@ -1,5 +1,3 @@
-import { SurahHeader } from "@/components/SurahHeader";
-import { SurahCard } from "@/components/SurahCard";
 import React from "react";
 
 export interface Surah {
@@ -30,18 +28,28 @@ export interface Verse {
 }
 
 export type ParamProps = {
-  params: { lang?: string; slug?: string };
+  params: { lang: string; slug: string };
 };
 
 export type LayoutProps = {
   children: React.ReactNode;
-  params?: { lang: string };
-  modal?: React.ReactNode;
+  params: { lang: string; slug: string };
+};
+
+export type ModalLayoutProps = {
+  children: React.ReactNode;
+  params: { lang: string };
+  modal: React.ReactNode;
 };
 
 export type MetaDataProps = {
   params: { lang: string };
-  modal?: React.ReactNode;
+  modal: React.ReactNode;
+};
+
+export type ModalMetaDataProps = {
+  params: { lang: string };
+  modal: React.ReactNode;
 };
 
 export type SurahCardProps = {
@@ -74,4 +82,13 @@ export type SurahTitleProps = {
   number: number;
   verses: number;
   revelation: string;
+};
+
+export type Langs = {
+  en: string;
+  fr: string;
+  zh: string;
+  ur: string;
+  ru: string;
+  bn: string;
 };

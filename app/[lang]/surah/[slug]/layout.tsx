@@ -41,7 +41,6 @@ export default async function Layout({
         meaning={data?.translation}
         verses={data?.total_verses}
         revelation={data?.revelation}
-        lang={lang}
         dictionary={dictionary}
       />
       <main className="bg-bg_secondary dark:bg-dark_bg_primary">

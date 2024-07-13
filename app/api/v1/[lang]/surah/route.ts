@@ -1,9 +1,14 @@
 import { NextResponse } from "next/server";
 
-export const GET = async (request: Request, context) => {
+export const GET = async (
+  request: Request,
+  {
+    params: { lang },
+  }: {
+    params: { lang: string };
+  }
+) => {
   try {
-    const { lang } = context.params;
-
     const response = require(`@/data/${[lang]}/${[lang]}.main.json`);
     return NextResponse.json({
       status: 200,
@@ -11,9 +16,10 @@ export const GET = async (request: Request, context) => {
       data: response,
     });
   } catch (error) {
+    const typedError = error as { error: { message?: string } };
     return NextResponse.json({
       status: 500,
-      message: error.message,
+      message: typedError.error?.message || "An unexpected error occurred",
       data: null,
     });
   }
