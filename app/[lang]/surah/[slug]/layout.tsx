@@ -12,7 +12,7 @@ export async function generateMetadata(
   const data = await getSurahBySlug(lang, slug);
 
   return {
-    metadataBase: new URL(`${process.env.CLIENT_URL}/${lang}/surah/${slug}`),
+    metadataBase: new URL(`${process.env.CLIENT_URL}`),
     title: data?.name,
     description: data?.description,
 
@@ -20,7 +20,7 @@ export async function generateMetadata(
       images: "/quran.webp",
       title: data?.name,
       description: data?.description,
-      url: new URL(`${process.env.CLIENT_URL}/${lang}/surah/${slug}`),
+      url: `/${lang}/surah/${slug}`,
     },
   };
 }

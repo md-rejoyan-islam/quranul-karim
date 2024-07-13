@@ -16,14 +16,14 @@ export async function generateMetadata(
   const dictionary = await getDictionary(lang);
 
   return {
-    metadataBase: new URL(`${process.env.CLIENT_URL}/${lang}`),
+    metadataBase: new URL(`${process.env.CLIENT_URL}`),
     title: dictionary?.title,
     description: dictionary?.description,
     openGraph: {
       images: "/quran.webp",
       title: dictionary?.title,
       description: dictionary?.description,
-      url: new URL(`${process.env.CLIENT_URL}/${lang}`),
+      url: `/${lang}`,
     },
   };
 }
