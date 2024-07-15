@@ -68,7 +68,7 @@ export default function LanguageSwitch({ lang }: { lang: string }) {
           anchor="bottom"
           transition
           className={clsx(
-            "w-[var(--input-width)] rounded-md border dark:border-dark_border_color bg-bg_primary border-border_color bg-black/10 text-black dark:text-white dark:bg-dark_bg_primary p-1 [--anchor-gap:var(--spacing-1)] empty:invisible",
+            "w-[var(--input-width)] rounded-md border dark:border-dark_border_color bg-[#feeccc] border-border_color  text-black dark:text-white dark:bg-dark_bg_primary p-1 [--anchor-gap:var(--spacing-1)] empty:invisible",
             "transition duration-100 ease-in data-[leave]:data-[closed]:opacity-0  absolute mt-1  z-[100] "
           )}
           style={{
