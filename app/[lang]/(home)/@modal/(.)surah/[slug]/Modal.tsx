@@ -27,7 +27,7 @@ export default function Modal({ children }: { children: React.ReactNode }) {
         <div className="flex  p-2 sm:p-4  items-center justify-center">
           <DialogPanel
             transition
-            className=" w-full    rounded-xl bg-bg_secondary dark:bg-dark_bg_primary p-6 sm:p-2 backdrop-blur-2xl duration-300 ease-out data-[closed]:transform-[scale(95%)] data-[closed]:opacity-0"
+            className=" w-full    rounded-xl bg-bg_secondary dark:bg-dark_bg_primary p-2 backdrop-blur-2xl duration-300 ease-out data-[closed]:transform-[scale(95%)] data-[closed]:opacity-0"
           >
             {children}
           </DialogPanel>
