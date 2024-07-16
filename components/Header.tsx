@@ -11,17 +11,17 @@ export default function Header({ lang }: { lang: string }) {
         <div className="logo-div">
           <Link href="/">
             <Image
-              width={"40"}
-              height={"40"}
+              width={"200"}
+              height={"120"}
               alt="logo_dark"
-              src={"/logo_dark.png"}
+              src={"/logo_dark.webp"}
               className="w-[120px] ml-[15px] hidden dark:block"
             />
             <Image
-              width={"40"}
-              height={"40"}
+              width={"200"}
+              height={"120"}
               alt="logo_light"
-              src="/logo_light.png"
+              src="/logo_light.webp"
               className="w-[120px] ml-[15px] block dark:hidden"
             />
           </Link>
