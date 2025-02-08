@@ -37,7 +37,7 @@ Quranul Karim Multi-Languages is a simple and easy-to-use application that helps
 
 ## LINKS:
 
-[Preview Website](https://quranul-karim-multi-languages.vercel.app)
+[Preview Website](https://quranul-karim-multi-languages.vercel.app) <br/>
 [Github Repository](https://github.com/md-rejoyan-islam/quranul-karim)
 
 ### CONTACT
