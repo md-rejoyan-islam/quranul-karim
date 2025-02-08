@@ -35,6 +35,16 @@ Quranul Karim Multi-Languages is a simple and easy-to-use application that helps
 - French: https://quranul-karim-multi-languages.vercel.app/api/v1/fr/surah/[slug]
 - Urdu: https://quranul-karim-multi-languages.vercel.app/api/v1/ur/surah/[slug]
 
-## Preview:
+## LINKS:
 
-[Quranul Karim Multi-Languages](https://quranul-karim-multi-languages.vercel.app)
+[Preview Website](https://quranul-karim-multi-languages.vercel.app)
+[Github Repository](https://github.com/md-rejoyan-islam/quranul-karim)
+
+### CONTACT
+
+If you have any questions or suggestions, feel free to reach out:
+
+- Email : rejoyanislam0014@gmail.com
+- GitHub : [Rejoyan Islam GitHub](https://github.com/md-rejoyan-islam)
+- LinkedIn : [Rejoyan Islam LinkedIn](https://www.linkedin.com/in/md-rejoyan-islam/)
+- Personal Website : [Rejoyan Islam Portfolio](https://md-rejoyan-islam.github.io/)
