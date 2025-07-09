@@ -16,7 +16,6 @@ export async function generateMetadata({
     metadataBase: new URL(`${process.env.CLIENT_URL}`),
     title: data?.name,
     description: data?.description,
-
     openGraph: {
       images: `${process.env.CLIENT_URL}/quran.webp`,
       title: data?.name,

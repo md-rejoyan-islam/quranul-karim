@@ -16,18 +16,18 @@ export const metadata: Metadata = {
   metadataBase: new URL(`${process.env.CLIENT_URL}`),
   title: "Quranul Karim",
   description:
-    "Read the Holy Quran with English, Arabic, Bengali, and Urdu Translation and Brief Commentary.",
+    "Read the Holy Quran with English Translation and Brief Commentary | Read the Holy Quran with Arabic Ayat and English Translation and Brief Commentary. Read the Holy Quran with English Translation and Brief Commentary. Read the Holy Quran with Arabic Ayat and English Translation and Brief Commentary. Read the Holy Quran with English Translation and Brief Commentary. Read the Holy Quran with Arabic Ayat and English Translation and Brief Commentary. Read the Holy Quran with English Translation and Brief Commentary. Read the Holy Quran with Arabic Ayat and English Translation and Brief Commentary.",
   openGraph: {
     title: "Quranul Karim",
     description:
-      "Read the Holy Quran with English, Arabic, Bengali, and Urdu Translation and Brief Commentary.",
-    images: `${process.env.CLIENT_URL}/quran.webp`,
+      "Read the Holy Quran with English Translation and Brief Commentary | Read the Holy Quran with Arabic Ayat and English Translation and Brief Commentary. Read the Holy Quran with English Translation and Brief Commentary. Read the Holy Quran with Arabic Ayat and English Translation and Brief Commentary. Read the Holy Quran with English Translation and Brief Commentary. Read the Holy Quran with Arabic Ayat and English Translation and Brief Commentary. Read the Holy Quran with English Translation and Brief Commentary. Read the Holy Quran with Arabic Ayat and English Translation and Brief Commentary.",
+    images: `/quran.webp`,
     url: `${process.env.CLIENT_URL}`,
   },
   authors: [
     {
-      name: "Rejoyan",
-      url: "https://rejoyan.com",
+      name: "Md. Rejoyan Islam",
+      url: "https://md-rejoyan-islam.github.io",
     },
   ],
   keywords: [
@@ -59,24 +59,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <head>
-        <meta charSet="utf-8" />
-        <meta
-          name="viewport"
-          content="width=device-width, initial-scale=1, maximum-scale=1"
-        />
-        <meta
-          name="description"
-          content="Read the Holy Quran with English Translation and Brief Commentary | Read the Holy Quran with Arabic Ayat and English Translation and Brief Commentary. Read the Holy Quran with English Translation and Brief Commentary. Read the Holy Quran with Arabic Ayat and English Translation and Brief Commentary. Read the Holy Quran with English Translation and Brief Commentary. Read the Holy Quran with Arabic Ayat and English Translation and Brief Commentary. Read the Holy Quran with English Translation and Brief Commentary. Read the Holy Quran with Arabic Ayat and English Translation and Brief Commentary."
-        />
-        <link rel="icon" href="./favicon.ico" />
-        <link rel="apple-touch-icon" href="./favicon.ico" />
-        <meta
-          property="og:image"
-          content={process.env.CLIENT_URL + "/quran.webp"}
-        />
-      </head>
-
       <body
         className={
           poppins.className + " dark:bg-dark_bg_primary bg-bg_primary  "
