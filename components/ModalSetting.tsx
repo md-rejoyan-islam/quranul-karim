@@ -1,9 +1,12 @@
+"use client";
+import { useSettings } from "@/hooks/useSettings";
 import { Dialog, DialogBackdrop, DialogPanel } from "@headlessui/react";
+import { useTheme } from "next-themes";
 import Image from "next/image";
 import { useState } from "react";
 import { IoClose } from "react-icons/io5";
+import Loading from "./Loading";
 import MovingBorder from "./MovingBorder";
-import { useTheme } from "next-themes";
 
 export default function ModalSetting({
   isOpen,
@@ -23,10 +26,22 @@ export default function ModalSetting({
   }
 
   const [isDark, setIsDark] = useState(theme === "dark" ? true : false);
-  const [showArabic, setShowArabic] = useState(true);
-  const [showTranslate, setShowTranslate] = useState(true);
-  const [isSmallletter, setIsSmallletter] = useState(false);
-  const [isSmallArabic, setIsSmallArabic] = useState(false);
+
+  const {
+    showArabic,
+    setShowArabic,
+    showTranslate,
+    setShowTranslate,
+    isSmallArabic,
+    setIsSmallArabic,
+    isSmallletter,
+    setIsSmallletter,
+    isLoading,
+  } = useSettings();
+
+  if (isLoading) {
+    return <Loading />;
+  }
 
   return (
     <>
@@ -92,11 +107,6 @@ export default function ModalSetting({
                   <div
                     onClick={() => {
                       setShowArabic(!showArabic);
-                      const arabicParas =
-                        document.querySelectorAll(".arabic_text");
-                      arabicParas.forEach((para) => {
-                        para.classList.toggle("hidden");
-                      });
                     }}
                     className="dark:bg-[#1e212b] bg-[#f1fccf] flex justify-center items-center rounded-full p-2 w-[100px] relative cursor-pointer  tab__bg"
                   >
@@ -114,11 +124,6 @@ export default function ModalSetting({
                       <div
                         onClick={() => {
                           setIsSmallArabic(!isSmallArabic);
-                          const arabicParas =
-                            document?.querySelectorAll(".arabic_text");
-                          arabicParas?.forEach((para) => {
-                            para.classList.toggle("text-[30px]");
-                          });
                         }}
                         className="flex bg-[#f1fccf] dark:bg-[#1e212b] justify-center items-center rounded-full p-2 w-[100px] relative cursor-pointer tab__bg"
                       >
@@ -145,11 +150,6 @@ export default function ModalSetting({
                   <div
                     onClick={() => {
                       setShowTranslate(!showTranslate);
-                      const transitionParas =
-                        document?.querySelectorAll(".translation_text");
-                      transitionParas?.forEach((para) => {
-                        para.classList.toggle("hidden");
-                      });
                     }}
                     className="flex bg-[#f1fccf] dark:bg-[#1e212b] justify-center items-center rounded-full p-2 w-[100px] relative cursor-pointer tab__bg"
                   >
@@ -167,11 +167,6 @@ export default function ModalSetting({
                         className="flex  bg-[#f1fccf] dark:bg-[#1e212b] justify-center items-center rounded-full p-2 w-[100px] relative cursor-pointer tab__bg"
                         onClick={() => {
                           setIsSmallletter(!isSmallletter);
-                          const transitionParas =
-                            document?.querySelectorAll(".translation_text");
-                          transitionParas?.forEach((para) => {
-                            para.classList.toggle("text-[28px]");
-                          });
                         }}
                       >
                         <h2 className="z-20 pr-[25px] text-[14px]">ছোট</h2>

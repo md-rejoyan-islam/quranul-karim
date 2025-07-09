@@ -1,15 +1,56 @@
-import React from "react";
 import type { Metadata } from "next";
-import { Inter, Poppins } from "next/font/google";
+import { Poppins } from "next/font/google";
+import React from "react";
 import "./globals.css";
 
-import ThemeWrapperProvider from "@/components/themeProvider/ThemeProvider";
+import { SettingsProvider } from "@/provider/SettingsProvider";
+import ThemeWrapperProvider from "@/provider/ThemeProvider";
 
 const poppins = Poppins({
   subsets: ["latin"],
   weight: ["400", "500", "600", "700"],
   style: ["normal", "italic"],
 });
+
+export const metadata: Metadata = {
+  metadataBase: new URL(`${process.env.CLIENT_URL}`),
+  title: "Quranul Karim",
+  description:
+    "Read the Holy Quran with English, Arabic, Bengali, and Urdu Translation and Brief Commentary.",
+  openGraph: {
+    title: "Quranul Karim",
+    description:
+      "Read the Holy Quran with English, Arabic, Bengali, and Urdu Translation and Brief Commentary.",
+    images: `${process.env.CLIENT_URL}/quran.webp`,
+    url: `${process.env.CLIENT_URL}`,
+  },
+  authors: [
+    {
+      name: "Rejoyan",
+      url: "https://rejoyan.com",
+    },
+  ],
+  keywords: [
+    "Quran",
+    "Quranul Karim",
+    "Holy Quran",
+    "Islam",
+    "Arabic Quran",
+    "Quran Translation",
+    "Quran Commentary",
+    "Read Quran Online",
+    "Islamic Studies",
+  ],
+  creator: "Rejoyan",
+  robots: {
+    index: true,
+    follow: true,
+  },
+  icons: {
+    icon: "/favicon.ico",
+    apple: "/favicon.ico",
+  },
+};
 
 export default function RootLayout({
   children,
@@ -41,7 +82,9 @@ export default function RootLayout({
           poppins.className + " dark:bg-dark_bg_primary bg-bg_primary  "
         }
       >
-        <ThemeWrapperProvider>{children}</ThemeWrapperProvider>
+        <SettingsProvider>
+          <ThemeWrapperProvider>{children}</ThemeWrapperProvider>
+        </SettingsProvider>
       </body>
     </html>
   );

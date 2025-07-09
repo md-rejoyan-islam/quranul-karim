@@ -1,7 +1,6 @@
-"use client";
-import Link from "next/link";
-import { motion } from "framer-motion";
 import { SurahCardProps } from "@/lib/definitions";
+import Link from "next/link";
+import SurahCardBody from "./SurahCardBody";
 
 export default function SurahCard({
   number,
@@ -12,14 +11,7 @@ export default function SurahCard({
   lang,
 }: SurahCardProps) {
   return (
-    <motion.div
-      initial={{ opacity: 0, y: 50 }}
-      whileInView={{ opacity: 1, y: 0 }}
-      viewport={{ once: true }}
-      whileHover={{ scale: 1.015 }}
-      transition={{ type: "spring", stiffness: 400, damping: 10 }}
-      className="relative bg-bg_surah_card border-border_color  border dark:border-none dark:bg-dark_bg_surah_card dark:hover:bg-[#2b303a93] flex justify-between items-center p-3 mx-2 mt-2 h-[80px] rounded-md cursor-pointer hover:shadow-[0_0px_40px_0px_rgba(1,0,0,0.2)] dark:text-[#bcccdf] ease-out duration-300 active:scale-95"
-    >
+    <SurahCardBody>
       <div className="left-part flex justify-between items-center">
         <ul className="flex shadow-inner w-[2.7rem] h-[2.7rem] rounded-full items-center justify-center   mr-4">
           <li className="text-[17px] bg-bg_surah_number dark:bg-dark_bg_surah_number w-full h-full grid place-content-center  rounded-full">
@@ -38,6 +30,6 @@ export default function SurahCard({
           href={`/${lang}/surah/${url}`}
         />
       </div>
-    </motion.div>
+    </SurahCardBody>
   );
 }

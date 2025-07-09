@@ -1,16 +1,15 @@
 import SurahHeader from "@/components/SurahHeader";
-import { getDictionary } from "../../(home)/dictionaries";
 import { LayoutProps, ParamProps } from "@/lib/definitions";
+import { getDictionary } from "../../(home)/dictionaries";
+
+import Footer from "@/components/Footer";
 import NotFound from "@/components/NotFound";
 import { getSurahBySlug } from "@/lib/fetch";
-import type { Metadata, ResolvingMetadata } from "next";
-import Footer from "@/components/Footer";
-import { PageNotFoundError } from "next/dist/shared/lib/utils";
+import type { Metadata } from "next";
 
-export async function generateMetadata(
-  { params: { lang, slug } }: ParamProps,
-  parent: ResolvingMetadata
-): Promise<Metadata> {
+export async function generateMetadata({
+  params: { lang, slug },
+}: ParamProps): Promise<Metadata> {
   const data = await getSurahBySlug(lang, slug);
 
   return {

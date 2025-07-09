@@ -1,10 +1,10 @@
 "use client";
+import { SurahHeaderProps } from "@/lib/definitions";
+import { useRouter } from "next/navigation";
 import { useState } from "react";
 import { GiSettingsKnobs } from "react-icons/gi";
 import { SlArrowLeft } from "react-icons/sl";
 import ModalSetting from "./ModalSetting";
-import { useRouter } from "next/navigation";
-import { SurahHeaderProps } from "@/lib/definitions";
 
 export default function SurahHeader({
   name,
@@ -14,7 +14,7 @@ export default function SurahHeader({
   revelation,
   dictionary,
 }: SurahHeaderProps) {
-  let [isOpen, setIsOpen] = useState(false);
+  const [isOpen, setIsOpen] = useState(false);
   const router = useRouter();
 
   const close = () => {

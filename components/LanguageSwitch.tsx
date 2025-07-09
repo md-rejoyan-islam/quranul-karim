@@ -1,3 +1,4 @@
+"use client";
 import {
   Combobox,
   ComboboxButton,
@@ -5,12 +6,11 @@ import {
   ComboboxOption,
   ComboboxOptions,
 } from "@headlessui/react";
-import { HiChevronDown } from "react-icons/hi";
-import { HiCheck } from "react-icons/hi";
+import { HiCheck, HiChevronDown } from "react-icons/hi";
 
 import clsx from "clsx";
-import { useState } from "react";
 import { useRouter } from "next/navigation";
+import { useState } from "react";
 
 export default function LanguageSwitch({ lang }: { lang: string }) {
   const router = useRouter();

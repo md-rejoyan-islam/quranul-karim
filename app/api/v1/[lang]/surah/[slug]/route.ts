@@ -1,9 +1,7 @@
-import type { ErrorProps } from "next/error";
-
 import { NextResponse } from "next/server";
 
 export const GET = async (
-  request: Request,
+  _request: Request,
   {
     params: { lang, slug },
   }: {

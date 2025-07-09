@@ -1,8 +1,7 @@
-"use client";
-import Link from "next/link";
-import ThemeToggle from "@/components/ThemeToggle";
 import LanguageSwitch from "@/components/LanguageSwitch";
+import ThemeToggle from "@/components/ThemeToggle";
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Header({ lang }: { lang: string }) {
   return (
